@@ -1,6 +1,18 @@
 ### The script has two sections: DATA PREPARATION
 ### and ANALYSES; they should be carried out in sequence
 
+### The three following PACKAGES are used: lme4, rworldmap, colorspace
+# they will get installed if they aren't already running the following
+if ( ("lme4" %in% installed.packages())==FALSE ) {
+	suppressMessages(install.packages("lme4", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+}
+if ( ("rworldmap" %in% installed.packages())==FALSE ) {
+	suppressMessages(install.packages("rworldmap", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+}
+if ( ("colorspace" %in% installed.packages())==FALSE ) {
+	suppressMessages(install.packages("colorspace", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+}
+
 ### DATA PREPARATION
 # download Phoible from zenodo, doi: 10.5281/zenodo.2677911
 # unzip and put the three files contributions.csv, languages.csv
