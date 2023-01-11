@@ -30,6 +30,18 @@ if ( ("colorspace" %in% installed.packages())==FALSE ) {
 # and place the zip file in the working directory
 # (you can verify what the working directory is running getwd() and
 # you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
+# the following code will unzip the relevant files for your,
+# rename to avoid same file names from different datasets
+# and will delete the zip file
+unzip("phoible-v2.0.1.zip", 
+  files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv", 
+  "cldf-datasets-phoible-f36deac/cldf/languages.csv", 
+  "cldf-datasets-phoible-f36deac/cldf/values.csv"), 
+  junkpaths=TRUE)
+file.rename("contributions.csv", "contributions_phoible.csv")
+file.rename("languages.csv", "languages_phoible.csv")
+file.rename("values.csv", "values_phoible.csv")
+file.remove("phoible-v2.0.1.zip")
 
 # unzip and put the three files contributions.csv, languages.csv
 # and values.csv in the current folder
