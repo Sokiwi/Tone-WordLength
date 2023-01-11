@@ -333,9 +333,9 @@ mwl_vals <- seq(2.3, 6.8, 0.1)
 y_preds <- plogis(intercept + slope * mwl_vals)
 df <- data.frame(mwl_vals,y_preds)
 plot(df, type="n", xlab = "Mean word length", ylab = "Probability of having tone / Density mean world length", xlim=c(1,8), ylim=c(0,0.6))
-lines(df, col="red", lwd=2)
-lines(density(wld$forty_mean), col="blue", lwd=2, xlim=c(1,8), ylim=c(0,0.6))
-abline(v = mean(wld$forty_mean), lwd=2, lty="dashed")
+lines(df, lwd=2)
+lines(density(wld$forty_mean), lty="dashed", lwd=2, xlim=c(1,8), ylim=c(0,0.6))
+abline(v = mean(wld$forty_mean), lty="dotted")
 # get summary data on mean word length
 summary(wld$forty_mean)
 
