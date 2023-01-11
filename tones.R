@@ -195,7 +195,7 @@ pho <- cbind(pho, source)
 # this will be used in all analyses
 
 # Prepare the WALS data:
-# download cldf-datasets/wals-v2020.3.zip from https://zenodo.org/record/7385533
+# download wals-v2020.3.zip from https://zenodo.org/record/7385533
 # (doi: 10.5281/zenodo.7385533, version used: v2020.3)
 # and place the zip file in the working directory
 # (you can verify what the working directory is running getwd() and
@@ -203,13 +203,13 @@ pho <- cbind(pho, source)
 # the following code will unzip the relevant files for you,
 # rename to avoid same file names from different datasets,
 # and will delete the zip file
-unzip("cldf-datasets/wals-v2020.3.zip", 
+unzip("wals-v2020.3.zip", 
   files=c("cldf-datasets-wals-878ea47/cldf/languages.csv", 
   "cldf-datasets-wals-878ea47/cldf/values.csv"), 
   junkpaths=TRUE)
 file.rename("languages.csv", "languages_wals.csv")
 file.rename("values.csv", "values_wals.csv")
-file.remove("cldf-datasets/wals-v2020.3.zip")
+file.remove("wals-v2020.3.zip")
 
 # now read the WALS data and extract data on tones
 lgs <- read.csv(file="languages_wals.csv")
@@ -295,8 +295,8 @@ library(lme4)
 full_model <- lmer(count_tones ~ forty_mean + (1|continent/glot_fam), data=pho2, REML = FALSE)
 reduced_model <- lmer(count_tones ~ 1 + (1|continent/glot_fam), data=pho2, REML = FALSE)
 anova(reduced_model, full_model)
-summary(lmer(count_tones ~ forty_mean + (1|continent/glot_fam), data=pho2, REML = FALSE))
 # count_tones is a significant predictor, p = 1.552e-10
+summary(lmer(count_tones ~ forty_mean + (1|continent/glot_fam), data=pho2, REML = FALSE))
 
 # FIGURE 1
 # boxplots for MWL, one per number of tones
