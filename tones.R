@@ -200,22 +200,18 @@ pho <- cbind(pho, source)
 # and place the zip file in the working directory
 # (you can verify what the working directory is running getwd() and
 # you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
-# the following code will unzip the relevant files for your,
-# rename to avoid same file names from different datasets
+# the following code will unzip the relevant files for you,
+# rename to avoid same file names from different datasets,
 # and will delete the zip file
-unzip("phoible-v2.0.1.zip", 
-  files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv", 
-  "cldf-datasets-phoible-f36deac/cldf/languages.csv", 
-  "cldf-datasets-phoible-f36deac/cldf/values.csv"), 
+unzip("cldf-datasets/wals-v2020.3.zip", 
+  files=c("cldf-datasets-wals-878ea47/cldf/languages.csv", 
+  "cldf-datasets-wals-878ea47/cldf/values.csv"), 
   junkpaths=TRUE)
-file.rename("contributions.csv", "contributions_phoible.csv")
-file.rename("languages.csv", "languages_phoible.csv")
-file.rename("values.csv", "values_phoible.csv")
-file.remove("phoible-v2.0.1.zip")
+file.rename("languages.csv", "languages_wals.csv")
+file.rename("values.csv", "values_wals.csv")
+file.remove("cldf-datasets/wals-v2020.3.zip")
 
-# from the Zenodo WALS repository download the zip file, unzip, and 
-# places the files languages.csv and values.csv in the current folder,
-# then rename them as languages_wals.csv and values_wals.csv
+# now read the WALS data and extract data on tones
 lgs <- read.csv(file="languages_wals.csv")
 vls <- read.csv(file="values_wals.csv")
 tone_data <- vls[which(vls$Parameter_ID=="13A"),c("Language_ID","Value")]
@@ -318,7 +314,6 @@ MWL_10 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==10]))
 N <- sapply(list(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10), length)
 boxplot(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10, ylim = c(2,7), xlab="Number of tonal distinctions", ylab="Mean word length", xaxt="n")
 xtick <- c(1:11)
-# axis(side=1, at=xtick, labels = FALSE)
 text(x=xtick, par("usr")[3], labels = c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"), pos = 1, xpd = TRUE)
 text(x=xtick, par("usr")[3], labels = paste("N=", N, sep=""), pos = 3, xpd = TRUE, cex = .8)
 means <- sapply(list(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10), mean)
@@ -371,4 +366,3 @@ palette("default")
 points(cbind(mi_tone$lon, mi_tone$lat), pch=20, 
    col=(mi_tone$cats * 3 + 1), cex=2)
 palette("default")
-
