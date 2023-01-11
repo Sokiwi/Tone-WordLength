@@ -27,9 +27,10 @@ if ( ("colorspace" %in% installed.packages())==FALSE ) {
 # Prepare the Phoible data:
 # download cldf-datasets/phoible-v2.0.1.zip from https://zenodo.org/record/2677911
 # (doi: 10.5281/zenodo.2677911, version used: 2.0.1)
-# and place the zip file in the current folder
-# (you can verify what the current folder is running getwd() and
-# you can )
+# and place the zip file in the working directory
+# (you can verify what the working directory is running getwd() and
+# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
+
 # unzip and put the three files contributions.csv, languages.csv
 # and values.csv in the current folder
 # change their names to contributions_phoible.csv, languages_phoible.csv
