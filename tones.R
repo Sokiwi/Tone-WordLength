@@ -1,4 +1,4 @@
-### The script has three sections: PACKAGES, DATA PREPARATION
+### The script has four sections: PACKAGES, FILE DOWNLOAD, DATA PREPARATION
 ### and ANALYSES; they should be carried out in sequence
 # the script was created under R version 4.2.1
 
@@ -23,13 +23,29 @@ if ( ("colorspace" %in% installed.packages())==FALSE ) {
 # but it is actually recommend to just use the most recent version of any package (and of R)
 # since back compatibility is usually strongly supported.
 
+### FILE DOWNLOAD
+# At this point you should set the working directory to a folder where you
+# want to keep all files relating to this study.
+# You can verify what the working directory is running getwd() and
+# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
+# Now you are ready to download the three datasets used in the study,
+# namely Phoible, ASJP word length data, and WALS.
+# This will be done for you by the script. 
+
+# Phoible data is in cldf-datasets/phoible-v2.0.1.zip downlooaded from https://zenodo.org/record/2677911
+# (doi: 10.5281/zenodo.2677911, version used: 2.0.1)
+download.file("https://zenodo.org/record/2677911/files/cldf-datasets/phoible-v2.0.1.zip", "phoible-v2.0.1.zip")
+
+# ASJP word length data is in the file Data-01 ASJP data raw.txt downloaded from https://zenodo.org/record/6344024
+# (doi: 10.5281/zenodo.6344024, version used: v1)
+download.file("https://zenodo.org/record/6344024/files/Data-01%20ASJP%20data%20raw.txt", "Data-01 ASJP data raw.txt")
+
+# WALS data is in wals-v2020.3.zip downloaded from https://zenodo.org/record/7385533
+# (doi: 10.5281/zenodo.7385533, version used: v2020.3)
+download.file("https://zenodo.org/record/7385533/files/cldf-datasets/wals-v2020.3.zip", "wals-v2020.3.zip")
+
 ### DATA PREPARATION
 # Prepare the Phoible data:
-# download cldf-datasets/phoible-v2.0.1.zip from https://zenodo.org/record/2677911
-# (doi: 10.5281/zenodo.2677911, version used: 2.0.1)
-# and place the zip file in the working directory
-# (you can verify what the working directory is running getwd() and
-# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
 # the following code will unzip the relevant files for you,
 # rename them to avoid same file names from different datasets,
 # and will delete the zip file
@@ -68,12 +84,6 @@ a2 <- a1[-which(a1=="")]
 length(unique(a2)) # 1663
 
 # Prepare the ASJP word length data:
-# download the file Data-01 ASJP data raw.txt from https://zenodo.org/record/6344024
-# (doi: 10.5281/zenodo.6344024, version used: v1)
-# and place the file in the working directory
-# (you can verify what the working directory is running getwd() and
-# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
-
 wld <- read.table(file="Data-01 ASJP data raw.txt", header=TRUE, sep="\t", quote="")
 # get the amount of languages for which there is word length data
 length(wld$forty_mean) # 5289
@@ -195,11 +205,6 @@ pho <- cbind(pho, source)
 # this will be used in all analyses
 
 # Prepare the WALS data:
-# download wals-v2020.3.zip from https://zenodo.org/record/7385533
-# (doi: 10.5281/zenodo.7385533, version used: v2020.3)
-# and place the zip file in the working directory
-# (you can verify what the working directory is running getwd() and
-# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
 # the following code will unzip the relevant files for you,
 # rename to avoid same file names from different datasets,
 # and will delete the zip file
