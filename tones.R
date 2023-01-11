@@ -1,24 +1,39 @@
-### The script has two sections: DATA PREPARATION
+### The script has three sections: PACKAGES, DATA PREPARATION
 ### and ANALYSES; they should be carried out in sequence
+# the script was created under R version 4.2.1
 
-### The three following PACKAGES are used: lme4, rworldmap, colorspace
+### PACKAGES
+# The three following pacakges are used: lme4 (version 1.1.30), 
+# rworldmap (1.3.6), colorspace (version 2.0.3)
 # they will get installed if they aren't already running the following
 if ( ("lme4" %in% installed.packages())==FALSE ) {
-	suppressMessages(install.packages("lme4", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+	install.packages("lme4", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE)
 }
 if ( ("rworldmap" %in% installed.packages())==FALSE ) {
-	suppressMessages(install.packages("rworldmap", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+	install.packages("rworldmap", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE)
 }
 if ( ("colorspace" %in% installed.packages())==FALSE ) {
-	suppressMessages(install.packages("colorspace", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE))
+	install.packages("colorspace", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE)
 }
+# If you want to know if you have the same version as originally used you can
+# check package version writing, e.g. packageVersion("lme4")
+# If you want to install the same version of a package as originally used
+# the install_version() function of the remotes package is helpful (see
+# https://search.r-project.org/CRAN/refmans/remotes/html/install_version.html),
+# but it is actually recommend to just use the most recent version of any package (and of R)
+# since back compatibility is usually strongly supported.
 
 ### DATA PREPARATION
-# download Phoible from zenodo, doi: 10.5281/zenodo.2677911
+# Prepare the Phoible data:
+# download cldf-datasets/phoible-v2.0.1.zip from https://zenodo.org/record/2677911
+# (doi: 10.5281/zenodo.2677911, version used: 2.0.1)
+# and place the zip file in the current folder
+# (you can verify what the current folder is running getwd() and
+# you can )
 # unzip and put the three files contributions.csv, languages.csv
 # and values.csv in the current folder
-# change their names to phoible_contributions.csv, phoible_languages.csv
-# and phoible_value.csv
+# change their names to contributions_phoible.csv, languages_phoible.csv
+# and values_phoible.csv
 
 # the following operations unites the essential data from Phoible in a 
 # data frame called pho
