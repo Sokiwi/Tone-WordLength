@@ -43,11 +43,6 @@ file.rename("languages.csv", "languages_phoible.csv")
 file.rename("values.csv", "values_phoible.csv")
 file.remove("phoible-v2.0.1.zip")
 
-# unzip and put the three files contributions.csv, languages.csv
-# and values.csv in the current folder
-# change their names to contributions_phoible.csv, languages_phoible.csv
-# and values_phoible.csv
-
 # the following operations unites the essential data from Phoible in a 
 # data frame called pho
 contributions <- read.csv(file="contributions_phoible.csv")  # basic data on tones
@@ -72,7 +67,13 @@ a1 <- pho$iso_code[which(!is.na(pho$count_tone))]
 a2 <- a1[-which(a1=="")]
 length(unique(a2)) # 1663
 
+# Prepare the ASJP word length data:
 # download the file Data-01 ASJP data raw.txt from https://zenodo.org/record/6344024
+# (doi: 10.5281/zenodo.6344024, version used: v1)
+# and place the file in the working directory
+# (you can verify what the working directory is running getwd() and
+# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
+
 wld <- read.table(file="Data-01 ASJP data raw.txt", header=TRUE, sep="\t", quote="")
 # get the amount of languages for which there is word length data
 length(wld$forty_mean) # 5289
@@ -192,6 +193,25 @@ pho <- cbind(pho, source)
 # from here on data are added from WALS
 # and a new object, pho2, is created
 # this will be used in all analyses
+
+# Prepare the WALS data:
+# download cldf-datasets/wals-v2020.3.zip from https://zenodo.org/record/7385533
+# (doi: 10.5281/zenodo.7385533, version used: v2020.3)
+# and place the zip file in the working directory
+# (you can verify what the working directory is running getwd() and
+# you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
+# the following code will unzip the relevant files for your,
+# rename to avoid same file names from different datasets
+# and will delete the zip file
+unzip("phoible-v2.0.1.zip", 
+  files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv", 
+  "cldf-datasets-phoible-f36deac/cldf/languages.csv", 
+  "cldf-datasets-phoible-f36deac/cldf/values.csv"), 
+  junkpaths=TRUE)
+file.rename("contributions.csv", "contributions_phoible.csv")
+file.rename("languages.csv", "languages_phoible.csv")
+file.rename("values.csv", "values_phoible.csv")
+file.remove("phoible-v2.0.1.zip")
 
 # from the Zenodo WALS repository download the zip file, unzip, and 
 # places the files languages.csv and values.csv in the current folder,
