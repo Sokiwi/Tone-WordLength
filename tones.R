@@ -3,7 +3,7 @@
 # the script was created under R version 4.2.1
 
 ### PACKAGES
-# The three following pacakges are used: lme4 (version 1.1.30), 
+# The three following packages are used: lme4 (version 1.1.30), 
 # rworldmap (1.3.6), colorspace (version 2.0.3)
 # they will get installed if they aren't already running the following
 if ( ("lme4" %in% installed.packages())==FALSE ) {
@@ -16,7 +16,7 @@ if ( ("colorspace" %in% installed.packages())==FALSE ) {
 	install.packages("colorspace", repos="http://cran.us.r-project.org", verbose=FALSE, quiet=TRUE)
 }
 # If you want to know if you have the same version as originally used you can
-# check package version writing, e.g. packageVersion("lme4")
+# check which package version you have, writing, e.g., packageVersion("lme4")
 # If you want to install the same version of a package as originally used
 # the install_version() function of the remotes package is helpful (see
 # https://search.r-project.org/CRAN/refmans/remotes/html/install_version.html),
@@ -30,8 +30,8 @@ if ( ("colorspace" %in% installed.packages())==FALSE ) {
 # and place the zip file in the working directory
 # (you can verify what the working directory is running getwd() and
 # you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
-# the following code will unzip the relevant files for your,
-# rename to avoid same file names from different datasets
+# the following code will unzip the relevant files for you,
+# rename them to avoid same file names from different datasets,
 # and will delete the zip file
 unzip("phoible-v2.0.1.zip", 
   files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv", 
