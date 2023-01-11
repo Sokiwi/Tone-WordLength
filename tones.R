@@ -317,8 +317,8 @@ xtick <- c(1:11)
 text(x=xtick, par("usr")[3], labels = c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"), pos = 1, xpd = TRUE)
 text(x=xtick, par("usr")[3], labels = paste("N=", N, sep=""), pos = 3, xpd = TRUE, cex = .8)
 means <- sapply(list(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10), mean)
-points(1:11, means, col="red", pch=15, cex=1.5)
-abline(lm(pho2$forty_mean ~  pho2$count_tones), col="red", lwd=2, lty="dashed")
+points(1:11, means, pch=15, cex=1.5)
+abline(lm(pho2$forty_mean ~  pho2$count_tones), lwd=2, lty="dashed")
 summary(lm(pho2$forty_mean ~  pho2$count_tones))
 
 # FIGURE 2
