@@ -1,0 +1,1489 @@
+iso_code	inventory_id	name	Contributor_ID	count_phonemes	count_consonants	count_vowels	count_tones	glot_fam	pop	forty_mean	continent	names	p_a	source	wals_code	wals_value	wals_p_a	round_count_tones	lat	lon
+aal	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	5000	4.2	Africa	AFADE	1	wals	ktk	2	1	NA	11.33	15.33
+aar	1342	Afar	GM	27	17	10	0	Afro-Asiatic	1951000	4.4	Africa	AFAR,AFAR_2,AFAR_3	0	phoible	NA	NA	NA	0	12	42
+abb	1522	Bankon	GM	37	26	7	4	Atlantic-Congo	12000	2.789	Africa	BANKON	1	phoible	NA	NA	NA	4	4.42	9.58
+abi	multiple	abidji	multiple	38.5	21	16.5	1	Atlantic-Congo	50500	3.5	Africa	ABIDJI,ABIDJI_2	1	phoible	NA	NA	NA	1	5.67	-4.58
+abk	multiple	Abkhaz (Abzhywa)	multiple	66	63	3	0	Abkhaz-Adyge	190110	3.962	W and SW Eurasia	ABKHAZ,ABKHAZ_2	0	phoible	abk	1	0	0	43.08	41
+abn	1297	Abua	GM	40	27	10	3	Atlantic-Congo	25000	4.267	Africa	ABUA	1	phoible	NA	NA	NA	3	4.91	6.69
+abs	1684	Ambon Malay	GM	23	18	5	0	Austronesian	250000	4.469	S/SE Asia	AMBON_MALEIS,AMBONESE_MALAY	0	phoible	NA	NA	NA	0	-3.83	128.17
+abu	1521	Abure	GM	38	20	14	4	Atlantic-Congo	55100	3.804	Africa	ABURE,ABURE_2,ABURE_3	1	phoible	NA	NA	NA	4	5.22	-3.64
+acd	1302	Gechode	GM	51	29	22	0	Atlantic-Congo	10400	3.595	Africa	GECHODE,GIKYODE	0	phoible	NA	NA	NA	0	8.4	0.58
+ach	1433	Acholi	GM	29	17	9	3	Nilotic	1527000	3.544	Africa	ACHOLI,ACHOLI_2	1	phoible	NA	NA	NA	3	3	32.67
+acn	multiple	Achang (Lianghe)	multiple	59	36	23	1.5	Sino-Tibetan	62700	3.538	S/SE Asia	ACHANG,XIANDAO	1	phoible	NA	NA	NA	2	25	98.5
+acv	NA	NA	NA	NA	NA	NA	NA	Palaihnihan	10	4.225	W N America	ACHUMAWI	1	wals	acm	2	1	NA	41.5	-121
+acw	534	Meccan Arabic	EA	NA	NA	NA	0	Afro-Asiatic	14483300	4.422	W and SW Eurasia	HIJAZI_ARABIC	0	phoible	NA	NA	NA	0	26	38
+acy	535	Cypriot Maronite Arabic	EA	NA	NA	NA	0	Afro-Asiatic	9760	4.339	W and SW Eurasia	ARABIC_CYPRIOT_SPOKEN	0	phoible	NA	NA	NA	0	35.25	33.5
+ada	692	dangme	AA	39	23	12	4	Atlantic-Congo	1020000	3.289	Africa	DANGME,DANGME_2	1	phoible	NA	NA	NA	4	6.33	-0.12
+adf	531	Dhofari Arabic	EA	NA	NA	NA	0	Afro-Asiatic	105000	4.527	W and SW Eurasia	DHOFARI_ARABIC	0	phoible	NA	NA	NA	0	17.08	54.49
+adj	multiple	adioukrou	multiple	31.5	21	7	3.5	Atlantic-Congo	143000	3.554	Africa	ADIOUKROU,ADIOUKROU_2	1	phoible	NA	NA	NA	4	5.42	-4.58
+adl	1722	Gallong	RA	29	17	12	0	Sino-Tibetan	30000	2.6	S/SE Asia	ADI_GALO,GALO	0	phoible	NA	NA	NA	0	28.23	94.07
+adt	2931	Adnyamathanha	ER	27	24	3	0	Pama-Nyungan	110	4.58	Australia	ADNYAMATHANHA	0	phoible	NA	NA	NA	0	-30.5	139.5
+adx	multiple	Khalong Tibetan	multiple	55.33	48	7.33	0	Sino-Tibetan	1800000	3.263	S/SE Asia	MAQU_TIBETAN	0	phoible	NA	NA	NA	0	34	102.07
+ady	multiple	Adyghe	multiple	59	56	3	0	Abkhaz-Adyge	575900	3.85	W and SW Eurasia	ADYGHE,ADYGHE_2	0	phoible	NA	NA	NA	0	45.23	40.58
+adz	41	Adzera	SPA	25	18	7	0	Austronesian	30000	4.613	S/SE Asia	ADZERA,AMARI,AZERA,YAROS	0	phoible	NA	NA	NA	0	-6.25	146.25
+ael	1091	Ambele	PH	51	38	10	3	Atlantic-Congo	2600	2.538	Africa	AMBELE,AMBELE_2	1	phoible	NA	NA	NA	3	5.92	9.67
+aer	multiple	Arrernte, Central	multiple	39.67	35.67	4	0	Pama-Nyungan	2840	5.096	Australia	AKARA,ARANDA,ARRERNTE_CENTRAL,ARRERNTE_EASTERN,ARRERNTE_EASTERN_2	0	phoible	amp	1	0	0	-24	136
+aey	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	5300	3.329	NG and Oceania	AMELE	0	wals	ame	1	0	NA	-5.25	145.58
+afb	multiple	Standard Arabic (Kuwait)	multiple	NA	NA	NA	0	Afro-Asiatic	8841000	4.25	W and SW Eurasia	ARABIC_GULF_SPOKEN,KUWAITI_ARABIC	0	phoible	NA	NA	NA	0	26	49
+afn	1385	Defaka	GM	42	18	19	5	Ijoid	200	3.433	Africa	DEFAKA	1	phoible	NA	NA	NA	5	4.58	7.5
+afo	1300	Eloyi	GM	51	41	7	3	Atlantic-Congo	25000	3.942	Africa	ELOYI,ELOYI_2,ELOYI_3	1	phoible	NA	NA	NA	3	8	8.17
+afr	1395	Afrikaans	GM	39	16	23	0	Indo-European	7225880	3.362	W and SW Eurasia	AFRIKAANS	0	phoible	NA	NA	NA	0	-31	22
+aft	1295	Afitti	GM	26	17	6	3	Nyimang	4000	4.257	Africa	AFITTI	1	phoible	NA	NA	NA	3	12.47	30.75
+afu	1523	Efutu	GM	50	30	18	2	Atlantic-Congo	129000	3.483	Africa	EFUTU	1	phoible	NA	NA	NA	2	5.33	-0.75
+agb	1540	Leggbo	GM	53	38	12	3	Atlantic-Congo	60000	3.178	Africa	LEGBO,LEGGBO	1	phoible	NA	NA	NA	3	6.02	7.99
+agj	1396	Argobba	GM	38	30	8	0	Afro-Asiatic	46940	4.35	Africa	ARGOBBA	0	phoible	NA	NA	NA	0	10.17	40.08
+agm	NA	NA	NA	NA	NA	NA	NA	Angan	2500	3.923	NG and Oceania	ANGAATAHA	1	wals	ant	2	1	NA	-7.22	146.25
+agq	1524	Aghem	GM	49	28	19	2	Atlantic-Congo	26700	2.814	Africa	AGHEM,AGHEM_2,AGHEM_ISU,AGHEM_WEH,AGHEM_WUM	1	phoible	agh	2	1	2	6.65	10
+agx	486	Aghul (Huppuq’)	EA	NA	NA	NA	0	Nakh-Daghestanian	29300	3.5	W and SW Eurasia	AGUL	0	phoible	NA	NA	NA	0	41.75	47.67
+aha	1400	Ahanta	GM	40	24	14	2	Atlantic-Congo	175000	4.562	Africa	AHANTE	1	phoible	NA	NA	NA	2	4.9	-2
+ahg	1161	Agaw	PH	39	28	7	4	Afro-Asiatic	4830	3.894	Africa	KEMANT,KEMANT_2	1	phoible	NA	NA	NA	4	12.67	37.42
+ahi	1528	Aizi, Tiagba	GM	32	24	8	0	Atlantic-Congo	9000	3.052	Africa	AIZI_TIAGBAMRIN	0	phoible	NA	NA	NA	0	5.28	-4.64
+ahk	multiple	Akha	multiple	50.5	31	18	2	Sino-Tibetan	610860	3.381	S/SE Asia	AKHA,GELANGHE_AKHA	1	phoible	NA	NA	NA	2	21.83	99.83
+ahl	multiple	ahlõ	multiple	33	23	7	3	Atlantic-Congo	7600	3.625	Africa	AHLO	1	phoible	NA	NA	NA	3	6.67	0.67
+ahs	1530	Tinɔr	GM	36	24	9	3	Atlantic-Congo	40000	2.684	Africa	ITOO	1	phoible	NA	NA	NA	3	9.33	7.42
+aht	NA	NA	NA	NA	NA	NA	0	Athabaskan-Eyak-Tlingit	45	3.362	W N America	AHTNA,MANTASTA_AHTENA	0	wals	aht	1	0	NA	62	-145
+ain	196	Ainu	SPA	17	12	5	0	Ainu	10	4.044	N-C Asia	AINU_ASAHIKAWA,AINU_BIHORO,AINU_HIRATORI,AINU_HOROBETSU,AINU_KUSHIRO,AINU_MAOKA,AINU_NAIRO,AINU_NAYORO,AINU_NIIKAPPU,AINU_NUKKIBETSU,AINU_OBIHIRO,AINU_OCHIHO,AINU_OSHAMAMBE,AINU_RAICHISHKA,AINU_SAMANI,AINU_SARU,AINU_SHIRAURA,AINU_SOYA,AINU_TARANTOMARI,AINU_YAKUMO,HOKKAIDO_AINU,KURIL_AINU,SAKHALIN_AINU	0	phoible	ain	2	1	0	43.77	142.37
+aiw	1483	Aari	GM	36	26	10	0	South_Omotic	298300	3.872	Africa	ARI	0	phoible	NA	NA	NA	0	6	36.58
+aja	1250	aja	GM	48	38	10	0	Kresh-Aja	200	4.136	Africa	AJA	0	phoible	NA	NA	NA	0	7.33	25.67
+ajg	multiple	adja	multiple	41	25.5	13	2.5	Atlantic-Congo	1133000	3.421	Africa	AJA_GBE,AJAGBE	1	phoible	NA	NA	NA	2	6.9	1.7
+ajp	532	Palestinian Arabic (Rural)	EA	NA	NA	NA	0	Afro-Asiatic	11480500	4.274	W and SW Eurasia	PALESTINIAN_ARABIC	0	phoible	NA	NA	NA	0	32	35.25
+aka	multiple	Akan	multiple	43.67	22.67	18	3	Atlantic-Congo	8231300	4.101	Africa	AKAN_ASANTE,TWI_ASANTE,TWI_FANTE	1	phoible	akn	2	1	3	6.4	-1.2
+ake	NA	NA	NA	NA	NA	NA	0	Cariban	5850	4.128	S America	AKAWAIO,AKAWAIO_2	0	wals	akw	1	0	NA	6	-59.5
+akp	1320	Siwu	GM	37	20	14	3	Atlantic-Congo	71900	3.141	Africa	AKPAFU,SIWU	1	phoible	NA	NA	NA	3	7.25	0.42
+aks	1572	Akasilimi	GM	52	20	29	3	Atlantic-Congo	59200	4.5	Africa	AKASELEM	1	phoible	NA	NA	NA	3	8.83	1.33
+akz	79	Alabama	SPA	21	15	6	0	Muskogean	370	4.795	E N America	ALABAMA	0	phoible	NA	NA	NA	0	32.33	-87.41
+alc	NA	NA	NA	NA	NA	NA	0	Kawesqar	12	5.25	S America	QAWASQAR	0	wals	qaw	1	0	NA	-49	-75
+ald	1529	Alladian	GM	36	23	11	2	Atlantic-Congo	23000	3.345	Africa	ALLADIAN,ALLADIAN_2	1	phoible	ald	2	1	2	5.17	-4.33
+ale	61	Aleut	SPA	36	30	6	0	Eskimo-Aleut	155	4.897	E N America	ALEUT,ALEUT_2	0	phoible	aea	1	0	0	54	-166
+alh	multiple	Alawa	multiple	27	22.5	4.5	0	Mangarrayi-Maran	12	5.037	Australia	ALAWA	0	phoible	alw	1	0	0	-15.17	134.25
+aln	multiple	Gheg Albanian (North-Eastern)	multiple	43	27	16	0	Indo-European	2223780	3.5	W and SW Eurasia	ALBANIAN_GHEG	0	phoible	NA	NA	NA	0	41.33	20.83
+alr	multiple	Alutor	multiple	27	18	9	0	Chukotko-Kamchatkan	25	6.688	N-C Asia	ALUTOR	0	phoible	NA	NA	NA	0	61	165
+als	multiple	Albanian	multiple	36.5	28.5	8	0	Indo-European	1869040	3.612	W and SW Eurasia	ALBANIAN,ALBANIAN_TOSK	0	phoible	NA	NA	NA	0	41	20
+aly	2702	Alyawarr	ER	43	40	3	0	Pama-Nyungan	1660	4.962	Australia	ALYAWARR_ALYAWARA,ALYAWARR_MACDONALDDOWNS_ALYAWARA,ALYAWARRA	0	phoible	NA	NA	NA	0	-22.5	135
+amc	120	Amahuaca	SPA	22	14	8	0	Pano-Tacanan	520	4.527	S America	AMAHUACA	0	phoible	NA	NA	NA	0	-10.5	-72.5
+ame	112	Amuesha	SPA	29	23	6	0	Arawakan	7520	4.575	S America	AMUESHA	0	phoible	amu	1	0	0	-10.5	-75.42
+amf	NA	NA	NA	NA	NA	NA	NA	South_Omotic	81520	3.862	Africa	BANNA,HAMER_BANNA	1	wals	hmr	2	1	NA	5	36.5
+amg	2666	Amurdak	ER	24	21	3	0	Iwaidjan_Proper	1	5.514	Australia	AMURDAK	0	phoible	NA	NA	NA	0	-12	133
+amh	multiple	Amharic	multiple	63.5	56.5	7	0	Afro-Asiatic	21873820	4.046	Africa	AMHARIC,AMHARIC_2,AMHARIC_3	0	phoible	amh	1	0	0	10	38
+amo	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	12300	3	Africa	AMO	1	wals	amo	2	1	NA	10.33	8.67
+amp	NA	NA	NA	NA	NA	NA	0	Sepik	1530	4.686	NG and Oceania	ALAMBLAK,ALAMBLAK_2	0	wals	ala	1	0	NA	-4.67	143.33
+amu	NA	NA	NA	NA	NA	NA	NA	Otomanguean	45900	3	C America	XOCHISTLAHUACA_AMUZGO	1	wals	amz	3	1	NA	16.83	-98
+amx	multiple	Eastern Anmatyerre	multiple	44	40	4	0	Pama-Nyungan	1000	4.308	Australia	ANMATYERRE	0	phoible	NA	NA	NA	0	-22	133.25
+amy	2641	Emmi	ER	32	27	5	0	Western_Daly	30	5.379	Australia	AMI	0	phoible	NA	NA	NA	0	-13.5	130
+anc	multiple	Angas	multiple	40	27	10	3	Afro-Asiatic	400000	3.074	Africa	ANGAS,ANGAS_NGAS	1	phoible	anc	3	1	3	9.5	9.5
+ani	multiple	Andi	multiple	68	63	5	2	Nakh-Daghestanian	5800	4.425	W and SW Eurasia	ANDI,ANDI_MUNI	1	phoible	NA	NA	NA	2	42.75	46.25
+ann	972	Obolo	PH	37	22	12	3	Atlantic-Congo	250000	3.368	Africa	OBOLO,OBOLO_2	1	phoible	NA	NA	NA	3	4.58	7.83
+ano	NA	NA	NA	NA	NA	NA	NA	Andoque	370	3.929	S America	ANDOQUE	1	wals	adk	2	1	NA	-0.67	-72
+anu	1165	Anywa	PH	47	19	24	4	Nilotic	142600	3.461	Africa	ANYUAK	1	phoible	NA	NA	NA	4	8	33.5
+any	multiple	Anyi Sanvi	multiple	38.33	19	14.67	4.67	Atlantic-Congo	1066400	3.8	Africa	AGNI_ANYIN,AGNI_ANYIN_2,AGNI_INDENIE,AGNI_INDENIE_2,ANYI	1	phoible	NA	NA	NA	5	6.8	-3.2
+aoi	2651	Anindilyakwa	ER	26	22	4	0	Gunwinyguan	1280	6.593	Australia	INGURA	0	phoible	NA	NA	NA	0	-14	136.5
+apc	533	Beirut Arabic	EA	NA	NA	NA	0	Afro-Asiatic	24205200	4.331	W and SW Eurasia	ARABIC_NORTH_LEVANTINE_SPOKEN,DAMASCUS_ARABIC,SAN_ANDRES_ARABIC_1,SAN_ANDRES_ARABIC_2,SAN_ANDRES_ARABIC_3,SYRIAN_ARABIC	0	phoible	NA	NA	NA	0	33.75	36
+apd	659	arabe	AA	62	54	8	0	Afro-Asiatic	31854400	4.429	Africa	ARABIC_SUDANESE_SPOKEN,SUDANESE_ARABIC	0	phoible	NA	NA	NA	0	15.55	32.53
+ape	NA	NA	NA	NA	NA	NA	0	Nuclear_Torricelli	16200	4.353	NG and Oceania	ARAPESH,BUKIYIP	0	wals	arp	1	0	NA	-3.42	143.17
+apj	1232	Jicarilla Apache	PH	56	34	19	3	Athabaskan-Eyak-Tlingit	510	3.243	W N America	JICARILLA,JICARILLA_APACHE	1	phoible	NA	NA	NA	3	36.58	-104
+apm	951	Chiricahua Apache	PH	51	31	16	4	Athabaskan-Eyak-Tlingit	1500	2.914	W N America	CHIRICAHUA	1	phoible	NA	NA	NA	4	33.25	-108
+apn	122	Apinaye	SPA	49	14	35	0	Nuclear-Macro-Je	1500	3.108	S America	APINAYE	0	phoible	api	1	0	0	-5.5	-48
+apq	1702	Andamanese	RA	35	25	10	0	Great_Andamanese	NA	4.859	S/SE Asia	SOUTH_ANDAMAN	0	phoible	gan	1	0	0	12	92.67
+apt	1705	Apatani	RA	40	24	13	3	Sino-Tibetan	28400	3.318	S/SE Asia	APATANI	1	phoible	NA	NA	NA	3	27.5	93.75
+apu	NA	NA	NA	NA	NA	NA	0	Arawakan	2000	4.705	S America	APURINA	0	wals	apu	1	0	NA	-9	-67
+aqc	493	Archi	EA	NA	NA	NA	0	Nakh-Daghestanian	970	3.575	W and SW Eurasia	ARCHI,ARCHI_2	0	phoible	arc	1	0	0	42	46.83
+ard	2761	Arabana	ER	24	21	3	0	Pama-Nyungan	6	4.839	Australia	ARABANA	0	phoible	NA	NA	NA	0	-28.25	136.25
+are	2710	Western Arrernte	ER	44	40	4	0	Pama-Nyungan	1000	5.295	Australia	ARRARNTA_WESTERN,LOWER_ARANDA,SOUTHERN_ARANDA,WESTERN_ARRERNTE	0	phoible	NA	NA	NA	0	-24	132.5
+arg	multiple	Aragonese (Chistabino)	multiple	27	20	7	0	Indo-European	30000	4.675	W and SW Eurasia	ARAGONESE	0	phoible	NA	NA	NA	0	42.17	-0.17
+arh	NA	NA	NA	NA	NA	NA	0	Chibchan	8000	4.211	S America	IKA	0	wals	ika	1	0	NA	10.67	-73.75
+arl	NA	NA	NA	NA	NA	NA	0	Zaparoan	50	5.566	S America	ARABELA	0	wals	arb	1	0	NA	-2	-75.17
+arn	106	Araucanian	SPA	26	20	6	0	Araucanian	258410	4.093	S America	MAPUDUNGUN,MAPUDUNGUN_2,MAPUDUNGUN_3,RANQUELCHE	0	phoible	map	1	0	0	-38	-72
+aro	NA	NA	NA	NA	NA	NA	0	Pano-Tacanan	110	3.974	S America	ARAONA	0	wals	ana	1	0	NA	-12.33	-67.75
+arr	1097	Karo	PH	27	14	11	2	Tupian	200	3.786	S America	KARO_BRAZIL	1	phoible	NA	NA	NA	2	-10.33	-62
+ars	multiple	Najdi Arabic	multiple	33	25	8	0	Afro-Asiatic	4049900	3.95	Africa	NAJDI_ARABIC	0	phoible	NA	NA	NA	0	30.34	42.18
+arv	1525	Arbore	GM	59	49	10	0	Afro-Asiatic	10320	4.5	Africa	ARBORE,ARBORE_2	0	phoible	NA	NA	NA	0	5	36.75
+ary	133	Moroccan Arabic	SPA	78	74	4	0	Afro-Asiatic	27486000	4.175	Africa	MOROCCAN_ARABIC,MOROCCAN_ARABIC_2	0	phoible	NA	NA	NA	0	34	-6
+arz	132	Egyptian Arabic	SPA	67	58	9	0	Afro-Asiatic	64422000	4.425	Africa	CAIRO_ARABIC	0	phoible	aeg	1	0	0	30	31
+asm	multiple	Assamese	multiple	35.33	22.33	13	0	Indo-European	12828310	3.541	W and SW Eurasia	ASSAMESE	0	phoible	NA	NA	NA	0	26	93
+ast	multiple	Asturian (Western)	multiple	26.5	19.5	7	0	Indo-European	110000	4.654	W and SW Eurasia	ASTURIAN	0	phoible	NA	NA	NA	0	43.25	-6
+atb	1229	Zaiwa	PH	32	21	8	3	Sino-Tibetan	110000	3.132	S/SE Asia	ZAIWA	1	phoible	NA	NA	NA	3	24.33	98
+ati	1550	Attie	GM	47	24	15	8	Atlantic-Congo	621000	2.993	Africa	ATTIE,ATTIE_2	1	phoible	NA	NA	NA	8	6	-3.75
+atv	multiple	Northern Altai (Kumandy)	multiple	34	18	16	0	Turkic	57400	3.487	N-C Asia	NORTH_ALTAI	0	phoible	NA	NA	NA	0	51	88
+auc	NA	NA	NA	NA	NA	NA	0	Waorani	1650	4.632	S America	WAORANI	0	wals	wao	1	0	NA	-1	-76.5
+auy	57	Auyana	SPA	20	11	6	3	Nuclear_Trans_New_Guinea	11100	5.447	NG and Oceania	AUYANA	1	phoible	NA	NA	NA	3	-6.5	145.75
+ava	multiple	Avar (Chadakolob)	multiple	64	59	5	2	Nakh-Daghestanian	766500	3.665	W and SW Eurasia	AVAR,AVAR_2,AVAR_ANDALAL,AVAR_ANTSUKH,AVAR_BATLUKH,AVAR_HID,AVAR_KARAKH,AVAR_KUSUR,AVAR_ZAKATALY	1	phoible	ava	1	0	2	42.5	46.5
+avi	1358	Avikam	GM	34	25	6	3	Atlantic-Congo	21000	3.808	Africa	AVIKAM,AVIKAM_2	1	phoible	NA	NA	NA	3	5.1	-5.43
+avl	536	Negev Arabic	EA	NA	NA	NA	0	Afro-Asiatic	2239000	4.571	W and SW Eurasia	EASTERN_EGYPTIAN_BEDAWI_ARABIC	0	phoible	NA	NA	NA	0	29.67	33.61
+avn	1296	Avatime	GM	50	28	18	4	Atlantic-Congo	27200	4.871	Africa	SIDEME	1	phoible	NA	NA	NA	4	6.83	0.42
+avu	660	avokaya	AA	55	37	14	4	Central_Sudanic	65000	3.38	Africa	AVOKAYA,AVOKAYA_2,OJIGA,OJILA	1	phoible	NA	NA	NA	4	4.86	29.97
+awa	multiple	Awadhi	multiple	45	37	8	0	Indo-European	3032000	3.784	W and SW Eurasia	AWADHI	0	phoible	NA	NA	NA	0	27.5	81.5
+awn	multiple	Awiya	multiple	39	29	6.5	3.5	Afro-Asiatic	553400	3.625	Africa	AWNGI,AWNGI_2	1	phoible	awn	2	1	4	10.83	36.67
+aye	1545	Uwu	GM	43	26	14	3	Atlantic-Congo	3000	3.392	Africa	AYERE	1	phoible	NA	NA	NA	3	7.5	6
+ayg	1303	Genyanga	GM	53	31	22	0	Atlantic-Congo	16500	3.786	Africa	GENYANGA	0	phoible	NA	NA	NA	0	8.11	0.83
+ayn	530	San’ani Arabic	EA	NA	NA	NA	0	Afro-Asiatic	11350000	4.625	W and SW Eurasia	YEMEN_SANAANI_ARABIC	0	phoible	NA	NA	NA	0	16	44
+ayp	526	Baghdad Arabic (Muslim)	EA	NA	NA	NA	0	Afro-Asiatic	8694000	4.242	W and SW Eurasia	NORTH_MESOPOTAMIAN_ARABIC	0	phoible	NA	NA	NA	0	36.3	42
+ayr	NA	NA	NA	NA	NA	NA	0	Aymaran	1464100	4.468	S America	CENTRAL_AYMARA,CENTRAL_AYMARA_2,PUKI,SULLKATITI_TITIRI	0	wals	aym	1	0	NA	-17	-69
+ayz	NA	NA	NA	NA	NA	NA	0	Maybrat	20000	3.364	NG and Oceania	MAI_BRAT	0	wals	may	1	0	NA	-1.33	132.5
+azb	multiple	South Azerbaijani (Tabriz)	multiple	33	24	9	0	Turkic	13823350	3.357	N-C Asia	AZERBAIJANI_SOUTHERN	0	phoible	aze	1	0	0	37.5	47
+azj	multiple	Azerbaijani	multiple	36.5	24.5	12	0	Turkic	9232060	3.719	N-C Asia	AZERBAIJANI,AZERBAIJANI_NORTH,AZERBAIJANI_NORTH_2,TEREKEME_AZERI	0	phoible	NA	NA	NA	0	40.5	48.5
+bag	1573	Tuki	GM	39	25	10	4	Atlantic-Congo	26000	3.419	Africa	A61_NGORO_ASOM,TUKI,TUKI_2	1	phoible	NA	NA	NA	4	4.58	11.5
+bak	multiple	Bashkir (Standard)	multiple	39	28	11	0	Turkic	1249240	3.981	N-C Asia	BASHKIR,BASHKIR_2	0	phoible	bsk	1	0	0	53	58
+bam	multiple	bambara	multiple	50.5	26	22.5	2	Mande	4102320	3.761	Africa	BAMBARA,BAMBARA_2,BAMBARA_3,BAMBARA_4	1	phoible	bam	2	1	2	12.5	-7.5
+ban	1693	Balinese	GM	24	18	6	0	Austronesian	3300000	4.288	S/SE Asia	BALI	0	phoible	NA	NA	NA	0	-8.33	115.25
+bao	114	Barasano	SPA	25	11	12	2	Tucanoan	131	4.434	S America	BARA,WAIMAHA,WAIMAHA_2	1	phoible	bno	2	1	2	0.33	-70.25
+bas	670	basaa	AA	41	29	7	5	Atlantic-Congo	300000	2.514	Africa	BASAA,BASAA_2	1	phoible	NA	NA	NA	5	3.92	10.5
+bav	661	babungo	AA	82	56	17	9	Atlantic-Congo	27000	2.694	Africa	BABUNGO,VENGO	1	phoible	NA	NA	NA	9	6.12	10.42
+bba	669	bariba	AA	31	17	12	2	Atlantic-Congo	996000	3.6	Africa	BAATONUM,BAATONUM_2	1	phoible	brb	3	1	2	10	2.05
+bbc	33	Batak	SPA	21	16	5	0	Austronesian	2000000	4.735	S/SE Asia	TOBA_BATAK	0	phoible	bto	1	0	0	2.5	99
+bbj	1384	Banjun	GM	59	36	18	5	Atlantic-Congo	350000	2.611	Africa	GHOMALA_1,GHOMALA_2	1	phoible	NA	NA	NA	5	5.42	10.33
+bbl	multiple	Bats	multiple	51	33	18	0	Nakh-Daghestanian	3200	3.5	W and SW Eurasia	BATS	0	phoible	ttu	1	0	0	42.5	45.5
+bbo	multiple	bobo	multiple	38.5	20.5	15.5	2.5	Mande	60000	3.391	Africa	NORTHERN_BOBO_MANDARE	1	phoible	bbf	3	1	2	12.42	-4.33
+bbp	1308	Banda, West Central	GM	46	31	10	5	Atlantic-Congo	7500	3.628	Africa	DAKPA,DAKPA_2,DAKPA_3,GBI,GBI_2,GOLO,NORTHERN_GBAGA,WOJO,WOJO_2	1	phoible	NA	NA	NA	5	5.73	20.05
+bby	1186	Befang	PH	59	43	14	2	Atlantic-Congo	2980	2.706	Africa	MODELE	1	phoible	NA	NA	NA	2	6.33	10
+bca	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	800000	2.792	S/SE Asia	DASHI_BAI,ERYUAN_BAI,HEQING_BAI,JIANCHUAN_BAI,JIANCHUAN_BAI_2,JINDUN_BAI,JINXING_BAI,LONGMEN_BAI,SHI_BAI,XISHAN_BAI,YUNLONG_BAI	1	wals	bai	3	1	NA	26.31	100.22
+bcc	multiple	Southern Balochi	multiple	32	24	8	0	Indo-European	3584300	3.597	W and SW Eurasia	SOUTHERN_BALOCHI	0	phoible	NA	NA	NA	0	25.11	59.74
+bci	668	baoulé	AA	37	21	12	4	Atlantic-Congo	3544060	3.231	Africa	BAULE,BAULE_2	1	phoible	NA	NA	NA	4	7	-5
+bcj	multiple	Bardi	multiple	24.5	17.5	7	0	Nyulnyulan	30	5.289	Australia	BARDI	0	phoible	brd	1	0	0	-16.58	122.92
+bck	2630	Bunuba	ER	24	20	4	0	Bunaban	40	5.588	Australia	BUNABA	0	phoible	NA	NA	NA	0	-17.75	125.75
+bcl	1695	Bikol (Bicolano)	GM	28	23	5	0	Austronesian	2500000	4.983	S/SE Asia	CENTRAL_BICOLANO,LEGAZPI,NAGA	0	phoible	NA	NA	NA	0	13.33	123.5
+bcq	multiple	Gimira	multiple	48	37.5	5	5.5	Ta-Ne-Omotic	370600	3.212	Africa	BENCHO,SHE	1	phoible	NA	NA	NA	6	7	35.75
+bcs	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	30000	3.758	Africa	KOHUMONO,KOHUMONO_2	1	wals	koh	3	1	NA	6.03	8.2
+bcw	1248	bana	GM	44	37	3	4	Afro-Asiatic	23000	4.296	Africa	BANA,BANA_2	1	phoible	NA	NA	NA	4	10.25	13.35
+bde	1437	Bade	GM	46	33	9	4	Afro-Asiatic	250000	4.571	Africa	BADE,BADE_2,BADE_3	1	phoible	NA	NA	NA	4	12.83	10.5
+bdh	1249	baka	GM	46	36	10	0	Central_Sudanic	26300	4.162	Africa	BAKA_SUDAN	0	phoible	NA	NA	NA	0	4.83	29.25
+bdi	1313	Burun	GM	38	19	16	3	Nilotic	41000	4	Africa	BURUN	1	phoible	NA	NA	NA	3	10.75	34
+bdk	482	Budukh	EA	NA	NA	NA	0	Nakh-Daghestanian	200	3.962	W and SW Eurasia	BUDUKH	0	phoible	NA	NA	NA	0	41.17	48.42
+bdl	NA	NA	NA	NA	NA	NA	0	Austronesian	150000	4.635	NG and Oceania	ANAIWOI_BAJAU,BAJOE_BAJAU,BOEPINANG_BAJAU,INDONESIAN_BAJAU,KALEROANG_BAJAU,KAYUADI_BAJAU,KOLO_BAWAH_BAJAU,LAKARAMBA_BAJAU,LAKONEA_BAJAU,LANGARA_LAUT_BAJAU,LAPULU_BAJAU,LAURU_BAJAU,LEMO_BAJAU,LUWUK_BAJAU,MORAMO_BAJAU,PADEI_LAUT_BAJAU,PITULUA_BAJAU	0	wals	baj	1	0	NA	-4.33	123
+bdy	2716	Waalubal	ER	20	12	8	0	Pama-Nyungan	20	5.471	Australia	WAALUBAL	0	phoible	byu	1	0	0	-28.42	152.42
+bee	327	Byangsi	EA	NA	NA	NA	0	Sino-Tibetan	3310	3.431	S/SE Asia	BYANSI	0	phoible	NA	NA	NA	0	30.17	80.5
+beg	1669	Belait	GM	25	19	6	0	Austronesian	1240	4.529	S/SE Asia	BELAIT	0	phoible	NA	NA	NA	0	4.6	114.33
+beh	678	biali	AA	27	14	10	3	Atlantic-Congo	159080	3.897	Africa	BIALI	1	phoible	NA	NA	NA	3	11.33	1.17
+bej	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	3364000	3.819	Africa	BEDJA_BEDAWI,BEJA,BEJA_2	1	wals	bej	2	1	NA	19	36
+ben	multiple	Bengali	multiple	55	37.25	17.75	0	Indo-European	242659750	3.906	W and SW Eurasia	BENGALI,BENGALI_2	0	phoible	ben	1	0	0	24	90
+beq	144	Beembe	SPA	41	19	20	2	Atlantic-Congo	100000	3.651	Africa	BEEMBE,BEMBE,BEMBE_2,BEMBE_3	1	phoible	bee	2	1	2	-3.92	14.08
+bev	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	130000	3.671	Africa	BETE_DALOA,BETE_DALOA_2	1	wals	bet	3	1	NA	6.25	-6.25
+bex	738	jur mödö	AA	49	31	18	0	Central_Sudanic	100000	4.184	Africa	MODO	0	phoible	NA	NA	NA	0	6	30
+bez	1513	Bena	GM	34	22	10	2	Atlantic-Congo	592000	4.594	Africa	BENA,BENA_2	1	phoible	NA	NA	NA	2	-9.2	35.1
+bfd	662	bafut	AA	49	21	18	10	Atlantic-Congo	100000	2.706	Africa	BAFUT	1	phoible	NA	NA	NA	10	6.25	9.92
+bfj	1656	Nchufie	GM	59	26	30	3	Atlantic-Congo	17000	2.5	Africa	BAFANJI	1	phoible	NA	NA	NA	3	5.85	10.45
+bfl	multiple	banda	multiple	45.5	32.5	9	4	Atlantic-Congo	35500	3.492	Africa	BANDA_NDELE_NGAO,NGAO,TANGBAGO	1	phoible	NA	NA	NA	4	8.03	23.9
+bfm	942	Mmen	PH	41	27	9	5	Atlantic-Congo	35000	2.9	Africa	MMEN,MMEN_2,MMEN_3,MMEN_4	1	phoible	NA	NA	NA	5	6.33	10.25
+bfq	1708	Badaga	RA	38	25	13	0	Dravidian	135000	4.275	S/SE Asia	BADAGA,BADGA	0	phoible	NA	NA	NA	0	11.67	76.75
+bft	multiple	Balti	multiple	46.5	35	11.5	0	Sino-Tibetan	347000	3.629	S/SE Asia	CHORBAT_BALTI,EASTERN_BALTI,KARGIL_BALTI,KHAPALU_BALTI,KHARMANG_BALTI,RONDU_BALTI,SHIGAR_BALTI,SKARDU_BALTI,WESTERN_BALTI	0	phoible	NA	NA	NA	0	35	76
+bfw	multiple	Remo	multiple	41	24	17	0	Austroasiatic	9000	4.328	S/SE Asia	REMO	0	phoible	NA	NA	NA	0	18	82
+bgj	1183	Bangolan	PH	40	27	9	4	Atlantic-Congo	14000	3.515	Africa	BANGOLAN,BANGOLAN_2	1	phoible	NA	NA	NA	4	6.01	10.67
+bgn	multiple	Western Balochi (Lāšārī)	multiple	36	23.75	12.25	0	Indo-European	2024540	3.406	W and SW Eurasia	BALOCHI_WESTERN	0	phoible	NA	NA	NA	0	37.83	62.17
+bgp	multiple	Eastern Hill Balochi	multiple	54	35	19	0	Indo-European	3050800	3.6	W and SW Eurasia	BALOCHI_EASTERN	0	phoible	NA	NA	NA	0	28	62
+bgr	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	15140	3.342	S/SE Asia	BAWM	1	wals	baw	2	1	NA	22.5	92.25
+bhd	507	Bhadarwahi	EA	NA	NA	NA	0	Indo-European	53000	3.727	S/SE Asia	BHADRAWAHI	0	phoible	NA	NA	NA	0	33.15	75.55
+bho	multiple	Bhojpuri	multiple	51	35	16	0	Indo-European	39445300	3.516	W and SW Eurasia	BHOIPURI,BHOJPURI	0	phoible	NA	NA	NA	0	26	84
+bhq	NA	NA	NA	NA	NA	NA	0	Austronesian	130000	3.862	NG and Oceania	TUKANG_BESI_SOUTHERN	0	wals	tuk	1	0	NA	-5.75	123.75
+bhs	1402	Buwal	GM	43	38	2	3	Afro-Asiatic	10000	4.088	Africa	BUWAL	1	phoible	NA	NA	NA	3	10.67	13.92
+bhw	1683	Biak	GM	19	14	5	0	Austronesian	70000	3.465	S/SE Asia	BIAK,BIAK_2,NUMFOR	0	phoible	NA	NA	NA	0	-1.17	136.05
+bia	2768	Badimaya	ER	23	20	3	0	Pama-Nyungan	3	4.621	Australia	BADIMAYA	0	phoible	NA	NA	NA	0	-27.67	118
+bib	680	bisa	AA	41	23	15	3	Mande	640000	2.567	Africa	BISA	1	phoible	bis	1	0	3	11.5	-0.5
+bim	679	bimoba	AA	44	22	18	4	Atlantic-Congo	176000	3.205	Africa	BIMOBA	1	phoible	NA	NA	NA	4	10.5	0
+bin	704	ẹdo	AA	48	25	21	2	Atlantic-Congo	1641670	3.306	Africa	EDO,EDO_2,EDO_3	1	phoible	NA	NA	NA	2	6.42	5.83
+bip	1251	bila	GM	33	19	9	5	Atlantic-Congo	40000	2.776	Africa	BIRA_BIP	1	phoible	NA	NA	NA	5	1	28.75
+biv	1548	Birifor	GM	52	25	27	0	Atlantic-Congo	129310	3.848	Africa	BIRIFOR_SOUTHERN	0	phoible	NA	NA	NA	0	9.67	-2.67
+biw	1102	Bikele	PH	55	28	23	4	Atlantic-Congo	12000	2.923	Africa	KOL	1	phoible	NA	NA	NA	4	3.67	12.75
+bjg	1494	Bijogo	GM	25	18	7	0	Atlantic-Congo	33400	4.12	Africa	BIJOGO,BIJOGO_KAJOKO,BIJOGO_KAJOKO_2,BIJOGO_KAJOKO_3,BIJOGO_KAMONA	0	phoible	NA	NA	NA	0	11.33	-16
+bji	1657	Burji	GM	36	26	10	0	Afro-Asiatic	70100	3.956	Africa	BURJI,BURJI_2	0	phoible	NA	NA	NA	0	5.5	37.83
+bjt	1391	Balante	GM	50	33	14	3	Atlantic-Congo	96000	3.504	Africa	BALANTA_FCA,BALANTA_FCA_2,BALANTA_FCA_3,BALANTA_FCA_4,BALANTA_FCA_5,BALANTA_GANJA	1	phoible	NA	NA	NA	3	12.55	-15.65
+bkc	multiple	baka	multiple	36.5	25	7	4.5	Atlantic-Congo	43200	3.658	Africa	BAKA,BAKA_2,BAKA_3,BAKA_4,BAKA_5	1	phoible	NA	NA	NA	4	2.05	15.2
+bkk	1715	Brokskat	RA	56	41	15	0	Indo-European	10000	3.444	W and SW Eurasia	BROK_SKAD,BROKSKAT	0	phoible	NA	NA	NA	0	35.33	76.5
+bkm	750	kom	AA	75	59	9	7	Atlantic-Congo	233000	2.928	Africa	KOM,KOM_2,KOM_3,KOM_MBIZINAKU	1	phoible	NA	NA	NA	7	6.25	10.33
+bkq	NA	NA	NA	NA	NA	NA	0	Cariban	950	4.615	S America	BAKAIRI	0	wals	bki	1	0	NA	-14	-55
+bkv	674	bekwarra	AA	36	23	10	3	Atlantic-Congo	100000	3.817	Africa	BEKWARRA	1	phoible	NA	NA	NA	3	6.75	8.92
+blc	NA	NA	NA	NA	NA	NA	0	Salishan	17	3.987	W N America	BELLA_COOLA	0	wals	bco	1	0	NA	52.5	-126.67
+blf	1676	Buol	GM	23	17	6	0	Austronesian	96000	4.647	S/SE Asia	BUOL	0	phoible	NA	NA	NA	0	1	121.5
+blk	1043	Pa-O, Taungthu	PH	34	20	11	3	Sino-Tibetan	560740	2.654	S/SE Asia	KAREN_PAO	1	phoible	NA	NA	NA	3	25.35	100.32
+blo	1658	Anii	GM	36	23	11	2	Atlantic-Congo	48900	3.457	Africa	ANII	1	phoible	NA	NA	NA	2	9.25	1.75
+blr	1065	Blang; Plang; Bulang; Pulang; Pula; Kawa; K''ala; Kontoi'	PH	40	24	14	2	Austroasiatic	55200	2.72	S/SE Asia	PLANG	1	phoible	NA	NA	NA	2	21.57	100.13
+bmi	1469	Bagirmi	GM	48	29	16	3	Central_Sudanic	44800	4.026	Africa	BAGIRMI,BAGIRMI_2	1	phoible	bag	3	1	3	11.67	16
+bmo	1204	Bambalang; Círàmbɔ́	PH	57	34	18	5	Atlantic-Congo	29000	3.36	Africa	BAMBALANG	1	phoible	NA	NA	NA	5	5.86	10.54
+bmr	NA	NA	NA	NA	NA	NA	NA	Boran	150	4.968	S America	MUINANE,MUINANE_2	1	wals	mui	2	1	NA	-1	-72.5
+bmv	1575	Bum	GM	47	37	7	3	Atlantic-Congo	21400	2.639	Africa	BUM,BUM_A_CAMEROON	1	phoible	NA	NA	NA	3	6.49	10.41
+bnm	1184	Banoo	PH	31	20	8	3	Atlantic-Congo	13750	4.317	Africa	BATANGA	1	phoible	NA	NA	NA	3	3	10
+bns	1716	Bundeli	RA	55	38	17	0	Indo-European	3070000	3.978	W and SW Eurasia	BUNDELI	0	phoible	NA	NA	NA	0	25.5	78.45
+bod	multiple	Tibetan	multiple	44.6	26.8	17.4	0.67	Sino-Tibetan	1186050	3.201	S/SE Asia	LHASA_TIBETAN,RANG_PAS,TIBETAN_CENTRAL,TIBETAN_LHASA,TIBETAN_WRITTEN	1	phoible	tib	2	1	1	29.65	91.1
+boe	1618	Mundabli	GM	38	22	12	4	Atlantic-Congo	500	3.093	Africa	BU,BU_2,MUNDABLI	1	phoible	NA	NA	NA	4	6.58	10.25
+bom	675	berom	AA	31	24	7	0	Atlantic-Congo	1000000	3.376	Africa	BEROM_F,BEROM_R,TAHOSS	0	phoible	bir	3	1	0	9.67	8.83
+bor	NA	NA	NA	NA	NA	NA	0	Bororoan	1392	4.179	S America	BORORO	0	wals	brr	1	0	NA	-16	-57
+box	1603	Bwamut	GM	28	17	8	3	Atlantic-Congo	268000	4.132	Africa	BWAMU,BWAMU_2	1	phoible	NA	NA	NA	3	11.67	-3.83
+boz	1450	Tigemaxo Bozo	GM	36	19	14	3	Mande	118000	3.408	Africa	BOZO_TIEYAHO,BOZO_TIGEMAXO,TIEYAXO	1	phoible	NA	NA	NA	3	15	-4
+bpq	1685	Banda Malay	GM	23	18	5	0	Austronesian	3690	4.815	S/SE Asia	AI_BANDA,SEKOLA_LONTHOIR_BANDA,SEKOLA_NEIRA_BANDA	0	phoible	NA	NA	NA	0	-4.52	129.77
+bqc	682	boussa	AA	34	19	12	3	Mande	150000	2.731	Africa	BOKO,BOKO_2	1	phoible	NA	NA	NA	3	10.5	3.5
+bqh	multiple	Baima	multiple	66	40	26	2	Sino-Tibetan	10000	3.15	S/SE Asia	NORTHERN_BAIMA,SOUTHERN_BAIMA,WUJIAO_BAIMA	1	phoible	NA	NA	NA	2	32.91	104.46
+bqi	multiple	Bakhtiari	multiple	36	24	12	0	Indo-European	1000000	3.458	W and SW Eurasia	BAKHTIARI	0	phoible	NA	NA	NA	0	32.02	49.77
+bqp	1252	busa	GM	31	16	12	3	Mande	15000	2.556	Africa	BUSA_NIGERIA,ILLO_BUSA	1	phoible	NA	NA	NA	3	9.67	4
+bqz	multiple	Bakaka (Mwaneka)	multiple	32.33	16.67	13.67	2	Atlantic-Congo	30000	2.513	Africa	BABONG,BAKAKA,BALONDO,BANEKA,MANEHAS	1	phoible	NA	NA	NA	2	5.3	9.5
+bre	multiple	Breton	multiple	54	28.5	25.5	0	Indo-European	206000	4.062	W and SW Eurasia	BRETON,BRETON_2	0	phoible	bre	1	0	0	48	-3
+brh	multiple	Brahui (Jahlawān)	multiple	43	26	17	0	Dravidian	2433600	3.875	S/SE Asia	BRAHUI,BRAHUI_2	0	phoible	brh	1	0	0	28.5	67
+bri	1626	Mokpwe	GM	31	22	7	2	Atlantic-Congo	20000	3.026	Africa	BAKUERI,MOKPWE	1	phoible	NA	NA	NA	2	4.25	9.25
+brv	392	Bru (Western)	EA	NA	NA	NA	0	Austroasiatic	20000	3.559	S/SE Asia	BRU_WESTERN_UnnamedInSource	0	phoible	brw	1	0	0	16.75	104.75
+brx	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	1334380	4	S/SE Asia	BODO_INDIA	1	wals	bod	2	1	NA	26.83	92
+bsh	362	Kati	EA	NA	NA	NA	0	Indo-European	134010	3.229	S/SE Asia	EASTERN_KATIVIRI	0	phoible	NA	NA	NA	0	35.5	70
+bsi	1559	Bassossi	GM	34	20	12	2	Atlantic-Congo	5000	2.564	Africa	MIENGE	1	phoible	NA	NA	NA	2	5.33	9.5
+bsk	multiple	Burushaski	multiple	52	38	13.25	0.43	Burushaski	96800	3.617	S/SE Asia	BURUSHASKI,BURUSHASKI_2,CENTRAL_YASIN_BURUSHASKI,GANISH_HUNZA_BURUSHASKI,HAIDERABAD_HUNZA_BURUSHASKI,HOPER_NAGAR_BURUSHASKI,HUSSAINABAD_HUNZA_BURUSHASKI,MURTAZABAD_HUNZA_BURUSHASKI,NAZIMABAD_HUNZA_BURUSHASKI,UYUM_NAGAR_BURUSHASKI	1	phoible	bur	1	0	0	36.5	74.5
+bsq	671	bassa	AA	36	22	7	7	Atlantic-Congo	653730	2.903	Africa	BASSA,BASSA_2,BASSA_3	1	phoible	NA	NA	NA	7	6	-9.5
+bss	multiple	akɔɔse	multiple	38	20	15	3	Atlantic-Congo	100000	2.525	Africa	BAKOSSI,ELUNG,NNINONG	1	phoible	NA	NA	NA	3	4.8	9.62
+btx	1665	Karo Batak	GM	24	16	8	0	Austronesian	600000	4.176	S/SE Asia	KARO_BATAK	0	phoible	bkr	1	0	0	3.25	98.25
+bud	multiple	bassar	multiple	34.33	21	10.33	3	Atlantic-Congo	329000	4.95	Africa	BASSARI	1	phoible	NA	NA	NA	3	10.08	0.5
+bug	1694	Bugis	GM	25	19	6	0	Austronesian	5017800	4.145	S/SE Asia	BUGINESE,SOPPENG_BUGINESE	0	phoible	NA	NA	NA	0	-4	120
+bul	multiple	Bulgarian	multiple	40.67	32.33	8.33	0	Indo-European	8030650	4.154	W and SW Eurasia	BULGARIAN,BULGARIAN_2	0	phoible	bul	1	0	0	42.5	25
+bum	684	bulu	AA	36	24	7	5	Atlantic-Congo	1658000	2.872	Africa	BULU,BUM_B_CAMEROON	1	phoible	NA	NA	NA	5	3	11
+bun	1321	Sherbro	GM	31	24	7	0	Atlantic-Congo	178000	3.391	Africa	SHERBRO,SHERBRO_2	0	phoible	NA	NA	NA	0	7.5	-12.5
+buu	1336	Kibudu	GM	43	31	9	3	Atlantic-Congo	180000	3.319	Africa	BUDU,BUDU_2	1	phoible	NA	NA	NA	3	2	28
+buy	1322	Mmani	GM	36	22	14	0	Atlantic-Congo	6100	3.11	Africa	MMANI,MMANI_2,SEI	0	phoible	NA	NA	NA	0	8.48	-13.11
+bvi	1435	Belanda Viri	GM	43	28	10	5	Atlantic-Congo	16000	3.145	Africa	BELANDA_VIRI	1	phoible	NA	NA	NA	5	6.75	27.5
+bvr	2629	Burarra	ER	26	21	5	0	Maningrida	1070	5.632	Australia	BURARRA	0	phoible	bua	1	0	0	-12.25	134.58
+bvx	1247	babole	GM	31	21	6	4	Atlantic-Congo	4000	3.598	Africa	BABOLE_DZEKE,BABOLE_IMPFONDO,BOTONGO_DIBOLE,DZEKE_DIBOLE,EDZAMA_DIBOLE,KINAMI_DIBOLE,MOUNDA_DIBOLE	1	phoible	NA	NA	NA	4	1.08	17.25
+bwo	multiple	Boro	multiple	28.5	19	7	2.5	Ta-Ne-Omotic	38180	3.975	Africa	SHINASSHA,SHINASSHA_2	1	phoible	NA	NA	NA	2	10.42	36.17
+bwt	926	Bafo	PH	47	27	16	4	Atlantic-Congo	8400	2.95	Africa	BAFAW,BAFAW_BALONG	1	phoible	NA	NA	NA	4	4.7	9.47
+bwu	1390	Buli	GM	46	23	13	10	Atlantic-Congo	168000	4.156	Africa	BULI_2,BULI_GHANA	1	phoible	NA	NA	NA	10	10.55	-1.25
+bxb	1434	Belanda Boor	GM	38	25	10	3	Nilotic	8000	3.375	Africa	BELANDA_BOR	1	phoible	NA	NA	NA	3	6.52	27.89
+bxr	multiple	Buriat (Standard)	multiple	45	27	18	0	Mongolic	219000	4.513	N-C Asia	BURIAT_RUSSIA,BURIAT_RUSSIA_2	0	phoible	NA	NA	NA	0	51	106
+byh	multiple	Bhujel	multiple	47	31	16	0	Sino-Tibetan	23290	3.157	S/SE Asia	BUJHYAL	0	phoible	NA	NA	NA	0	28.01	84.51
+bym	multiple	Bidyara	multiple	19	15.8	3.2	0	Pama-Nyungan	NA	4.694	Australia	BIDJARA	0	phoible	NA	NA	NA	0	-25.17	146
+byn	1332	Blin	GM	38	31	7	0	Afro-Asiatic	112000	4.094	Africa	BILIN,BILIN_2	0	phoible	NA	NA	NA	0	15.75	38.5
+byx	NA	NA	NA	NA	NA	NA	0	Baining	6350	5.689	NG and Oceania	QAGET,QAGET_2,QAQET	0	wals	bng	1	0	NA	-4.58	152
+bza	667	bandi	AA	48	23	21	4	Mande	143000	4.072	Africa	BANDI,BANDI_2	1	phoible	NA	NA	NA	4	8.08	-10.25
+bzr	multiple	Barna	multiple	18	15	3	0	Pama-Nyungan	NA	4.776	Australia	BIRI,BIRRI_AUSTRALIA,WIRRI	0	phoible	NA	NA	NA	0	-20.15	146.67
+bzx	683	bozo	AA	34	20	14	0	Mande	30000	3.75	Africa	BOZO_HAINYAHO,BOZO_HAINYAXO	0	phoible	NA	NA	NA	0	13.92	-5.5
+cad	NA	NA	NA	NA	NA	NA	NA	Caddoan	25	5.075	E N America	CADDO	1	wals	cad	2	1	NA	33.33	-93.5
+cag	NA	NA	NA	NA	NA	NA	0	Matacoan	10320	4.4	S America	NIVACLE	0	wals	chu	1	0	NA	-23.5	-60.5
+cao	121	Chacobo	SPA	21	17	4	0	Pano-Tacanan	380	4.514	S America	CHACOBO	0	phoible	NA	NA	NA	0	-12.17	-66.75
+car	116	Carib	SPA	28	16	12	0	Cariban	8558	4.628	S America	KALINA	0	phoible	car	1	0	0	5.5	-56
+cat	multiple	Catalan (Southern Valencian)	multiple	34.67	25	9.67	0	Indo-European	4053310	3.811	W and SW Eurasia	BALEAR_CATALAN,CATALAN,CATALAN_2,CATALAN_3,VALENCIAN	0	phoible	ctl	1	0	0	39.57	2.65
+cbi	101	Cayapa	SPA	28	24	4	0	Barbacoan	5870	4	S America	CAYAPA	0	phoible	NA	NA	NA	0	0.67	-79
+cbn	NA	NA	NA	NA	NA	NA	NA	Austroasiatic	1500	3.987	S/SE Asia	NYAKUR,NYAKUR_2	1	wals	nkt	2	1	NA	15.67	101.67
+cbv	NA	NA	NA	NA	NA	NA	NA	Kakua-Nukak	220	3.362	S America	CACUA,KAKUA	1	wals	cac	2	1	NA	1.08	-70
+cde	2474	Nyinpa Cone	EA	70	46	24	0	Dravidian	26000	4.37	S/SE Asia	CHENCHU	0	phoible	NA	NA	NA	0	15.88	79.25
+cdn	1717	Chandangs and Byangs	RA	42	34	8	0	Sino-Tibetan	1830	3.527	S/SE Asia	CHAUDANGSI	0	phoible	NA	NA	NA	0	29.7	80.48
+cdo	multiple	Min Dong Chinese (Fuzhou)	multiple	35	15	20	3.5	Sino-Tibetan	9117520	4.184	S/SE Asia	FUZHOU,FUZHOU_CHINESE,MINEAST_FUZHOU,MINEAST_GUTIAN	1	phoible	fuz	3	1	4	26	119.5
+ceb	multiple	Cebuano	multiple	20	17	3	0	Austronesian	15935600	4.471	S/SE Asia	CEBUANO	0	phoible	NA	NA	NA	0	10	124
+ces	multiple	Czech (Bohemian)	multiple	40	27	13	0	Indo-European	10691480	4.2	W and SW Eurasia	CZECH,CZECH_2	0	phoible	NA	NA	NA	0	50	15
+cgg	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	2390000	3.562	Africa	CHIGA,NKORE_KIGA	1	wals	nko	2	1	NA	-1	29.85
+cha	38	Chamorro	SPA	36	30	6	0	Austronesian	64300	5.3	S/SE Asia	CHAMORRO	0	phoible	cha	1	0	0	13.45	144.75
+che	multiple	Chechen (Pẋarçxoy Äqqiy)	multiple	66.25	39	27.25	0	Nakh-Daghestanian	1503680	3.492	W and SW Eurasia	AKKIN_CHECHEN,CHECHEN,CHECHEN_2	0	phoible	NA	NA	NA	0	43.25	46.58
+chf	85	Chontal	SPA	37	25	12	0	Mayan	37100	3.736	C America	CHONTAL_TABASCO	0	phoible	NA	NA	NA	0	18.17	-92.58
+chl	NA	NA	NA	NA	NA	NA	0	Uto-Aztecan	6	4.378	C America	CAHUILLA	0	wals	cah	1	0	NA	33.5	-116.25
+chp	63	Chipewyan	SPA	61	39	18	4	Athabaskan-Eyak-Tlingit	10700	2.971	W N America	CHIPEWYAN	1	phoible	chp	2	1	4	59	-106
+chr	NA	NA	NA	NA	NA	NA	NA	Iroquoian	12300	5.949	E N America	CHEROKEE	1	wals	che	2	1	NA	35.5	-83.5
+chv	multiple	Chuvash	multiple	39	30	9	0	Turkic	1082270	3.831	N-C Asia	CHUVASH,CHUVASH_2	0	phoible	chv	1	0	0	55.5	47.5
+chx	multiple	Chantyal	multiple	48	21	27	0	Sino-Tibetan	4280	3.408	S/SE Asia	CHANTYAL	0	phoible	NA	NA	NA	0	28.58	83.42
+cic	NA	NA	NA	NA	NA	NA	0	Muskogean	75	5.256	E N America	CHICKASAW	0	wals	cck	1	0	NA	34	-88
+cja	29	Cham	SPA	35	24	9	2	Austronesian	246000	4	S/SE Asia	CHAM_WESTERN	1	phoible	chw	2	1	2	12	105
+cjh	NA	NA	NA	NA	NA	NA	0	Salishan	NA	4.526	W N America	CHEHALIS_UPPER	0	wals	chl	1	0	NA	46.58	-123
+cjm	1671	Phan Rang Cham (Eastern Cham)	GM	30	21	9	0	Austronesian	72900	4.258	S/SE Asia	CHAM_EASTERN	0	phoible	NA	NA	NA	0	11.33	108.5
+cjs	396	Shor	EA	NA	NA	NA	0	Turkic	2840	3.855	N-C Asia	SHOR	0	phoible	NA	NA	NA	0	53	88
+cjy	480	Jin	EA	NA	NA	NA	5	Sino-Tibetan	46500000	2.802	S/SE Asia	JIN_CHANGZHI,JIN_DAIXIAN,JIN_DATONG,JIN_FENYANG,JIN_GAOPING,JIN_HESHUN,JIN_JINCHENG,JIN_LANXIAN,JIN_LINGCHUAN,JIN_LINXIAN_SHANXI,JIN_LINZHOU,JIN_LISHI,JIN_LOUFAN,JIN_PINGDING,JIN_PINGSHUN,JIN_PINGYAO,JIN_QINGXU,JIN_QINXIAN,JIN_QIXIAN,JIN_SHANYIN,JIN_SHILOU,JIN_SHUOZHOU,JIN_TAIGU,JIN_TAIYUAN_1,JIN_TAIYUAN_2,JIN_TIANZHEN,JIN_WENSHUI,JIN_WUTAI,JIN_WUZHAI,JIN_XIAOYI,JIN_XINZHOU,JIN_XIXIAN,JIN_YANGCHENG,JIN_ZHANGZI	1	phoible	NA	NA	NA	5	36.19	113.11
+ckb	multiple	Kurdish (Sorani)	multiple	39	31	8	0	Indo-European	7250000	3.708	W and SW Eurasia	KURDISH_CENTRAL	0	phoible	krd	1	0	0	36	44
+cko	multiple	anufɔ	multiple	51	33.5	15.5	2	Atlantic-Congo	177200	4.092	Africa	ANUFO	1	phoible	NA	NA	NA	2	10.08	0.25
+ckt	multiple	Chukchi	multiple	21	14.5	6.5	0	Chukotko-Kamchatkan	5100	6.463	N-C Asia	CHUKCHEE,CHUKCHEE_2	0	phoible	chk	1	0	0	65	177
+cku	1106	Koasati	PH	25	15	6	4	Muskogean	370	5.141	E N America	KOASATI	1	phoible	koa	3	1	4	34.83	-85.17
+cld	357	Alqosh Neo-Aramaic	EA	NA	NA	NA	0	Afro-Asiatic	225350	4.525	W and SW Eurasia	ARAMAIC	0	phoible	NA	NA	NA	0	36	43
+cle	NA	NA	NA	NA	NA	NA	NA	Otomanguean	2000	3.264	C America	LEALAO_CHINANTEC	1	wals	cle	3	1	NA	17.33	-95.92
+clw	398	Chulym	EA	NA	NA	NA	0	Turkic	44	3.48	N-C Asia	MIDDLE_CHULYM	0	phoible	NA	NA	NA	0	54.33	89.67
+cme	685	cerma	AA	46	21	21	4	Atlantic-Congo	53600	4.724	Africa	KIRMA	1	phoible	NA	NA	NA	4	10.25	-4.83
+cmn	multiple	Mandarin Chinese	multiple	46	25.33	18	3	Sino-Tibetan	908762230	2.844	S/SE Asia	HUI_SHEXIAN,HUI_SHEXIANHONGCUN,JIN_ERLIANHAOTE,JIN_FENXI,JIN_HANDAN,JIN_HUHEHAOTE,JIN_JINING_NEIMENGGU,JIN_LINHE,JIN_LINXIAN_HENAN,JIN_PINGSHAN,JIN_SUIDE,JIN_YANGQU,JIN_YANGYUAN,JIN_ZHANGJIAKOU,KUNMING_MANDARIN,MANDARIN,MANDARIN_2,MANDARIN_3,MANDARIN_ANQING,MANDARIN_BAICHENG,MANDARIN_BAIHE,MANDARIN_BAODING,MANDARIN_BAOJI,MANDARIN_BEIJING,MANDARIN_BIJIE,MANDARIN_CANGZHOU,MANDARIN_CHANGCHUN,MANDARIN_CHANGDE,MANDARIN_CHENGDE,MANDARIN_CHENGDU,MANDARIN_CHIFENG,MANDARIN_CHONGQING,MANDARIN_DAGUAN,MANDARIN_DALI,MANDARIN_DALIAN,MANDARIN_DAMING,MANDARIN_DANDONG,MANDARIN_DAXIAN,MANDARIN_DEZHOU,MANDARIN_DINGTAO,MANDARIN_DUNHUANG,MANDARIN_FUYANG,MANDARIN_GANSULIXIAN,MANDARIN_GUANGLING,MANDARIN_GUILIN,MANDARIN_GUIYANG_GUIZHOU,MANDARIN_HAILAER,MANDARIN_HAMI,MANDARIN_HANYUAN,MANDARIN_HANZHONG,MANDARIN_HARBIN,MANDARIN_HEFEI,MANDARIN_HEIHE,MANDARIN_HONGAN,MANDARIN_HUOZHOU,MANDARIN_JIAMUSI,MANDARIN_JINAN,MANDARIN_JINING_SHANDONG,MANDARIN_JINZHOU,MANDARIN_JISHOU,MANDARIN_JIXIAN,MANDARIN_KUNMING,MANDARIN_LAIZHOU,MANDARIN_LANGFANG,MANDARIN_LANZHOU,MANDARIN_LIANSHUI,MANDARIN_LIANYUNGANG,MANDARIN_LIAOCHENG,MANDARIN_LIJIN,MANDARIN_LINFEN,MANDARIN_LINGBAO,MANDARIN_LIPING,MANDARIN_LIUZHOU,MANDARIN_LUOSHAN,MANDARIN_LUOYANG,MANDARIN_MENGZI,MANDARIN_MUPING,MANDARIN_NANCHONG,MANDARIN_NANJING,MANDARIN_NANTONG,MANDARIN_QINGDAO,MANDARIN_QIQIHAER,MANDARIN_RONGCHENG,MANDARIN_SHANGQIU,MANDARIN_SHENYANG,MANDARIN_SHIJIAZHUANG,MANDARIN_SHOUGUANG,MANDARIN_TANCHENG,MANDARIN_TANGSHAN,MANDARIN_TIANJIN,MANDARIN_TIANMEN,MANDARIN_TIANSHUI,MANDARIN_TONGHUA,MANDARIN_URUMQI,MANDARIN_WANRONG,MANDARIN_WENSHANG,MANDARIN_WENXI,MANDARIN_WUHAN,MANDARIN_WUHU,MANDARIN_WUMING,MANDARIN_XIAN,MANDARIN_XIANGFAN,MANDARIN_XICHANG,MANDARIN_XINING,MANDARIN_XINJIANG,MANDARIN_XINYANG,MANDARIN_XISHUI,MANDARIN_XUZHOU,MANDARIN_YANGGU,MANDARIN_YANGZHOU,MANDARIN_YANTAI,MANDARIN_YICHANG,MANDARIN_YINCHUAN,MANDARIN_YONGJI,MANDARIN_YUANYANG,MANDARIN_YUNCHENG,MANDARIN_YUNLIAN,MANDARIN_ZHAOTONG,MANDARIN_ZHENGZHOU,MANDARIN_ZHUCHENG,MANDARIN_ZIGONG,MANDARIN_ZUNYI	1	phoible	mnd	3	1	3	29.86	118.41
+cng	multiple	Northern Qiang (Yadu)	multiple	68	39	29	0.5	Sino-Tibetan	57800	3.244	S/SE Asia	MAWO_QIANG,QIANG_YADU	1	phoible	NA	NA	NA	0	32.06	103.17
+cni	110	Campa	SPA	21	17	4	0	Arawakan	35200	6.757	S America	ASHANINKA	0	phoible	cax	1	0	0	-12	-74
+cns	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	7000	3.75	NG and Oceania	ASMAT_CENTRAL	0	wals	asm	1	0	NA	-5.5	138.5
+coc	NA	NA	NA	NA	NA	NA	0	Cochimi-Yuman	490	3.931	C America	COCOPA	0	wals	ccp	1	0	NA	32.33	-115
+cog	475	Chong	EA	NA	NA	NA	0	Austroasiatic	500	3.308	S/SE Asia	CHONG_H,KASONG	0	phoible	NA	NA	NA	0	12.25	102.83
+coh	1586	Chonyi	GM	47	40	5	2	Atlantic-Congo	184000	3.71	Africa	CHONYI	1	phoible	NA	NA	NA	2	-3.72	39.75
+com	NA	NA	NA	NA	NA	NA	0	Uto-Aztecan	100	4.541	E N America	COMANCHE	0	wals	cmn	1	0	NA	33.5	-101.5
+cou	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	38000	3.4	Africa	KONYAGI,WAMEY	1	wals	kgi	2	1	NA	12.53	-13.13
+crb	107	Island Carib	SPA	29	17	12	0	Arawakan	NA	4.795	S America	ISLAND_CARIB	0	phoible	NA	NA	NA	0	15.5	-61.5
+crk	NA	NA	NA	NA	NA	NA	0	Algic	3170	6.103	E N America	PLAINS_CREE	0	wals	cre	1	0	NA	54	-110
+cro	1238	Crow	PH	23	10	10	3	Siouan	4160	4.038	E N America	CROW	1	phoible	NA	NA	NA	3	47	-108
+crw	476	Chrau	EA	NA	NA	NA	0	Austroasiatic	7000	3.209	S/SE Asia	CHRAU,CHRAU_2	0	phoible	NA	NA	NA	0	10.75	107.5
+csk	1311	Joola Huluf	GM	51	31	20	0	Atlantic-Congo	45100	4.673	Africa	DIOLA_KASA,JOOLA_BLISS,JOOLA_BLISS_2,JOOLA_BLISS_3,JOOLA_KASA,JOOLA_KASA_10,JOOLA_KASA_11,JOOLA_KASA_2,JOOLA_KASA_3,JOOLA_KASA_4,JOOLA_KASA_5,JOOLA_KASA_6,JOOLA_KASA_7,JOOLA_KASA_8,JOOLA_KASA_9,JOOLA_KASA_ESUULAALU,JOOLA_KASA_ESUULAALU_2	0	phoible	NA	NA	NA	0	12.5	-16.75
+cso	1108	Sochiapan Chinantec	PH	39	18	14	7	Otomanguean	3590	2.847	C America	CHINANTEC_SOCHIAPAN	1	phoible	NA	NA	NA	7	17.75	-96.67
+csz	NA	NA	NA	NA	NA	NA	0	Coosan	NA	4.486	W N America	HANIS_COOS	0	wals	coo	1	0	NA	43.5	-124.17
+ctd	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	344000	2.8	S/SE Asia	CHIN_TEDIM	1	wals	cti	3	1	NA	23.33	93.67
+ctp	NA	NA	NA	NA	NA	NA	NA	Otomanguean	16000	3.905	C America	CHATINO_WESTERN_HIGHLAND	1	wals	cso	3	1	NA	16.25	-97.38
+cub	NA	NA	NA	NA	NA	NA	NA	Tucanoan	6260	4.904	S America	CUBEO,CUBEO_2	1	wals	cub	2	1	NA	1.33	-70.5
+cwt	1549	Kwatay	GM	34	20	10	4	Atlantic-Congo	7200	4.327	Africa	JOOLA_KWAATAY,JOOLA_KWAATAY_2,JOOLA_KWAATAY_3,JOOLA_KWAATAY_4,JOOLA_KWAATAY_5,KUWAATAAY	1	phoible	NA	NA	NA	4	12.48	-16.73
+cyb	NA	NA	NA	NA	NA	NA	0	Cayuvava	4	4.462	S America	CAYUBABA	0	wals	cyv	1	0	NA	-13.5	-65.5
+cym	multiple	Welsh (Llanwrtyd)	multiple	48	29	19	0	Indo-European	570320	4.075	W and SW Eurasia	WELSH,WELSH_2	0	phoible	NA	NA	NA	0	52	-3
+daa	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	60000	3.5	Africa	DANGALEAT	1	wals	dnw	2	1	NA	12.17	18.33
+dag	multiple	Dagbani	multiple	34	23.5	8.5	2	Atlantic-Congo	1160000	3.517	Africa	DAGBANI	1	phoible	dgb	2	1	2	9.58	-0.5
+daj	NA	NA	NA	NA	NA	NA	0	Dajuic	80000	4.316	Africa	NYALA	0	wals	ddf	1	0	NA	12.25	25.25
+dal	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	400	4.388	Africa	DAHALO,DAHALO_2	1	wals	dah	2	1	NA	-2.33	40.5
+dan	multiple	Danish	multiple	47.5	17.5	30	0	Indo-European	5621380	3.913	W and SW Eurasia	DANISH,DANISH_2	0	phoible	NA	NA	NA	0	56	10
+dar	386	Dargwa (Icari)	EA	NA	NA	NA	0	Nakh-Daghestanian	496110	3.714	W and SW Eurasia	DARGWA,DARGWA_2,ICARI_DARGI,KAJTAK_DARGI,KUBACHI_DARGI,MUIRI_DARGI,SANZHI_DARGI,XAJDAK_DARGI	0	phoible	NA	NA	NA	0	42.25	47.42
+dax	2973	Dhay'yi	ER	26	20	6	0	Pama-Nyungan	230	5.643	Australia	DALWONGO	0	phoible	NA	NA	NA	0	-12.92	136.17
+dbl	2732	Dyirbal	ER	16	13	3	0	Pama-Nyungan	28	5.125	Australia	DYIRBAL	0	phoible	dyi	1	0	0	-17.83	145.58
+dbq	multiple	daba	multiple	46.5	36	6	4.5	Afro-Asiatic	25000	4.394	Africa	DABA	1	phoible	NA	NA	NA	4	10.17	13.75
+ddj	2854	Jaru	ER	23	17	6	0	Pama-Nyungan	350	4.562	Australia	JARU	0	phoible	NA	NA	NA	0	-18.75	128
+ddo	multiple	Tsez (Asax)	multiple	42	36	6	0	Nakh-Daghestanian	12500	3.695	W and SW Eurasia	MOKOK_TSEZ,SAGADIN_TSEZ,TSEZ,TSEZ_2	0	phoible	NA	NA	NA	0	42.26	45.9
+dec	1430	Thakik	GM	26	16	10	0	Narrow_Talodi	55000	4.431	Africa	DAGIK,DENGEBU	0	phoible	NA	NA	NA	0	10.57	29.95
+deg	1452	Degema	GM	36	24	10	2	Atlantic-Congo	10000	3.864	Africa	DEGEMA,DEGEMA_2,DEGEMA_3	1	phoible	NA	NA	NA	2	4.75	6.75
+deu	multiple	German	multiple	39.67	22.67	17	0	Indo-European	76029280	4.025	W and SW Eurasia	STANDARD_GERMAN,STANDARD_GERMAN_2	0	phoible	ger	1	0	0	52	10
+dga	688	dagaare	AA	54	24	27	3	Atlantic-Congo	924000	3.467	Africa	DAGAARE	1	phoible	NA	NA	NA	3	10.5	-2.67
+dgh	1299	Dghwede	GM	38	33	3	2	Afro-Asiatic	30000	3.95	Africa	DGHWEDE	1	phoible	NA	NA	NA	2	11	13.67
+dgi	689	dagara	AA	41	29	9	3	Atlantic-Congo	247000	2.783	Africa	NORTHERN_DAGARA	1	phoible	NA	NA	NA	3	11.04	-3.01
+dhg	2971	Dhangu	ER	26	20	6	0	Pama-Nyungan	500	5.016	Australia	YOLNGUMATHA	0	phoible	NA	NA	NA	0	-12.67	136.75
+dhi	multiple	Dhimal	multiple	53	31	22	0	Sino-Tibetan	19750	3.562	S/SE Asia	DHIMAL	0	phoible	NA	NA	NA	0	26.67	87.75
+dhr	2745	Tharrkari	ER	31	25	6	0	Pama-Nyungan	1	4.81	Australia	DHARGARI	0	phoible	NA	NA	NA	0	-23.75	114.92
+dhv	NA	NA	NA	NA	NA	NA	0	Austronesian	13000	4.515	NG and Oceania	DEHU	0	wals	dre	1	0	NA	-21	167.25
+dhw	517	Danuwar	EA	NA	NA	NA	0	Indo-European	48650	3.69	S/SE Asia	DANUWAR	0	phoible	NA	NA	NA	0	27.42	85
+dib	1309	Dinka, South Central	GM	60	20	37	3	Nilotic	250000	3.343	Africa	DINKA_SOUTH_CENTRAL	1	phoible	NA	NA	NA	3	6.83	30
+dic	695	dida	AA	57	27	27	3	Atlantic-Congo	93800	3.555	Africa	DIDA_LAKOTA,DIDA_LAKOTA_2,DIDA_LAKOTA_3	1	phoible	NA	NA	NA	3	5.83	-5.42
+did	1431	Didinga	GM	58	36	18	4	Surmic	60000	4.526	Africa	DIDINGA	1	phoible	NA	NA	NA	4	4.05	33.05
+dif	multiple	Diyari	multiple	24.5	21.5	3	0	Pama-Nyungan	10	4.469	Australia	DIYARI	0	phoible	diy	1	0	0	-28	139
+dig	1587	Digo	GM	48	41	5	2	Atlantic-Congo	479000	3.56	Africa	DIGO,DIGO_1,DIGO_2	1	phoible	NA	NA	NA	2	-4.27	39.33
+dih	90	Digueno	SPA	34	25	9	0	Cochimi-Yuman	440	4.194	W N America	DIEGUENO,TIPAI	0	phoible	die	1	0	0	32.67	-116.17
+dik	2168	Luanyjang Dinka	UZ	63	20	39	4	Nilotic	450000	3.225	Africa	REK	1	phoible	NA	NA	NA	4	8.75	29
+dim	1440	Dime	GM	73	53	18	2	South_Omotic	1100	3.769	Africa	DIME	1	phoible	NA	NA	NA	2	6.17	36.25
+diu	1271	diriku	GM	28	23	5	0	Atlantic-Congo	39800	3.7	Africa	DCIRIKU,DIRIKU	0	phoible	NA	NA	NA	0	-18.33	21.67
+div	multiple	Dhivehi (Malé)	multiple	39	27	12	0	Indo-European	340500	3.274	W and SW Eurasia	MALDIVIAN	0	phoible	NA	NA	NA	0	4.17	73.5
+djb	2977	Djinba	ER	25	22	3	0	Pama-Nyungan	100	5.188	Australia	DJINBA	0	phoible	NA	NA	NA	0	-13	135
+djd	multiple	Jaminjung	multiple	21.5	17.5	4	0	Mirndi	27	5.385	Australia	DJAMINDJUNG	0	phoible	NA	NA	NA	0	-15.08	130.5
+dje	850	zarma	AA	40	20	16	4	Songhay	3680100	3.963	Africa	DJENNE_CHIINI,ZARMA,ZARMA_2,ZARMA_3,ZARMA_4	1	phoible	NA	NA	NA	4	13.83	2.17
+dji	2976	Djinang	ER	25	22	3	0	Pama-Nyungan	280	5.25	Australia	DJINANG	0	phoible	NA	NA	NA	0	-12.33	134.83
+djj	2676	Ndjebbana	ER	21	16	5	0	Maningrida	340	5.819	Australia	DJEEBBANA	0	phoible	NA	NA	NA	0	-12.17	134.17
+djm	1442	Jamsay, Dogon	GM	60	37	21	2	Dogon	130000	3.917	Africa	DOGON_JAMSAY,JAMSAY,JAMSAY_2	1	phoible	NA	NA	NA	2	14.4	-2.4
+djn	2662	Jawoyn	ER	27	22	5	0	Gunwinyguan	3	6.132	Australia	DJAUAN	0	phoible	NA	NA	NA	0	-14.08	133.25
+djr	2974	Djambarrpuyngu	ER	31	25	6	0	Pama-Nyungan	2770	4.652	Australia	DJAMBARRPUYNGU	0	phoible	NA	NA	NA	0	-12.17	135.5
+dlg	multiple	Dolgan	multiple	42	22	20	0	Turkic	1050	3.615	N-C Asia	DOLGAN	0	phoible	NA	NA	NA	0	71.25	98
+dmk	514	Domaaki	EA	NA	NA	NA	0	Indo-European	340	3.36	S/SE Asia	DOMAAKI	0	phoible	NA	NA	NA	0	36.17	74
+dml	366	Dameli	EA	NA	NA	NA	2	Indo-European	5000	3.513	S/SE Asia	DAMELI,DAMELI_2	1	phoible	NA	NA	NA	2	35.36	71.72
+dmo	1412	Kemezung	GM	34	20	8	6	Atlantic-Congo	3540	2.967	Africa	KEMEZUNG	1	phoible	NA	NA	NA	6	6.75	10.5
+dni	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	20000	4.203	NG and Oceania	HITIGIMA_DANI,TANGMA_DANI,UPPER_PYRAMID_DANI	0	wals	dni	1	0	NA	-4.42	138.5
+dnj	NA	NA	NA	NA	NA	NA	NA	Mande	1534800	2.138	Africa	YAKOUBA	1	wals	dan	3	1	NA	7.27	-8.15
+dnn	1468	Dzuungoo	GM	55	26	26	3	Mande	13400	2.71	Africa	DZUUN,DZUUNGOO,DZUUNGOO_2	1	phoible	NA	NA	NA	3	11	-5
+dop	769	lokpa	AA	37	17	20	0	Atlantic-Congo	150900	4.202	Africa	LUKPA,LUKPA_2	0	phoible	NA	NA	NA	0	9.52	1.67
+dow	698	doayo	AA	48	22	22	4	Atlantic-Congo	18000	3.911	Africa	DOOHWAAYAAYO	1	phoible	doy	3	1	4	8.67	13.08
+doy	1495	Dompo	GM	31	22	7	2	Atlantic-Congo	65	3.139	Africa	DOMPO	1	phoible	NA	NA	NA	2	8.15	-2.37
+drd	multiple	Darmiya	multiple	38	30	8	0.67	Sino-Tibetan	1750	3.053	S/SE Asia	DARMIYA	1	phoible	NA	NA	NA	1	30	79.75
+drl	2876	Southern Paakintyi	ER	26	20	6	0	Pama-Nyungan	22	4.779	Australia	DARLING	0	phoible	NA	NA	NA	0	-32.5	142.5
+dru	NA	NA	NA	NA	NA	NA	0	Austronesian	10500	5.286	S/SE Asia	BUDAI_RUKAI,MAGA_RUKAI,MANTAURAN,MANTAURAN_RUKAI,RUKAI,TANAN_RUKAI,TONA_RUKAI	0	wals	ruk	1	0	NA	22.83	120.83
+dry	518	Darai	EA	NA	NA	NA	0	Indo-European	11700	3.941	S/SE Asia	DARAI,DARAI_2	0	phoible	dar	1	0	0	24	84
+dsb	multiple	Lower Sorbian	multiple	42	35	7	0	Indo-European	6670	4.175	W and SW Eurasia	LOWER_SORBIAN,LOWER_SORBIAN_2	0	phoible	NA	NA	NA	0	51.75	14.33
+dsq	1372	Tadaksahak	GM	70	59	11	0	Songhay	101800	4.375	Africa	TADAKSAHAK	0	phoible	NA	NA	NA	0	15.52	2.13
+dta	multiple	Daur	multiple	57	45	12	0	Mongolic	96100	3.681	N-C Asia	DAUR,TACHENG_DAGUR	0	phoible	dgr	1	0	0	48	124
+dts	699	dogon	AA	42	21	21	0	Dogon	50000	3.6	Africa	DOGON,TORO_SO,TORO_SO_2,TORO_SO_3	0	phoible	dts	2	1	0	14.5	-3.33
+dua	700	duala	AA	33	21	7	5	Atlantic-Congo	87700	3.264	Africa	DUALA,DUALA_2	1	phoible	NA	NA	NA	5	4	9.42
+dug	multiple	duruma	multiple	48	41	5	2	Atlantic-Congo	397000	3.839	Africa	DURUMA	1	phoible	NA	NA	NA	2	-3.78	39.08
+duo	multiple	Dupaningan Agta	multiple	21	15	6	0	Austronesian	1200	5.338	S/SE Asia	DUPANINGAN_AGTA	0	phoible	NA	NA	NA	0	17.83	122.17
+dwr	NA	NA	NA	NA	NA	NA	NA	Ta-Ne-Omotic	533000	4.506	Africa	KULLO,KULLO_2	1	wals	kul	2	1	NA	6.75	37.08
+dwu	NA	NA	NA	NA	NA	NA	0	Pama-Nyungan	300	5.319	Australia	DHUWAL,DJAPU	0	wals	djp	1	0	NA	-12.67	136.75
+dyn	2991	Thanggati	ER	19	13	6	0	Pama-Nyungan	NA	5.028	Australia	DYANGADI	0	phoible	NA	NA	NA	0	-30.75	152.75
+dyo	737	joola	AA	29	19	10	0	Atlantic-Congo	397100	4.411	Africa	DIOLA,JOLA,JOOLA_FOGNY,JOOLA_FOGNY_10,JOOLA_FOGNY_11,JOOLA_FOGNY_12,JOOLA_FOGNY_13,JOOLA_FOGNY_14,JOOLA_FOGNY_15,JOOLA_FOGNY_16,JOOLA_FOGNY_17,JOOLA_FOGNY_18,JOOLA_FOGNY_2,JOOLA_FOGNY_3,JOOLA_FOGNY_4,JOOLA_FOGNY_5,JOOLA_FOGNY_6,JOOLA_FOGNY_7,JOOLA_FOGNY_8,JOOLA_FOGNY_9	0	phoible	dio	1	0	0	13	-16
+dyu	696	dioula	AA	39	23	14	2	Mande	2208000	3.555	Africa	JULA_DE_KONG,JULA_VEHICULAIRE	1	phoible	NA	NA	NA	2	9.09	-4.6
+dyy	2890	Djabugay	ER	19	13	6	0	Pama-Nyungan	28	5.103	Australia	DYAABUGAY	0	phoible	NA	NA	NA	0	-16.75	145.58
+dzg	693	daza	AA	32	21	11	0	Saharan	582000	3.641	Africa	DAZAGA	0	phoible	NA	NA	NA	0	16	15
+dzo	multiple	Dzongkha	multiple	58	32	26	2	Sino-Tibetan	237080	3	S/SE Asia	DZONGKHA	1	phoible	NA	NA	NA	2	27.5	89.6
+efi	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	405260	3.487	Africa	EFIK,EFIK_2	1	wals	efi	2	1	NA	4.92	8.5
+ega	1233	Ega	PH	39	27	9	3	Atlantic-Congo	2500	3.703	Africa	EGA	1	phoible	NA	NA	NA	3	5.5	-5.5
+ego	873	Eggon	PH	42	30	7	5	Atlantic-Congo	140000	3.513	Africa	EGGON	1	phoible	NA	NA	NA	5	8.67	8.58
+ekg	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	100000	3.895	NG and Oceania	KAPAUKU	1	wals	eka	2	1	NA	-3.83	135.5
+ekk	multiple	Estonian	multiple	40	31	9	0	Uralic	1144670	3.806	N-C Asia	ESTONIAN,ESTONIAN_2,ESTONIAN_3,ESTONIAN_4	0	phoible	NA	NA	NA	0	59	26
+ekm	969	Nulibie	PH	30	19	7	4	Atlantic-Congo	6400	2.859	Africa	LIBIE	1	phoible	NA	NA	NA	4	4.55	11.12
+ekp	874	Ekpeye	PH	37	24	9	4	Atlantic-Congo	30000	3.833	Africa	EKPEYE	1	phoible	NA	NA	NA	4	5	6.67
+eky	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	26000	2.897	S/SE Asia	KAYAH_LI_EASTERN	1	wals	kyl	3	1	NA	19	97.5
+ell	multiple	Modern Greek	multiple	29.75	24.75	5	0	Indo-European	13098380	4.719	W and SW Eurasia	GREEK,MODERN_GREEK	0	phoible	grk	1	0	0	39	22
+ema	707	emai	AA	48	27	21	0	Atlantic-Congo	100000	3.053	Africa	AOMA,EMAI	0	phoible	NA	NA	NA	0	7.08	5.92
+emk	777	manding	AA	36	20	14	2	Mande	3591000	3.444	Africa	MANINKA_KANKAN,MANINKAKAN_EASTERN	1	phoible	NA	NA	NA	2	10.75	-9.5
+enb	875	Endo	PH	36	13	20	3	Nilotic	180000	3.481	Africa	ENDO	1	phoible	NA	NA	NA	3	1.08	35.58
+enf	multiple	Forest Enets	multiple	33	25	8	0	Uralic	40	3.816	N-C Asia	FOREST_ENETS,FOREST_ENETS_2	0	phoible	NA	NA	NA	0	67.5	86.5
+eng	multiple	English	multiple	41.22	24.44	16.67	0.1	Indo-European	378250540	3.381	W and SW Eurasia	ENGLISH,ENGLISH_2	1	phoible	eng	1	0	0	52	0
+enn	708	engenni	AA	33	20	10	3	Atlantic-Congo	20000	3.306	Africa	EGENE,ENGENNI	1	phoible	NA	NA	NA	3	5.17	6.38
+err	2648	Erre	ER	23	18	5	0	Giimbiyu	NA	6.139	Australia	ERRE	0	phoible	NA	NA	NA	0	-12.25	132.83
+ess	NA	NA	NA	NA	NA	NA	0	Eskimo-Aleut	1200	5.525	N-C Asia	CENTRAL_SIBERIAN_YUPIK,ST_LAWRENCE_YUPIK,YUPIK_CENTRAL_SIBERIAN_CHAPLINO	0	wals	yus	1	0	NA	63.5	-170.5
+eto	1563	Eton	GM	38	21	15	2	Atlantic-Congo	250000	2.784	Africa	ETON,ETON_CAMEROON	1	phoible	NA	NA	NA	2	4.25	11.5
+ets	1110	Etsako	PH	36	26	7	3	Atlantic-Congo	274000	3.176	Africa	AUCHI,AVBIANWU,YEKHEE	1	phoible	NA	NA	NA	3	7.25	6.5
+etu	multiple	ejagham de l'ouest	multiple	30.5	20	7	3.5	Atlantic-Congo	116700	2.811	Africa	BENDEGHE,BENDEGHE_2,EJAGHAM,EKOI,ETUNG_N,ETUNG_S,KEAKA,OBANG	1	phoible	eja	3	1	4	5.42	8.67
+etx	1533	Iten	GM	74	63	6	5	Atlantic-Congo	40000	3.857	Africa	ITEN	1	phoible	NA	NA	NA	5	9.73	8.63
+eus	multiple	Basque	multiple	32.86	23.71	8.86	0.18	Basque	537860	4.469	W and SW Eurasia	BASQUE,BASQUE_2	1	phoible	bsq	1	0	0	43	-3
+eve	multiple	Even	multiple	36	18	18	0	Tungusic	5660	4.331	N-C Asia	EVEN,EWEN	0	phoible	evn	1	0	0	68	130
+evn	multiple	Evenki	multiple	27	17.5	9.5	0	Tungusic	15800	4.34	N-C Asia	EVENKI,EVENKI_POLIGUS_LITERARY,EWENKI_1,EWENKI_2,KUR_URMI,SOLON	0	phoible	eve	1	0	0	56	125
+ewe	multiple	Ewe	multiple	43.5	27.5	13	3	Atlantic-Congo	4185760	3.172	Africa	EWE_ADANGBE	1	phoible	ewe	2	1	3	6.33	0.42
+ewo	709	ewondo	AA	25	15	7	3	Atlantic-Congo	578000	3.147	Africa	A72a_EWONDO,EWONDO,EWONDO_2,EWONDO_3,EWONDO_4	1	phoible	ewo	3	1	3	4	12
+eya	NA	NA	NA	NA	NA	NA	0	Athabaskan-Eyak-Tlingit	NA	4.013	W N America	EYAK	0	wals	eya	1	0	NA	60.5	-145
+faa	NA	NA	NA	NA	NA	NA	NA	Fasu	1200	4.52	NG and Oceania	FASU,NAMUMI	1	wals	fas	2	1	NA	-6.58	143.33
+fak	1621	Fang	GM	36	23	10	3	Atlantic-Congo	4000	3.1	Africa	FANG	1	phoible	NA	NA	NA	3	6.54	10.32
+fao	multiple	Faroese	multiple	36	16	20	0	Indo-European	69000	4.125	W and SW Eurasia	FAROESE	0	phoible	NA	NA	NA	0	62	-7
+fap	1324	Ndut-Falor	GM	43	26	17	0	Atlantic-Congo	12000	3.333	Africa	PALOR,PALOR_2,PALOR_3	0	phoible	NA	NA	NA	0	14.89	-16.92
+ffm	714	fulfulde	AA	37	27	10	0	Atlantic-Congo	1045440	4.812	Africa	FULA_MAASINA,FULFULDE_MAASINA	0	phoible	NA	NA	NA	0	15.5	-3.5
+fia	152	Mahas-Fiyadikka	SPA	45	33	10	2	Nubian	669000	3.515	Africa	NOBIIN	1	phoible	nob	2	1	2	21	31
+fij	NA	NA	NA	NA	NA	NA	0	Austronesian	341270	4.974	NG and Oceania	FIJIAN,FIJIAN_2	0	wals	fij	1	0	NA	-17.83	178
+fin	multiple	Finnish	multiple	32.5	20	12.5	0	Uralic	5513000	4.356	N-C Asia	FINNISH,FINNISH_2	0	phoible	fin	1	0	0	62	25
+fip	1659	Fipa	GM	35	20	14	1	Atlantic-Congo	713000	3.861	Africa	FIPA	1	phoible	NA	NA	NA	1	-8	31.3
+fli	1377	Kirya-Konzɘl	GM	50	38	7	5	Afro-Asiatic	25000	4.293	Africa	FALI_BAGIRA,FALI_MUCHELLA	1	phoible	NA	NA	NA	5	10.4	13.3
+flr	multiple	fuliru	multiple	35.5	24.5	10	1	Atlantic-Congo	400000	3.903	Africa	FULIRU	1	phoible	NA	NA	NA	1	-3.08	29
+fmp	710	fe'efe'fe	AA	44	23	16	5	Atlantic-Congo	140000	2.716	Africa	FEFE_1,FEFE_2	1	phoible	fef	3	1	5	5.25	10.17
+fon	711	fɔn	AA	42	24	14	4	Atlantic-Congo	1935500	3.099	Africa	FON_GBE,FONGBE	1	phoible	NA	NA	NA	4	7.3	2.2
+fra	multiple	French	multiple	36.67	21.33	15.33	0	Indo-European	76795640	3.025	W and SW Eurasia	FRENCH,FRENCH_2	0	phoible	fre	1	0	0	48	2
+frp	383	Francoprovençal (St. Martin-en-Haut)	EA	NA	NA	NA	0	Indo-European	227000	3.258	W and SW Eurasia	ARPITAN	0	phoible	NA	NA	NA	0	45.77	4.83
+frr	385	Frisian (North)	EA	NA	NA	NA	0	Indo-European	10000	3.6	W and SW Eurasia	NORTH_FRISIAN_AMRUM	0	phoible	NA	NA	NA	0	54.65	8.35
+fry	multiple	Frisian (West)	multiple	51	19	32	0	Indo-European	845100	3.85	W and SW Eurasia	FRISIAN_WESTERN	0	phoible	NA	NA	NA	0	53	6
+fub	multiple	fulfulde	multiple	40	30	10	0	Atlantic-Congo	1007500	4.592	Africa	FULFULDE_ADAMAWA,FULFULDE_ADAMAWA_2	0	phoible	NA	NA	NA	0	9.17	13.5
+fuc	809	pulaar	AA	38	28	10	0	Atlantic-Congo	4476000	4.641	Africa	FULA,PULAAR_FUTA_TOORO	0	phoible	NA	NA	NA	0	15	-14
+fuf	810	pular	AA	38	28	10	0	Atlantic-Congo	3808200	4.583	Africa	PULAR,PULAR_FUUTA_JALON,PULAR_FUUTA_JALON_2,PULAR_FUUTA_JALON_3	0	phoible	NA	NA	NA	0	11.5	-12.5
+fuh	715	fulfulde	AA	32	27	5	0	Atlantic-Congo	1650000	4.821	Africa	FULA_BURKINA_FASO,FULA_NIGER_BURKINA_FASO	0	phoible	NA	NA	NA	0	14	0
+fun	NA	NA	NA	NA	NA	NA	NA	Fulnio	1000	4.2	S America	FULNIO	1	wals	ful	2	1	NA	-8	-37.5
+fuq	713	fulfulde	AA	37	27	10	0	Atlantic-Congo	450000	4.824	Africa	CENTRAL_EASTERN_NIGER_FULFULDE	0	phoible	NA	NA	NA	0	15.09	8.43
+fur	multiple	Friulian	multiple	39	25	14	0	Indo-European	300000	4.025	W and SW Eurasia	FRIULIAN	0	phoible	NA	NA	NA	0	46.17	12.9
+fuv	multiple	fulfulde (NGA)	multiple	47.5	37.5	10	0	Atlantic-Congo	14485000	4.533	Africa	FULA_KANO_KATSINA_BORORO,FULA_KANO_KATSINA_BORORO_2,FULFULDE	0	phoible	NA	NA	NA	0	12.5	8
+fvr	NA	NA	NA	NA	NA	NA	NA	Furan	745800	3.671	Africa	FUR	1	wals	fur	2	1	NA	13.5	25
+gaa	multiple	Ga	multiple	42.5	28	12	2.5	Atlantic-Congo	745000	3.15	Africa	GA	1	phoible	ga	3	1	2	5.67	-0.17
+gag	multiple	Gagauz (Standard)	multiple	46	28	18	0	Turkic	566720	4.227	N-C Asia	GAGAUZ	0	phoible	NA	NA	NA	0	46.33	28.67
+gaj	56	Gadsup	SPA	19	9	6	4	Nuclear_Trans_New_Guinea	22100	5.039	NG and Oceania	GADSUP	1	phoible	gds	3	1	4	-6.25	146
+gaq	multiple	Didayi	multiple	39	23.5	15.5	0	Austroasiatic	3060	4.172	S/SE Asia	GATA	0	phoible	NA	NA	NA	0	18.8	82.7
+gax	1362	Galla	GM	36	26	10	0	Afro-Asiatic	3949600	4.502	Africa	BORANA_OROMO,BORANA_OROMO_2,ORMA_2	0	phoible	NA	NA	NA	0	4.5	38.5
+gbb	2711	Kaytetye	ER	43	40	3	0	Pama-Nyungan	150	5.537	Australia	KAYTETYE,KAYTETYE_2	0	phoible	NA	NA	NA	0	-19.38	134.1
+gbj	multiple	Gutob	multiple	38	19	19	0	Austroasiatic	8000	3.838	S/SE Asia	BODO_GADABA	0	phoible	NA	NA	NA	0	19	83.67
+gbp	multiple	Gbeya	multiple	45	30	12	3	Atlantic-Congo	200000	3.228	Africa	GBAYA_BOSSANGOA,GBAYA_BOSSANGOA_2,GBEYA	1	phoible	gbb	2	1	3	6.48	17.45
+gbr	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	700000	4.406	Africa	GBAGYI,GBAGYI_SHAITA	1	wals	gwa	3	1	NA	9.7	6.95
+gbu	2653	Gaagudju	ER	27	17	10	0	Gaagudju	NA	5.743	Australia	GAAGUDJU	0	phoible	NA	NA	NA	0	-12.62	132.83
+gcd	3001	Gangalidda	ER	24	18	6	0	Tangkic	1	5.827	Australia	GANGGALIDA,GANGULIDA	0	phoible	NA	NA	NA	0	-17.33	138.83
+gdb	multiple	Ollari	multiple	36.5	20.5	16	0	Dravidian	15000	4.033	S/SE Asia	OLLARI_GADBA	0	phoible	NA	NA	NA	0	18.6	82.76
+gde	multiple	guɗe	multiple	36	30	4	2	Afro-Asiatic	88000	4.057	Africa	GUDE	1	phoible	NA	NA	NA	2	10.42	13.42
+gdo	multiple	Godoberi	multiple	66	53	13	0	Nakh-Daghestanian	130	4.211	W and SW Eurasia	GODOBERI	0	phoible	NA	NA	NA	0	42.67	46.08
+gdq	multiple	Mehri (Oman)	multiple	45	31	14	0	Afro-Asiatic	165900	4.694	Africa	MEHRI,MEHRI_2	0	phoible	NA	NA	NA	0	17	51.5
+gej	multiple	gɛn-mina	multiple	42	26	13	3	Atlantic-Congo	325000	3.25	Africa	GEN	1	phoible	NA	NA	NA	3	6.25	1.75
+gel	1535	West Kainji	GM	56	36	16	4	Atlantic-Congo	36000	3.385	Africa	FAKAI_A,ROR,ROR_2	1	phoible	NA	NA	NA	4	11.5	4.83
+gge	2677	Gurr-Goni	ER	27	22	5	0	Maningrida	60	5.458	Australia	GURAGONE	0	phoible	NA	NA	NA	0	-12.25	134.42
+ggk	2675	Kungarakany	ER	22	17	5	0	Kungarakany	NA	4.814	Australia	KUNKARAKANY	0	phoible	NA	NA	NA	0	-12	131
+ggu	1562	Gban	GM	36	20	12	4	Mande	60000	2.304	Africa	GAGU	1	phoible	NA	NA	NA	4	6.5	-5.5
+gia	2674	Kija	ER	24	19	5	0	Jarrakan	210	5.703	Australia	KITJA	0	phoible	NA	NA	NA	0	-17.5	127.75
+gid	901	Kada	PH	38	28	8	2	Afro-Asiatic	65700	3.828	Africa	GIDAR	1	phoible	NA	NA	NA	2	10	14
+gih	2713	Gidabal	ER	21	13	8	0	Pama-Nyungan	20	5.051	Australia	GIDABAL	0	phoible	NA	NA	NA	0	-28.29	152.15
+gil	NA	NA	NA	NA	NA	NA	0	Austronesian	118401	4.284	NG and Oceania	KIRIBATI	0	wals	krb	1	0	NA	1.33	173
+gin	71	Hinuq	EA	NA	NA	NA	0	Nakh-Daghestanian	5	3.5	W and SW Eurasia	HINUKH	0	phoible	NA	NA	NA	0	42.17	46
+gis	1624	Gisiga	GM	37	29	3	5	Afro-Asiatic	20000	3.971	Africa	NORTHERN_GIZIGA	1	phoible	NA	NA	NA	5	10.33	14.17
+gjn	724	gonja	AA	39	23	14	2	Atlantic-Congo	310000	4.264	Africa	GONJA,GONJA_2	1	phoible	NA	NA	NA	2	8.8	-0.75
+gju	1724	Gojri	RA	57	35	19	3	Indo-European	1005000	3.12	W and SW Eurasia	AGRA_GUJARI,CENTRAL_AZAD_KASHMIR_GUJARI,CHITRAL_GUJARI,DIR_GUJARI,GILGIT_GUJARI,KAGHAN_GUJARI,KUNAR_GUJARI,MENDHAR_GUJARI,NORTHERN_AZAD_KASHMIR_GUJARI,SETTLED_SWAT_GUJARI,SOUTHERN_AZAD_KASHMIR_GUJARI,SOUTHERN_HAZARA_GUJARI,TRANSHUMANT_SWAT_GUJARI	1	phoible	NA	NA	NA	3	27.18	78
+gke	1348	Galke	GM	57	32	22	3	Atlantic-Congo	5	3.188	Africa	GALKE	1	phoible	NA	NA	NA	3	8.08	14.33
+gkp	multiple	kpɛlɛwoo	multiple	37	25.5	10	1.5	Mande	460000	3.225	Africa	KPELLE_GUINEA,KPELLE_GUINEA_2	1	phoible	NA	NA	NA	2	8	-9
+gla	multiple	Scottish Gaelic (Lewis)	multiple	82	33	49	0	Indo-European	60130	3.7	W and SW Eurasia	GAELIC_SCOTTISH	0	phoible	NA	NA	NA	0	57	-4
+gld	492	Nanai	EA	NA	NA	NA	0	Tungusic	1390	4.512	N-C Asia	HEZHE,NANAI,NANAI_2,NANAI_CHINA,NAYKHIN_NANAI	0	phoible	nai	1	0	0	49.5	137
+gle	multiple	Irish Gaelic	multiple	54.75	37	17.75	0	Indo-European	169240	3.631	W and SW Eurasia	IRISH,IRISH_GAELIC	0	phoible	ird	1	0	0	53	-8
+glg	multiple	Galician	multiple	30	23	7	0	Indo-European	2372000	4.308	W and SW Eurasia	GALICIAN	0	phoible	NA	NA	NA	0	43	-8
+glk	356	Gilaki	EA	NA	NA	NA	0	Indo-European	2400000	4	W and SW Eurasia	GILAKI	0	phoible	NA	NA	NA	0	37.33	50
+glw	1543	Glavda	GM	43	34	7	2	Afro-Asiatic	31300	4.382	Africa	GLAVDA	1	phoible	NA	NA	NA	2	11.24	13.9
+gmm	multiple	Mbodomo; Mbódɔ̀mɔ́	multiple	37.5	28	7	2.5	Atlantic-Congo	8000	3.288	Africa	GBAYA_MBODOMO,GBAYA_MBODOMO_2	1	phoible	NA	NA	NA	2	4.5	15.5
+gmv	1481	Gamo	GM	36	26	10	0	Ta-Ne-Omotic	1094400	4.276	Africa	DACHE,GAMO,GAMO_DHAACHE,MELE_2,SHARA	0	phoible	NA	NA	NA	0	6.7	37.05
+gnd	851	zulgo	AA	34	29	2	3	Afro-Asiatic	26000	4.662	Africa	ZULGO	1	phoible	NA	NA	NA	3	10.83	14.08
+gng	718	gangam	AA	39	22	14	3	Atlantic-Congo	77400	3	Africa	NGANGAM	1	phoible	NA	NA	NA	3	10.25	0.42
+gni	2631	Gooniyandi	ER	23	19	4	0	Bunaban	60	5.081	Australia	GOONIYANDI	0	phoible	goo	1	0	0	-18.47	126.33
+gnn	2975	Gumatj	ER	31	25	6	0	Pama-Nyungan	240	5.088	Australia	GOMAIDJ	0	phoible	NA	NA	NA	0	-12.5	135.5
+goa	1605	Gouro	GM	57	26	28	3	Mande	500000	2.962	Africa	GOURO,GURO	1	phoible	NA	NA	NA	3	7.19	-6.31
+god	723	godié	AA	42	26	13	3	Atlantic-Congo	26400	3.743	Africa	GODIE,GODIE_2	1	phoible	NA	NA	NA	3	5.42	-5.83
+gou	1577	Gavar	GM	55	47	5	3	Afro-Asiatic	15000	3.962	Africa	GAVAR,GAVAR_2	1	phoible	NA	NA	NA	3	10.56	13.82
+grj	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	99000	3.107	Africa	GREBO,SOUTHERN_GREBO,SOUTHERN_GREBO_2	1	wals	grb	3	1	NA	5	-8
+grt	multiple	Garo	multiple	23.5	18.5	5	0	Sino-Tibetan	1009000	3.969	S/SE Asia	GARO	0	phoible	gar	1	0	0	25.67	90.5
+gru	multiple	Soddo	multiple	41	34	7	0	Afro-Asiatic	315500	4.182	Africa	SODDO	0	phoible	NA	NA	NA	0	8.5	38.5
+gsw	multiple	Swiss German	multiple	55.5	26.5	29	0	Indo-European	5724200	3.706	W and SW Eurasia	ALSATIAN,BERNESE_GERMAN	0	phoible	NA	NA	NA	0	48.5	7.5
+guc	109	Goajiro	SPA	46	28	18	0	Arawakan	416000	4.912	S America	WAYUU	0	phoible	NA	NA	NA	0	12	-72
+gue	multiple	Wanyjirra	multiple	21.67	17	4.67	0	Pama-Nyungan	600	5.722	Australia	GURINDJI	0	phoible	NA	NA	NA	0	-17.67	130.67
+guf	2972	Gupapuyngu	ER	31	25	6	0	Pama-Nyungan	1530	5.352	Australia	GOBABINGO,MANGGALILI,MARARBA	0	phoible	NA	NA	NA	0	-12.25	135.5
+gug	119	Guarani	SPA	36	24	12	0	Tupian	6050000	4.192	S America	GUARANI	0	phoible	gua	1	0	0	-26	-56
+guj	multiple	Gujarati	multiple	59	33	26	0	Indo-European	46888670	3.825	W and SW Eurasia	GUJARATI	0	phoible	NA	NA	NA	0	23	72
+guk	1475	Gumuz	GM	44	34	10	0	Gumuz	201000	3.966	Africa	DISOHA,GUMUZ,SESE	0	phoible	NA	NA	NA	0	12.42	35.42
+gup	multiple	Gun-Dedjnjenghmi	multiple	27.17	22	5.17	0	Gunwinyguan	1140	6.054	Australia	GUNWINGGU_GUN_DJEIHMI,GUNWINGGU_KUNE,GUNWINGGU_KUNINJKU,GUNWINGGU_KUNWINJKU,GUNWINGGU_MANYALLALUK_MAYALI	0	phoible	NA	NA	NA	0	-12.5	133.75
+gur	1325	Frafra	GM	30	20	8	2	Atlantic-Congo	663100	4.333	Africa	FRAFRA,NINKARE	1	phoible	NA	NA	NA	2	10.83	-0.92
+gux	727	gulmancema	AA	33	20	10	3	Atlantic-Congo	1064200	4.036	Africa	GOURMANCHEMA,GOURMANCHEMA_2,GURMANCEMA	1	phoible	NA	NA	NA	3	12.25	1
+gvc	1113	Wanano	PH	24	16	6	2	Tucanoan	950	4.408	S America	GUANANO,WANANO	1	phoible	NA	NA	NA	2	0.83	-69.5
+gvn	multiple	Gugu Wakura	multiple	16	13	3	0	Pama-Nyungan	360	4.692	Australia	KOKO_YALANDJI	0	phoible	kya	1	0	0	-16	145
+gvr	multiple	Gurung (Western)	multiple	49	29	20	2	Sino-Tibetan	359000	3.679	S/SE Asia	GHACHOK,GURUNG,GURUNG_WESTERN	1	phoible	NA	NA	NA	2	29	83
+gwc	343	Kalam (Swat-Dir) Kohistani	EA	NA	NA	NA	5	Indo-European	100000	3.143	S/SE Asia	KALAMI	1	phoible	kal	2	1	5	35.5	72.5
+gwe	1638	Kigweno	GM	29	24	5	0	Atlantic-Congo	2500	3.381	Africa	GWENO,GWENO_2	0	phoible	NA	NA	NA	0	-3.67	37.75
+gwn	multiple	Gwandara (Karshi)	multiple	53.83	32.33	13.5	8	Afro-Asiatic	27300	3.906	Africa	ARABISHI,GARAKU,GITATA,GWAGWA,KARSHI,NIMBIA	1	phoible	NA	NA	NA	8	8.67	8.08
+gwt	340	Gawarbati	EA	NA	NA	NA	0	Indo-European	33960	3.629	S/SE Asia	GAWAR_BATI	0	phoible	NA	NA	NA	0	35.3	71.56
+gwu	3017	Guwamu	ER	21	15	6	0	Pama-Nyungan	NA	4.792	Australia	GUWAMU	0	phoible	NA	NA	NA	0	-27.83	148.87
+gww	3009	Kwini	ER	28	17	11	0	Worrorran	1	4.679	Australia	GUNIN_KWINI	0	phoible	NA	NA	NA	0	-14.25	126.67
+gya	719	gbaya	AA	53	30	19	4	Atlantic-Congo	267000	3.198	Africa	GBAYA_KARA_2,GBAYA_KARA_3,GBAYA_KARA_4,GBAYA_KARA_5,GBAYA_KARA_6,GBAYA_KARA_7,GBAYA_KARA_8,GBAYA_LAI,KARA_BODOE,NORTHERN_GBAYA,NORTHERN_GBAYA_2	1	phoible	NA	NA	NA	4	6	14.8
+gyd	multiple	Kayardild	multiple	23.5	17.5	6	0	Tangkic	8	5.629	Australia	KAYARDILD	0	phoible	kay	1	0	0	-17.05	139.5
+gyy	2816	Gunya	ER	31	25	6	0	Pama-Nyungan	NA	4.548	Australia	GUNYA	0	phoible	NA	NA	NA	0	-27.06	145.86
+hae	1552	Oromo, Eastern	GM	60	48	10	2	Afro-Asiatic	4530000	4.281	Africa	EASTERN_OROMO,EASTERN_OROMO_2	1	phoible	orh	3	1	2	9	42
+hag	728	hanga	AA	29	23	6	0	Atlantic-Congo	6800	4.1	Africa	HANGA	0	phoible	NA	NA	NA	0	9.5	-1.53
+hak	multiple	Hakka	multiple	39	23.33	12.67	3.75	Sino-Tibetan	48210500	3.227	S/SE Asia	HAKKA,HAKKA_BEILIUMUMIAN,HAKKA_BOBAICUNTOU,HAKKA_CHANGTING,HAKKA_CHENGHUAQULONGTANSI_CHENGDU,HAKKA_DAYU,HAKKA_FUMIANXINSHA,HAKKA_GANXIAN,HAKKA_HEYUAN,HAKKA_JIEXI,HAKKA_LIANNAN,HAKKA_LONGQUANYISHILINGZHEN_CHENGDU,HAKKA_LUCHUAN,HAKKA_LUCHUANSIHE,HAKKA_MEIXIAN,HAKKA_NINGDU,HAKKA_NINGHUA,HAKKA_QINGBAIJIANGLONGWANGZHEN_CHENGDU,HAKKA_QINGXI,HAKKA_RONGXIANXIANDI,HAKKA_SANDU,HAKKA_WENGYUAN,HAKKA_WUPING,HAKKA_XIANGGANG,HAKKA_XIHE,HAKKA_XINDUQUSHIBANTANZHEN_CHENGDU,HAKKA_XINGYEGAOFENG,HAKKA_YUDU,THONG_BOI	1	phoible	hak	3	1	4	25	116
+han	1643	Kihangaza	GM	35	23	10	2	Atlantic-Congo	155000	3.722	Africa	HANGAZA	1	phoible	NA	NA	NA	2	-2.6	30.75
+har	1397	Harari	GM	34	25	9	0	Afro-Asiatic	27120	3.694	Africa	HARARI,HARARI_2	0	phoible	NA	NA	NA	0	9.25	42.17
+hau	multiple	Hausa	multiple	41.25	30.5	9	1.75	Afro-Asiatic	43654100	4.199	Africa	HAUSA,HAUSA_2,HAUSA_3,HAUSA_4,HAUSA_5,HAUSA_ADER,KANO	1	phoible	hau	2	1	2	12	7
+haw	43	Hawaiian	SPA	19	9	10	0	Austronesian	2000	3.896	S/SE Asia	HAWAIIAN,HAWAIIAN_2,HAWAIIAN_3	0	phoible	haw	1	0	0	19.58	-155.5
+hbb	1304	Kilba	GM	31	24	5	2	Afro-Asiatic	306000	3.615	Africa	HUBA,KILBA	1	phoible	NA	NA	NA	2	10.33	13.17
+hbn	1497	Heiban	GM	34	27	7	0	Heibanic	4410	3.894	Africa	ABUL,EBANG	0	phoible	NA	NA	NA	0	11.25	30.67
+hdn	67	Haida	SPA	50	47	3	0	Haida	6	4.154	W N America	HAIDA_2	0	phoible	NA	NA	NA	0	54	-132.5
+hdy	1363	Hadiyya	GM	56	46	10	0	Afro-Asiatic	1401000	4.319	Africa	HADIYYA,HADIYYA_2	0	phoible	NA	NA	NA	0	7.25	38
+heb	multiple	Modern Hebrew	multiple	27.33	22	5.33	0	Afro-Asiatic	5341800	4.075	Africa	HEBREW,MODERN_HEBREW	0	phoible	hba	1	0	0	31.5	34.83
+her	1255	herero	GM	26	19	5	2	Atlantic-Congo	211700	3.138	Africa	HERERO,HERERO_2	1	phoible	NA	NA	NA	2	-20.58	19
+hia	1404	Lamang	GM	41	37	4	0	Afro-Asiatic	40000	4.125	Africa	LAMANG_HITKALANCHI	0	phoible	NA	NA	NA	0	11.02	13.74
+hig	1368	Higi	GM	35	26	7	2	Afro-Asiatic	300000	4.164	Africa	BAZZA,FALI_GILI,FALI_KIRIYA,FUTU,GHYE,KAMALE,NKAFA	1	phoible	NA	NA	NA	2	10.5	13.26
+hil	1696	Hiligaynon	GM	25	20	5	0	Austronesian	6246880	4.581	S/SE Asia	HILIGAYNON	0	phoible	NA	NA	NA	0	10.25	123
+hin	multiple	Hindi-Urdu	multiple	70.25	51.25	19	0	Indo-European	260004650	3.781	W and SW Eurasia	HINDI,HINDI_2	0	phoible	hin	1	0	0	25	77
+hix	NA	NA	NA	NA	NA	NA	0	Cariban	600	4.564	S America	HIXKARYANA	0	wals	hix	1	0	NA	-1	-59
+hka	1642	Kikahe	GM	32	22	10	0	Atlantic-Congo	9130	4.444	Africa	KAHE	0	phoible	NA	NA	NA	0	-3.4	37.4
+hlb	multiple	Halbi	multiple	42	29	13	0	Indo-European	793000	3.557	W and SW Eurasia	HALABI	0	phoible	NA	NA	NA	0	21	81
+hmt	NA	NA	NA	NA	NA	NA	NA	Angan	45000	4.362	NG and Oceania	HAMTAI,KAPAU	1	wals	ham	2	1	NA	-7.5	146.25
+hna	1401	Besleri	GM	50	39	9	2	Afro-Asiatic	11000	3.903	Africa	MINA,MINA_2	1	phoible	NA	NA	NA	2	10.33	13.83
+hnh	NA	NA	NA	NA	NA	NA	NA	Khoe-Kwadi	1000	3.054	Africa	ANI	1	wals	ani	2	1	NA	-18.92	21.92
+hnj	multiple	Hmong Njua (Green Hmong)	multiple	61	48	13	3.5	Hmong-Mien	310000	2.365	S/SE Asia	HMONG_NJUA,TAK_HMONG	1	phoible	hmo	3	1	4	28	105
+hno	521	Hindko (Northern)	EA	NA	NA	NA	3	Indo-European	1880000	3.097	S/SE Asia	BALAKOT_HINDKO,JAMMUN,MANSEHRA_HINDKO,SHERPUR_HINDKO,SINGO_DI_GARHI_HINDKO	1	phoible	NA	NA	NA	3	34.55	73.35
+hoc	multiple	Ho	multiple	39	23	16	0	Austroasiatic	1040000	3.862	S/SE Asia	HO,HO_2	0	phoible	NA	NA	NA	0	22	86
+hoo	1389	Holoholo	GM	26	17	7	2	Atlantic-Congo	15500	3.493	Africa	D28_HOLOHOLO,HOLOHOLO,LUMBWE,TUMBWE	1	phoible	NA	NA	NA	2	-5.17	29.92
+hop	95	Hopi	SPA	49	31	18	0	Uto-Aztecan	6080	3.9	W N America	HOPI	0	phoible	hop	2	1	0	36	-110
+hrv	379	Croatian	EA	NA	NA	NA	0	Indo-European	5410820	4.112	W and SW Eurasia	CROATIAN,CROATIAN_2	0	phoible	NA	NA	NA	0	45.82	15.98
+hsb	multiple	Upper Sorbian	multiple	42	33	9	0	Indo-European	13300	4.112	W and SW Eurasia	UPPER_SORBIAN	0	phoible	NA	NA	NA	0	51.83	14.5
+hts	NA	NA	NA	NA	NA	NA	NA	Hadza	1000	4.213	Africa	HADZA	1	wals	had	2	1	NA	-3.75	35.17
+hum	1114	Kihungan	PH	33	20	10	3	Atlantic-Congo	400	3.205	Africa	H42_HUNGANA_1,H42_HUNGANA_2,H42_HUNGANA_3,H42_HUNGANA_4,HUNGANA,HUNGANA_2	1	phoible	NA	NA	NA	3	-3.67	18.42
+hun	multiple	Hungarian	multiple	56	41.67	14.33	0	Uralic	12552400	3.346	N-C Asia	CSANGO,HUNGARIAN,HUNGARIAN_2	0	phoible	hun	1	0	0	46.57	26.67
+hup	65	Hupa	SPA	42	35	7	0	Athabaskan-Eyak-Tlingit	31	3.612	W N America	HUPA,HUPA_2	0	phoible	hup	1	0	0	41.08	-123.67
+hur	1115	Chilliwak Halkomelem	PH	47	32	12	3	Salishan	285	5.162	W N America	COWICHAN,MUSQUEAM,STOLO	1	phoible	NA	NA	NA	3	49.25	-122.5
+hus	NA	NA	NA	NA	NA	NA	0	Mayan	132000	4.05	C America	HUASTEC,HUASTEC_VERACRUZ	0	wals	htc	1	0	NA	22.08	-99.33
+huu	NA	NA	NA	NA	NA	NA	0	Huitotoan	1000	4.431	S America	HUITOTO_MIKA,HUITOTO_MURUI,HUITOTO_MURUI_2	0	wals	hum	1	0	NA	-1.17	-73.51
+huv	NA	NA	NA	NA	NA	NA	NA	Huavean	11000	4.269	C America	HUAVE,HUAVE_2	1	wals	hve	2	1	NA	16.22	-95
+huz	2237	Hunzib	UZ	60	36	24	0	Nakh-Daghestanian	1420	3.362	W and SW Eurasia	HUNZIB	0	phoible	hzb	1	0	0	42.17	46.25
+hye	multiple	Armenian	multiple	37	30	7	0	Indo-European	3843000	4.031	W and SW Eurasia	ARMENIAN,EASTERN_ARMENIAN	0	phoible	arm	1	0	0	40	45
+iai	39	Iai	SPA	52	33	19	0	Austronesian	4080	3.044	S/SE Asia	IAAI	0	phoible	iaa	1	0	0	-20.42	166.58
+iba	NA	NA	NA	NA	NA	NA	0	Austronesian	784300	4.279	S/SE Asia	IBAN	0	wals	iba	1	0	NA	2	112
+ibb	1057	Ibibio	PH	32	17	13	2	Atlantic-Congo	9970000	3.575	Africa	IBIBIO,IBIBIO_1,IBIBIO_2	1	phoible	NA	NA	NA	2	4.9	7.35
+ibd	2672	Iwaidja	ER	23	20	3	0	Iwaidjan_Proper	130	5.5	Australia	IWAIDJA	0	phoible	NA	NA	NA	0	-11.5	132.67
+ibe	1532	Akpes	GM	34	21	10	3	Atlantic-Congo	10000	3.553	Africa	AKUNNU	1	phoible	NA	NA	NA	3	7.58	5.92
+ibo	multiple	Igbo	multiple	45.33	32.67	10.67	2	Atlantic-Congo	27012190	3.902	Africa	ECHIE,IGBO,IGBO_2,IGBO_3,IGBO_4,IGBO_5,IGBO_ONITSHA	1	phoible	igb	2	1	2	5.4	7.55
+iby	891	Ibani	PH	38	25	10	3	Ijoid	60000	4.173	Africa	IBANI,IBANI_2	1	phoible	NA	NA	NA	3	4.42	7.25
+idu	1536	Idu	GM	75	47	23	5	Atlantic-Congo	600000	3.929	Africa	IDOMA	1	phoible	NA	NA	NA	5	6.92	7.05
+ife	731	ifɛ̀	AA	34	19	12	3	Atlantic-Congo	170600	3.222	Africa	IFE	1	phoible	NA	NA	NA	3	7.9	1.65
+igb	702	ebira	AA	31	19	9	3	Atlantic-Congo	1820000	3.56	Africa	EBIRA,EBIRA_2,EBIRA_3,IGBIRRA	1	phoible	NA	NA	NA	3	7.65	6.45
+ige	733	igede	AA	38	24	10	4	Atlantic-Congo	250000	3.759	Africa	IGEDE	1	phoible	NA	NA	NA	4	6.53	8.2
+ign	111	Moxo	SPA	25	21	4	0	Arawakan	1080	5.013	S America	IGNACIANO	0	phoible	NA	NA	NA	0	-15.17	-65.42
+iii	multiple	Nuosu (Black Yi)	multiple	74	58	16	1.5	Sino-Tibetan	2000000	2.756	S/SE Asia	NUOSU_YI,XIDE	1	phoible	NA	NA	NA	2	27.88	102.27
+ijc	NA	NA	NA	NA	NA	NA	NA	Ijoid	1000000	3.764	Africa	APOI,AROGBO,BASAN,BUMO,EAST_OLODIAMA,EAST_TARAKIRI,EKPETIAMA,FURUPAGHA,GBARAIN,GBARANMATU,IDUWINI,IKIBIRI,IZON,IZON_2,IZON_3,KABOU,KOLOKUMA,KUNBO,MEIN,OGBE_IJO,OGBOIN,OGULAGHA,OPEREMO,OPOROMO,OYAKIRI,WEST_TARAKIRI	1	wals	ijo	2	1	NA	4.92	5.67
+ijn	1048	Kalabari; Kirike; Kalabari-Ijo	PH	43	22	18	3	Ijoid	258000	3.982	Africa	KALABARI	1	phoible	NA	NA	NA	3	4.46	6.53
+ijs	734	ijo de l'est; Eastern Ijo	AA	44	24	18	2	Ijoid	2000000	3.91	Africa	AKAHA,NEMBE,SOUTH_EASTERN_IJO	1	phoible	NA	NA	NA	2	4.5	6.42
+ikw	1405	Ikwere	GM	46	23	18	5	Atlantic-Congo	200000	4.257	Africa	IKWERE	1	phoible	NA	NA	NA	5	5.04	6.87
+ikx	NA	NA	NA	NA	NA	NA	NA	Kuliak	7500	4.019	Africa	IK,IK_2,IK_3,IK_4	1	wals	ik	2	1	NA	3.75	34.17
+ilo	multiple	Iloko/Ilocano	multiple	24	18	6	0	Austronesian	6482100	4.382	S/SE Asia	ILOKANO	0	phoible	NA	NA	NA	0	16	121
+imn	NA	NA	NA	NA	NA	NA	0	Border	250	3.409	NG and Oceania	IMONDA	0	wals	imo	1	0	NA	-3.33	141.17
+ind	1690	Indonesian	GM	31	23	8	0	Austronesian	23107820	4.731	S/SE Asia	INDONESIAN,INDONESIAN_2,INDONESIAN_JAKARTA	0	phoible	ind	1	0	0	0	106
+inh	multiple	Ingush	multiple	69	52	17	0.5	Nakh-Daghestanian	322900	3.436	W and SW Eurasia	INGUSH	1	phoible	ing	1	0	0	43.17	45.08
+ior	multiple	Ennemor	multiple	45.67	39.33	6.33	0	Afro-Asiatic	280000	3.871	Africa	INNEMOR	0	phoible	NA	NA	NA	0	8	38
+irh	NA	NA	NA	NA	NA	NA	0	Austronesian	4000	4.308	NG and Oceania	IRARUTU	0	wals	irr	1	0	NA	-3	133.5
+iri	1537	Rigwe	GM	95	79	12	4	Atlantic-Congo	40000	3.833	Africa	KWOLL	1	phoible	NA	NA	NA	4	9.83	8.67
+irk	129	Iraqw	SPA	48	33	12	3	Afro-Asiatic	603000	4.219	Africa	IRAQW,IRAQW_2	1	phoible	irq	2	1	3	-4	35.5
+irn	NA	NA	NA	NA	NA	NA	0	Iranxe	90	5.106	S America	IRANTXE	0	wals	irx	1	0	NA	-13	-58
+iru	multiple	Irula	multiple	41	27	14	0	Dravidian	200000	3.81	S/SE Asia	IRULA	0	phoible	NA	NA	NA	0	10.9	76.8
+isl	multiple	Icelandic	multiple	42	26.5	15.5	0	Indo-European	321040	4.419	W and SW Eurasia	ICELANDIC,ICELANDIC_2	0	phoible	NA	NA	NA	0	65	-17
+iso	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	423000	2.308	Africa	ISOKO	1	wals	iso	2	1	NA	5.5	6.25
+ita	multiple	Italian	multiple	50	31	19	0	Indo-European	64819790	4.771	W and SW Eurasia	ITALIAN,ITALIAN_2,ITALIAN_GROSSETO_TUSCAN	0	phoible	NA	NA	NA	0	43	12
+itl	multiple	Itelmen	multiple	32	27	5	0	Chukotko-Kamchatkan	80	5.037	N-C Asia	ITELMEN,N_ITELMEN,S_ITELMEN	0	phoible	NA	NA	NA	0	57	157.5
+ito	103	Itonama	SPA	25	19	6	0	Itonama	1	5.192	S America	ITONAMA	0	phoible	NA	NA	NA	0	-12.83	-64.33
+ium	20	Yao	SPA	49	35	8	6	Hmong-Mien	832400	3.105	S/SE Asia	CHIANGRAI_MIEN,DAPINGJIANG_MIEN,TAIPAN_MIEN,YAO	1	phoible	mie	3	1	6	19.91	99.82
+ivb	NA	NA	NA	NA	NA	NA	0	Austronesian	1240	4.75	S/SE Asia	BABUYAN	0	wals	iva	1	0	NA	19.5	121.9
+izr	1538	Izere	GM	39	27	7	5	Atlantic-Congo	50000	4.441	Africa	IZERE	1	phoible	NA	NA	NA	5	10	9
+izz	736	izi	AA	51	40	9	2	Atlantic-Congo	540000	3.6	Africa	IZI	1	phoible	NA	NA	NA	2	6.33	8
+jac	NA	NA	NA	NA	NA	NA	0	Mayan	34500	3.419	C America	JACALTEC,JACALTECO_WESTERN,JAKALTEKO_EASTERN	0	wals	jak	1	0	NA	15.67	-91.67
+jah	multiple	Jah-Hut	multiple	52	22	30	0	Austroasiatic	3760	4.059	S/SE Asia	JAH_HUT	0	phoible	NA	NA	NA	0	3.67	102.28
+jao	2950	Yanyuwa	ER	24	20	4	0	Pama-Nyungan	70	5.888	Australia	YANYUWA	0	phoible	yny	1	0	0	-16.42	137.17
+jav	multiple	Javanese	multiple	31.5	23	8.5	0	Austronesian	84377600	4.474	S/SE Asia	MALANG,YOGYAKARTA	0	phoible	jav	1	0	0	-7.97	112.62
+jay	2978	Nhangu	ER	31	25	6	0	Pama-Nyungan	7	5.486	Australia	YANANGO	0	phoible	NA	NA	NA	0	-12.08	134.92
+jdt	multiple	Juhuri	multiple	31	23	8	0	Indo-European	80500	3.925	W and SW Eurasia	JUDEO_TAT,JUDEO_TAT_2	0	phoible	NA	NA	NA	0	42.07	48.28
+jeb	NA	NA	NA	NA	NA	NA	0	Cahuapanan	30	5.179	S America	JEBERO	0	wals	jeb	1	0	NA	-5.42	-76.5
+jee	349	Jero	EA	NA	NA	NA	0	Sino-Tibetan	5380	3.825	S/SE Asia	JERUNG	0	phoible	NA	NA	NA	0	27.2	86.3
+jeh	NA	NA	NA	NA	NA	NA	0	Austroasiatic	26700	3.625	S/SE Asia	JEH,JEH_2	0	wals	jeh	1	0	NA	15.17	107.83
+jer	1539	Jere	GM	44	24	16	4	Atlantic-Congo	23000	4.543	Africa	JERE	1	phoible	NA	NA	NA	4	10.25	8.83
+jgo	1411	Ngomba	GM	27	19	6	2	Atlantic-Congo	63000	2.727	Africa	NGOMBA	1	phoible	NA	NA	NA	2	5.67	10.25
+jic	NA	NA	NA	NA	NA	NA	0	Jicaquean	350	3.744	C America	JICAQUE	0	wals	tol	1	0	NA	14.67	-87
+jig	2687	Jingulu	ER	20	17	3	0	Mirndi	43	6.474	Australia	DJINGILI	0	phoible	NA	NA	NA	0	-17.75	134
+jit	1439	Jita	GM	29	17	10	2	Atlantic-Congo	365000	3.554	Africa	JITA,JITA_2,JITA_3	1	phoible	NA	NA	NA	2	-1.5	34
+jiv	113	Jivaro	SPA	24	16	8	0	Chicham	42300	4.425	S America	JIVARO_SHUAR,SHUAR	0	phoible	NA	NA	NA	0	-2.5	-78
+jmc	1283	machame	GM	46	33	10	3	Atlantic-Congo	195000	3.414	Africa	MACHAME,MASHAMI,MASHAMI_2,MASHAMI_3,MASHAMI_4,MASHAMI_5,MASHAMI_6	1	phoible	NA	NA	NA	3	-3.33	37
+jng	3016	Yangman	ER	22	17	5	0	Yangmanic	NA	5.588	Australia	YANGMAN	0	phoible	NA	NA	NA	0	-14.67	132.58
+jnj	1479	Yemsa	GM	40	25	10	5	Ta-Ne-Omotic	92200	3.962	Africa	JANJERO	1	phoible	NA	NA	NA	5	7.83	37.33
+jns	1731	Jaunsari	RA	51	34	17	0	Indo-European	100000	3	W and SW Eurasia	JAUNSARI	0	phoible	NA	NA	NA	0	31.25	77.03
+jow	1287	jowulu	GM	45	20	21	4	Mande	11000	3.776	Africa	JO,JOWULU	1	phoible	NA	NA	NA	4	10.83	-5.5
+jpn	multiple	Japanese	multiple	30.5	21.5	8	0.67	Japonic	128202710	4.053	N-C Asia	EI_JAPANESE,JAPANESE,JAPANESE_2,JAPANESE_3,JAPANESE_KYOTO,TAKARAJIMA_JAPANESE,TOKYO_JAPANESE	1	phoible	jpn	2	1	1	31.23	130.5
+jqr	105	Aymara	SPA	42	36	6	0	Aymaran	740	4.446	S America	JAQARU,JAQARU_2,KAWKI	0	phoible	jaq	1	0	0	-13	-76
+jru	NA	NA	NA	NA	NA	NA	0	Cariban	170	3.591	S America	JAPRERIA	0	wals	jpr	1	0	NA	10.5	-73
+jum	1312	Jumjum	GM	39	20	16	3	Nilotic	70000	4.184	Africa	JUMJUM	1	phoible	NA	NA	NA	3	10.58	34
+jun	multiple	Juang	multiple	36.5	21.5	15	0	Austroasiatic	23700	4.05	S/SE Asia	JUANG	0	phoible	NA	NA	NA	0	21.33	86
+jya	multiple	Caodeng rGyalrong	multiple	60.5	51	9.5	0	Sino-Tibetan	83000	3.962	S/SE Asia	JIARONG,JIARONG_2	0	phoible	NA	NA	NA	0	31.5	102
+kaa	multiple	Karakalpak	multiple	38	25	13	0	Turkic	584670	4.051	N-C Asia	KARAKALPAK	0	phoible	NA	NA	NA	0	43	60
+kac	374	Jingpho (Gauri)	EA	NA	NA	NA	4	Sino-Tibetan	940000	3.619	S/SE Asia	JINGPHO,JINGPHO_2	1	phoible	jng	3	1	4	25.33	97
+kal	62	Inuit	SPA	38	32	6	0	Eskimo-Aleut	57000	5.775	E N America	EAST_GREENLANDIC,KALAALLISUT,WEST_GREENLANDIC	0	phoible	grw	1	0	0	65	-40
+kam	1443	Kikamba	GM	31	13	14	4	Atlantic-Congo	3893000	3.465	Africa	KAMBA_2,KAMBA_3,KAMBA_KENYA,KAMBA_KENYA_2	1	phoible	NA	NA	NA	4	-1.5	38
+kan	multiple	Kannada	multiple	45.5	35	10.5	0	Dravidian	37752570	4.729	S/SE Asia	KANNADA,KANNADA_2,KANNADA_3	0	phoible	knd	1	0	0	14	76
+kas	multiple	Kashimiri	multiple	56	27.5	28.5	0	Indo-European	5485780	3.812	W and SW Eurasia	KASHMIRI	0	phoible	kas	1	0	0	34	76
+kat	multiple	Georgian	multiple	33.67	28.33	5.33	0	Kartvelian	3679020	4.575	W and SW Eurasia	GEORGIAN,GEORGIAN_2	0	phoible	geo	1	0	0	42	44
+kaz	393	Kazakh	EA	NA	NA	NA	0	Turkic	12813860	3.794	N-C Asia	KAZAKH,KAZAKH_2	0	phoible	NA	NA	NA	0	50	70
+kbd	multiple	Kabardian	multiple	56.25	48.75	7.5	0	Abkhaz-Adyge	1685500	3.763	W and SW Eurasia	KABARDIAN	0	phoible	kab	1	0	0	43.5	43.5
+kbh	NA	NA	NA	NA	NA	NA	0	Kamsa	4000	5.588	S America	KAMSA	0	wals	cam	1	0	NA	1.17	-77
+kbk	NA	NA	NA	NA	NA	NA	NA	Koiarian	1700	4.069	NG and Oceania	KOIARI,KOIARI_2	1	wals	koi	2	1	NA	-9.5	147.33
+kbn	1347	Kare	GM	57	30	24	3	Atlantic-Congo	97460	3	Africa	KALI,KARE_2	1	phoible	NA	NA	NA	3	6.67	16.33
+kbo	1339	Kaliko	GM	45	36	6	3	Central_Sudanic	22500	3.168	Africa	KALIKO,KALIKO_2,KALIKO_3,KALIKO_4,KALIKO_5,KALIKO_6,KELIKO	1	phoible	NA	NA	NA	3	3.7	30.67
+kbp	multiple	kabiyɛ	multiple	47	23	23	1	Atlantic-Congo	984300	3.848	Africa	KABIYE,KABIYE_2,KABIYE_3	1	phoible	NA	NA	NA	1	9.67	1.17
+kbr	NA	NA	NA	NA	NA	NA	NA	Ta-Ne-Omotic	881700	3.9	Africa	KEFA,KEFA_2	1	wals	kef	2	1	NA	7.25	36.25
+kbv	NA	NA	NA	NA	NA	NA	0	Senagi	1690	5.271	NG and Oceania	AMGOTRO,MONGOWAR	0	wals	der	1	0	NA	-3.58	141
+kca	multiple	Ostyak	multiple	29.75	19.25	10.5	0	Uralic	9580	3.756	N-C Asia	KHANTY,NORTHERN_KHANTY	0	phoible	kty	1	0	0	65	65
+kck	1276	Ikalanga	GM	71	62	5	4	Atlantic-Congo	338000	3.474	Africa	KALANGA,KALANGA_2	1	phoible	NA	NA	NA	4	-20.5	27.5
+kcp	multiple	Kanga (Kanga)	multiple	75.5	53.5	20	2	Kadugli-Krongo	14000	4.329	Africa	CHIRORO,KANGA	1	phoible	NA	NA	NA	2	11	29.42
+kcv	1290	kete	GM	25	16	5	4	Atlantic-Congo	8400	2.897	Africa	KETE,L21_KETE_IPILA,L21_KETE_KATAMB	1	phoible	NA	NA	NA	4	-7	22.83
+kdd	2965	Yankunytjatjara	ER	23	17	6	0	Pama-Nyungan	70	5.282	Australia	PITJANTJATJARA_YANKUNTJATJARA	0	phoible	NA	NA	NA	0	-27	132
+kde	1007	Shimakonde	PH	28	18	5	5	Atlantic-Congo	1987000	4.097	Africa	MAKONDE,MAKONDE_2,MAKONDE_3,MAKONDE_4	1	phoible	NA	NA	NA	5	-11	40
+kdh	829	tem	AA	36	25	9	2	Atlantic-Congo	381300	4.5	Africa	TEM,TEM_2	1	phoible	NA	NA	NA	2	6.91	1.13
+kdj	1351	Karimojong	GM	66	21	39	6	Nilotic	691000	5.444	Africa	KARIMOJONG	1	phoible	NA	NA	NA	6	3	34.17
+kdr	multiple	Karaim (Northwestern)	multiple	37	29	8	0	Turkic	81	3.406	N-C Asia	KARAIM	0	phoible	NA	NA	NA	0	54.67	24.92
+kec	1417	Keiga	GM	59	37	20	2	Kadugli-Krongo	6070	4.338	Africa	KEIGA	1	phoible	NA	NA	NA	2	11.33	29.67
+keg	1426	These	GM	47	24	18	5	Temeinic	1400	4.538	Africa	TESE	1	phoible	NA	NA	NA	5	11.33	29.58
+ker	2220	Kera	UZ	30	24	6	0	Afro-Asiatic	50500	3.914	Africa	KERA	0	phoible	ker	3	1	0	9.83	15.08
+ket	multiple	Ket	multiple	28.5	16	12.5	1.33	Yeniseian	210	3.394	N-C Asia	EIGHTEENTH_CENTURY_KET,KET,KET_2	1	phoible	ket	1	0	1	64	87
+kew	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	45000	3.676	NG and Oceania	KEWA	1	wals	kew	2	1	NA	-6.5	143.83
+kfa	1743	Kod̩agu	RA	52	27	25	0	Dravidian	200000	4.638	S/SE Asia	KODAVA	0	phoible	NA	NA	NA	0	12.17	76.83
+kfb	multiple	Kolami	multiple	30	18.5	11.5	0	Dravidian	122000	4.138	S/SE Asia	KOLAMI,NORTHWESTERN_KOLAMI	0	phoible	NA	NA	NA	0	20	78.5
+kfd	1748	Koraga	RA	34	21	13	0	Dravidian	14000	4.317	S/SE Asia	KORAGA_KORRA	0	phoible	NA	NA	NA	0	13.27	74.97
+kfe	multiple	Kota	multiple	37.5	24.5	13	0	Dravidian	930	4.611	S/SE Asia	KOTA_INDIA	0	phoible	kot	1	0	0	11.5	77.17
+kff	1751	Koya	RA	31	21	10	0	Dravidian	362000	4.556	S/SE Asia	DORLI_GONDI,KOYA_INDIA	0	phoible	koy	1	0	0	17.5	81.33
+kfq	multiple	Korku	multiple	39	28.5	10.5	0	Austroasiatic	574000	3.919	S/SE Asia	KORKU	0	phoible	NA	NA	NA	0	22.5	78.5
+kfy	1753	Kumauni	RA	42	31	11	0	Indo-European	2360000	3.5	W and SW Eurasia	KUMAUNI	0	phoible	NA	NA	NA	0	30	80
+kfz	NA	NA	NA	NA	NA	NA	0	Atlantic-Congo	202000	4.487	Africa	KOROMFE	0	wals	kfe	1	0	NA	14.25	-0.92
+kga	1498	Koyaga	GM	43	29	12	2	Mande	60000	3.586	Africa	KOYAGAKAN,NIGBIKAN,SAGAKAKAN,SIAKAKAN	1	phoible	NA	NA	NA	2	8.5	-6.18
+kgl	2815	Gunggari	ER	18	15	3	0	Pama-Nyungan	NA	4.53	Australia	KUNGGARI	0	phoible	NA	NA	NA	0	-24.25	143.25
+kgo	1418	Krongo	GM	62	40	20	2	Kadugli-Krongo	21700	4.115	Africa	FAMA,KRONGO	1	phoible	kro	2	1	2	10.5	30
+kgp	NA	NA	NA	NA	NA	NA	0	Nuclear-Macro-Je	18500	3.553	S America	KAINGANG	0	wals	kng	1	0	NA	-26	-52
+kgs	multiple	Baanbay	multiple	19	13	6	0	Pama-Nyungan	33	5.175	Australia	GUMBAYNGGIR	0	phoible	NA	NA	NA	0	-30.17	152.5
+kgy	multiple	Kyirong Tibetan	multiple	63	40	23	3	Sino-Tibetan	600	3.212	S/SE Asia	KYIRONG	1	phoible	NA	NA	NA	3	28.25	85.4
+kha	multiple	Khasi	multiple	34	23	11	0	Austroasiatic	843000	3.888	S/SE Asia	KHASI,KHASI_2	0	phoible	khs	1	0	0	25.5	92
+khb	multiple	Lue (Chieng Hung)	multiple	39	21	18	3	Tai-Kadai	553960	3.013	S/SE Asia	JINGHONG_TAI_LUE,JINGHONG_TAI_LUE_2,LU,LUE_CHIENG_HUNG,LUE_MUONG_YONG,YANG	1	phoible	lu	3	1	3	22.01	100.8
+khg	multiple	Rgyalthang Tibetan	multiple	77.75	55.25	22.5	0.22	Sino-Tibetan	1380300	3.086	S/SE Asia	RGYALTHANG	1	phoible	NA	NA	NA	0	28.47	98.65
+khk	191	Khalkha	SPA	35	21	14	0	Mongolic	2629940	3.519	N-C Asia	KHALKHA_MONGOLIAN,MONGOLIAN	0	phoible	kha	1	0	0	47	105
+khl	40	Kaliai	SPA	28	18	10	0	Austronesian	2000	4.066	S/SE Asia	LUSI	0	phoible	kkv	1	0	0	-5.58	149.67
+khm	multiple	Cambodian	multiple	44	19	25	0	Austroasiatic	16388040	4.038	S/SE Asia	KHMER,KHMER_2	0	phoible	khm	1	0	0	12.5	105
+khq	multiple	songhoy	multiple	39.5	22	14.5	3	Songhay	200000	4.069	Africa	KOYRA_CHIINI,SONGHAY_KOYRA_CHIINI	1	phoible	kch	1	0	3	17	-3
+khr	multiple	Kharia	multiple	41.67	32	9.67	0	Austroasiatic	240240	4.387	S/SE Asia	KHARIA	0	phoible	khr	1	0	0	22.5	84.33
+khw	330	Khowar	EA	NA	NA	NA	1	Indo-European	289200	3.388	S/SE Asia	CHATORKHAND_KHOWAR,GARAM_CHISHMA_KHOWAR,KESU_KHOWAR,ODIR_KHOWAR,PARGAM_NISAR_KHOWAR,USHU_KHOWAR	1	phoible	NA	NA	NA	1	36.35	73.84
+khy	1337	Iikile	GM	30	21	7	2	Atlantic-Congo	160000	3.486	Africa	LOKELE_ISANGI,LOKELE_YALEMBA,LOKELE_YAWEMBE,LOKELE_YEPOLOMA	1	phoible	NA	NA	NA	2	0.17	23.83
+kib	1380	Koalib	GM	45	29	16	0	Heibanic	100000	4.053	Africa	RERE	0	phoible	NA	NA	NA	0	11.87	30.47
+kid	1620	Koshin	GM	37	23	11	3	Atlantic-Congo	3000	2.333	Africa	KOSHIN	1	phoible	NA	NA	NA	3	6.58	10.33
+kig	955	Khmu	PH	44	20	20	4	Kolopom	3000	4.711	NG and Oceania	KALADDARSCH,KIMAGHAMA	1	phoible	NA	NA	NA	4	-8	138.5
+kij	NA	NA	NA	NA	NA	NA	0	Austronesian	20000	4.985	NG and Oceania	KILIVILA	0	wals	klv	1	0	NA	-8.5	151.08
+kik	748	kikuyu	AA	32	18	14	0	Atlantic-Congo	6623000	3.45	Africa	GIKUYU,GIKUYU_2,GIKUYU_3	0	phoible	NA	NA	NA	0	-0.75	36.75
+kim	multiple	Tofa	multiple	67	28	39	0	Turkic	93	3.5	N-C Asia	TOFA	0	phoible	NA	NA	NA	0	53.75	98
+kio	NA	NA	NA	NA	NA	NA	NA	Kiowa-Tanoan	400	2.812	E N America	KIOWA	1	wals	kio	2	1	NA	37	-99
+kir	multiple	Kirghiz	multiple	36.5	20.5	16	0	Turkic	4908350	3.744	N-C Asia	KYRGYZ	0	phoible	kgz	1	0	0	42	75
+kjd	NA	NA	NA	NA	NA	NA	NA	Kiwaian	9700	4.421	NG and Oceania	KIWAI_SOUTHERN	1	wals	kiw	2	1	NA	-8.58	143.25
+kjg	NA	NA	NA	NA	NA	NA	NA	Austroasiatic	797500	3.788	S/SE Asia	KHMU,KHMU_2	1	wals	kmu	2	1	NA	21	102
+kjh	multiple	Khakas (Standard)	multiple	39	23	16	0	Turkic	42610	3.517	N-C Asia	KHAKAS	0	phoible	NA	NA	NA	0	53	90
+kjj	483	Khinalugh	EA	NA	NA	NA	0	Nakh-Daghestanian	1000	3.423	W and SW Eurasia	KHINALUG	0	phoible	NA	NA	NA	0	41.17	48.08
+kjn	multiple	Kunjen	multiple	28	23	5	0	Pama-Nyungan	7	3.6	Australia	KUNJEN	0	phoible	NA	NA	NA	0	-16.5	142.5
+kjq	NA	NA	NA	NA	NA	NA	NA	Keresan	3990	5.206	W N America	ACOMA_KERES	1	wals	aco	3	1	NA	34.97	-107.52
+kke	1515	Kakabe	GM	38	22	14	2	Mande	10000	3.788	Africa	KAKABE,KAKABE_2	1	phoible	NA	NA	NA	2	10.65	-11.7
+kki	1381	Kagulu	GM	31	26	5	0	Atlantic-Congo	337000	3.819	Africa	KAGULU,KAGURU	0	phoible	NA	NA	NA	0	-6.33	37
+kkj	multiple	kakɔ	multiple	48.5	33	12.5	3	Atlantic-Congo	121400	3.708	Africa	KAKO,KAKO_2,KAKO_BATOURI	1	phoible	NA	NA	NA	3	4.33	14.25
+kkw	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	38800	3.98	Africa	B77a_KUKUYA_1,B77a_KUKUYA_2	1	wals	tks	2	1	NA	-2.33	14.5
+kky	2886	Guugu Yimidhirr	ER	23	17	6	0	Pama-Nyungan	780	4.788	Australia	GUUGU_YIMIDHIR	0	phoible	NA	NA	NA	0	-15	144.83
+kla	NA	NA	NA	NA	NA	NA	0	Klamath-Modoc	NA	3.744	W N America	KLAMATH	0	wals	klm	1	0	NA	42.5	-121.5
+kld	multiple	Gamilaraay	multiple	21	15	6	0	Pama-Nyungan	37	4.342	Australia	GAMILARAAY	0	phoible	NA	NA	NA	0	-29.83	149.5
+klj	388	Khalaj	EA	NA	NA	NA	0	Turkic	51000	3.456	W and SW Eurasia	KHALAJ_IRAN	0	phoible	NA	NA	NA	0	35	50
+klr	298	Khaling	EA	NA	NA	NA	3	Sino-Tibetan	14500	3.237	S/SE Asia	KHALING	1	phoible	NA	NA	NA	3	27.5	86.67
+kls	367	Kalasha (Northern)	EA	NA	NA	NA	0	Indo-European	5000	3.152	S/SE Asia	GURU_KALASHA,KRAKAL_KALASHA,ZUGUNUK_KALASHA	0	phoible	NA	NA	NA	0	35.64	71.68
+klu	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	351620	2.865	Africa	KLAO,KLAO_2,KLAO_3	1	wals	kla	3	1	NA	4.75	-8.75
+kmc	NA	NA	NA	NA	NA	NA	NA	Tai-Kadai	1000000	2.597	S/SE Asia	SOUTHERN_DONG	1	wals	don	3	1	NA	26.17	109.67
+kmo	53	Washkuk	SPA	31	24	7	0	Sepik	3000	4.013	NG and Oceania	KWOMA	0	phoible	NA	NA	NA	0	-4.17	142.75
+kmq	1487	Kwama	GM	25	20	5	0	Koman	15000	3.706	Africa	GWAMA,NORTHERN_KOMA	0	phoible	NA	NA	NA	0	9.5	34.17
+kmr	multiple	Northern Kurdish (Kurmanji)	multiple	38	30	8	0	Indo-European	14766300	3.919	W and SW Eurasia	KURDISH_KURMANJI,NORTHERN_KURDISH	0	phoible	NA	NA	NA	0	38	42
+kmw	751	komo	AA	35	24	7	4	Atlantic-Congo	400000	3.004	Africa	KOMO,KOMO_2,KOMO_3	1	phoible	NA	NA	NA	4	-0.25	26.5
+kna	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	20000	4.221	Africa	DERA	1	wals	knk	2	1	NA	10	12
+knc	multiple	Kanuri	multiple	30	21.5	6.5	2	Saharan	7342500	4.144	Africa	KANURI,KANURI_2	1	phoible	knr	2	1	2	12	13
+knd	multiple	Konda	multiple	33	23	10	0	Konda-Yahadian	500	4.682	NG and Oceania	KONDA_2	0	phoible	NA	NA	NA	0	-1.58	132
+knk	1622	Kuranko	GM	54	26	28	0	Mande	461000	3.325	Africa	KURANKO	0	phoible	NA	NA	NA	0	9.33	-11.25
+knn	1747	Konkani	RA	45	35	10	0	Indo-European	2423330	3.446	W and SW Eurasia	KONKANI	0	phoible	kkn	1	0	0	15.25	74
+knp	1582	Kwanja	GM	43	21	18	4	Atlantic-Congo	10000	3.331	Africa	KONJA_NDUNG,KONJA_SUNDANI	1	phoible	NA	NA	NA	4	6.42	11.67
+knw	1383	!Xun	GM	120	95	21	4	Kxa	20200	3.423	Africa	KUNG,KUNG_EKOKA	1	phoible	NA	NA	NA	4	-19.67	18
+koi	multiple	Komi-Permyak	multiple	37	30	7	0	Uralic	63100	3.385	N-C Asia	KOMI_PERMYAK,KOMI_PERMYAK_2	0	phoible	NA	NA	NA	0	59.5	54.5
+kor	multiple	Korean	multiple	42	21	21	0	Koreanic	77213490	3.45	N-C Asia	KOREAN,KOREAN_2	0	phoible	kor	1	0	0	37.5	128
+kot	1406	Lagwan	GM	41	34	5	2	Afro-Asiatic	10000	3.515	Africa	LAGWAN	1	phoible	NA	NA	NA	2	11.5	14.83
+kpk	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	11400	3.029	Africa	KPAN,KPAN_2	1	wals	kpa	3	1	NA	7.58	10.17
+kpm	NA	NA	NA	NA	NA	NA	NA	Austroasiatic	166000	3.342	S/SE Asia	KOHO_CHIL,KOHO_SRE,SRE	1	wals	sre	2	1	NA	11.5	108
+kpt	multiple	Tukita	multiple	54.5	45.5	9	0	Nakh-Daghestanian	260	4.206	W and SW Eurasia	KARATA,TOKITIN_KARATA	0	phoible	NA	NA	NA	0	42.58	46.33
+kpv	multiple	Komi	multiple	36.5	29.5	7	0	Uralic	156000	3.319	N-C Asia	KOMI_ZYRIAN,KOMI_ZYRIAN_2	0	phoible	kzy	1	0	0	65	55
+kpw	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	10000	3.729	NG and Oceania	KOBON	0	wals	kob	1	0	NA	-5.17	144.33
+kpy	NA	NA	NA	NA	NA	NA	0	Chukotko-Kamchatkan	1670	6.775	N-C Asia	KORYAK	0	wals	kry	1	0	NA	61	167
+kqk	1281	kotafon	GM	45	29	13	3	Atlantic-Congo	154000	3.261	Africa	KOTAFON_GBE	1	phoible	NA	NA	NA	3	6.64	1.72
+kqs	749	kisiei	AA	42	22	20	0	Atlantic-Congo	597700	4.034	Africa	KISSI	0	phoible	NA	NA	NA	0	9.06	-10.18
+kqy	1482	Koorete	GM	61	51	10	0	Ta-Ne-Omotic	159370	4.056	Africa	GIDICHO,KOORETE,KOYRA	0	phoible	NA	NA	NA	0	6.33	38.08
+krc	397	Balkar	EA	NA	NA	NA	0	Turkic	311200	3.459	W and SW Eurasia	KARACHAY_BALKAR	0	phoible	NA	NA	NA	0	43.5	42
+krl	multiple	Karelian (North)	multiple	30	16	14	0	Uralic	35600	4.244	N-C Asia	KARELIAN,NORTH_KARELIAN	0	phoible	NA	NA	NA	0	64	32
+krm	1307	Krim	GM	38	22	16	0	Atlantic-Congo	15	3.603	Africa	KRIM	0	phoible	NA	NA	NA	0	7.25	-11.83
+krs	755	kresh	AA	56	41	10	5	Kresh-Aja	16000	4.118	Africa	GBAYA	1	phoible	NA	NA	NA	5	8.05	24.05
+kru	multiple	Kurukh	multiple	62	38.5	23.5	0	Dravidian	1804200	4.088	S/SE Asia	KURUKH,KURUKH_2	0	phoible	NA	NA	NA	0	22.83	85.5
+kry	484	Kryz (Alik)	EA	NA	NA	NA	0	Nakh-Daghestanian	5000	3.75	W and SW Eurasia	KRYZ	0	phoible	NA	NA	NA	0	41.08	48
+ksf	multiple	kpaʔ	multiple	49.5	26	19	4.5	Atlantic-Congo	60000	2.667	Africa	A53_BAFIA_RIKPA,BAFIA,BAFIA_ROPE	1	phoible	NA	NA	NA	4	5	11.17
+ksi	894	Isaka	PH	18	9	5	4	Sko	420	3.436	NG and Oceania	ISAKA	1	phoible	NA	NA	NA	4	-2.83	141.28
+kss	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	292000	4.217	Africa	KISI,SOUTHERN_KISI	1	wals	kss	2	1	NA	8.5	-10.25
+ksw	25	Karen	SPA	39	27	9	3	Sino-Tibetan	1480000	2.625	S/SE Asia	KAREN_SGAW	1	phoible	ksg	3	1	3	18	97
+ksx	NA	NA	NA	NA	NA	NA	0	Austronesian	30000	3.726	NG and Oceania	KEDANG	0	wals	ked	1	0	NA	-8.25	123.75
+ktb	1373	Kambaata	GM	59	49	10	0	Afro-Asiatic	822300	4.331	Africa	KAMBAATA,KAMBAATA_2	0	phoible	NA	NA	NA	0	7.4	37.75
+ktd	2937	Kukata	ER	23	17	6	0	Pama-Nyungan	25	4.571	Australia	KOKATA	0	phoible	NA	NA	NA	0	-30	134
+ktz	NA	NA	NA	NA	NA	NA	NA	Kxa	44000	3.644	Africa	JUHOAN,KAUEN	1	wals	juh	3	1	NA	-19	21
+kua	1501	Kwanyama	GM	33	26	5	2	Atlantic-Congo	1441000	3.271	Africa	KWANYAMA,KWANYAMA_2	1	phoible	NA	NA	NA	2	-17	16.5
+kub	1119	Kuteb	PH	46	28	13	5	Atlantic-Congo	46000	4.103	Africa	KUTEB,KUTEP	1	phoible	NA	NA	NA	5	7.17	10
+kuj	758	kuria	AA	22	15	7	0	Atlantic-Congo	684000	3.771	Africa	KURIA,KURIA_2,KURIA_3	0	phoible	NA	NA	NA	0	-1.51	34.5
+kum	multiple	Kumyk	multiple	31	23	8	0	Turkic	427800	3.763	N-C Asia	KUMYK	0	phoible	NA	NA	NA	0	43	47.33
+kun	2198	Kunama	UZ	34	23	8	3	Kunama	236430	3.395	Africa	ILIT,KUNAMA	1	phoible	knm	2	1	3	14.5	36.92
+kup	58	Kunimaipa	SPA	20	15	5	0	Goilalan	8200	4.75	NG and Oceania	KUNIMAIPA	0	phoible	kmp	1	0	0	-8	146.83
+kus	759	kusal	AA	44	22	22	0	Atlantic-Congo	549000	3.5	Africa	KUSAL	0	phoible	NA	NA	NA	0	11.05	-0.19
+kut	NA	NA	NA	NA	NA	NA	0	Kutenai	245	5.125	W N America	KUTENAI	0	wals	kut	1	0	NA	49.5	-116
+kuy	2900	Kuugu Ya'u	ER	21	15	6	0	Pama-Nyungan	13	5.162	Australia	KUUKU_YAU	0	phoible	NA	NA	NA	0	-12.58	143.08
+kvn	NA	NA	NA	NA	NA	NA	0	Chibchan	3500	4.649	S America	CUNA	0	wals	kun	1	0	NA	8	-77.33
+kwd	NA	NA	NA	NA	NA	NA	0	Austronesian	13200	4.091	NG and Oceania	KWAIO	0	wals	kwa	1	0	NA	-8.95	161
+kwi	NA	NA	NA	NA	NA	NA	0	Barbacoan	14100	3.684	S America	AWA_PIT	0	wals	awp	1	0	NA	1.5	-78.25
+kwk	71	Kwakiutl	SPA	55	46	9	0	Wakashan	350	4.295	W N America	KWAKWALA	0	phoible	kwk	1	0	0	51	-127
+kwl	1305	Kofyar	GM	36	23	10	3	Afro-Asiatic	110000	3.233	Africa	KOFYAR	1	phoible	NA	NA	NA	3	8.83	9.17
+kwm	1503	Kwambi	GM	37	29	6	2	Atlantic-Congo	39000	3.403	Africa	KWAMBI	1	phoible	NA	NA	NA	2	-18.03	15.73
+kwn	1272	kwangari	GM	27	22	5	0	Atlantic-Congo	152000	3.919	Africa	KWANGALI,KWANGALI_2,KWANGARI	0	phoible	NA	NA	NA	0	-18	19.5
+kws	1291	kwezo	GM	25	16	6	3	Atlantic-Congo	60000	3.694	Africa	KWESE,KWESE_2,KWEZO	1	phoible	NA	NA	NA	3	-5	18.83
+kxd	2225	Kedayan	UZ	22	18	4	0	Austronesian	346000	5.221	S/SE Asia	BRUNEI	0	phoible	NA	NA	NA	0	4.94	114.94
+kxm	479	Northern Khmer	EA	NA	NA	NA	0	Austroasiatic	1400000	3.432	S/SE Asia	SURIN	0	phoible	NA	NA	NA	0	14.58	103.25
+kxs	multiple	Kangjia	multiple	36	27	9	0	Mongolic	1000	4.042	N-C Asia	KANGJIA	0	phoible	NA	NA	NA	0	35.41	102.08
+kxu	1752	Kui	RA	39	20	19	0	Dravidian	916000	4.397	S/SE Asia	KUI	0	phoible	NA	NA	NA	0	20	83.5
+kxv	multiple	Kuvi	multiple	42	25	17	0	Dravidian	158000	4.507	S/SE Asia	KUVI,KUWI	0	phoible	NA	NA	NA	0	18.75	82.67
+kya	1646	Eciruuri	GM	29	17	10	2	Atlantic-Congo	100000	3.712	Africa	KWAYA,KWAYA_2	1	phoible	NA	NA	NA	2	-1.8	33.7
+kye	1306	Krache	GM	44	17	24	3	Atlantic-Congo	58000	4.135	Africa	KRACHE,KRACHI	1	phoible	NA	NA	NA	3	7.96	0.04
+kyh	88	Karok	SPA	41	27	11	3	Karuk	12	4.025	W N America	KAROK	1	phoible	krk	2	1	3	41.67	-123
+kza	743	karaboro	AA	45	20	21	4	Atlantic-Congo	30200	3.8	Africa	WESTERN_KARABORO	1	phoible	NA	NA	NA	4	10.67	-4.5
+kzr	744	karaŋ	AA	40	30	6	4	Atlantic-Congo	18000	3.103	Africa	KARANG,NDOK_MBALI	1	phoible	NA	NA	NA	4	7.67	15
+lad	multiple	Judeo-Spanish	multiple	29.5	20	9.5	0	Indo-European	137000	5.05	W and SW Eurasia	JUDEO_ESPAGNOL	0	phoible	NA	NA	NA	0	40	33
+lae	1778	Pat̩t̩an̩i	RA	44	38	6	0	Sino-Tibetan	16000	3.212	S/SE Asia	PATTANI	0	phoible	NA	NA	NA	0	32.75	76.75
+laj	1445	Lango	GM	40	18	20	2	Nilotic	2130000	3.6	Africa	LANGO	1	phoible	lan	2	1	2	2.17	33
+lao	multiple	Lao (Vientiane)	multiple	36	21	15	2.67	Tai-Kadai	3624200	2.987	S/SE Asia	LAO,LAOTIEN,TAI_NONG_KHAI	1	phoible	NA	NA	NA	3	18	103
+las	760	lama	AA	53	17	33	3	Atlantic-Congo	258000	3.733	Africa	LAMA	1	phoible	NA	NA	NA	3	9.67	1.17
+lbc	26	Lakkia	SPA	59	31	22	6	Tai-Kadai	9000	3.154	S/SE Asia	JINXIU_LAKKIA,LAKKJA	1	phoible	lkk	3	1	6	24.08	110.17
+lbe	multiple	Lak	multiple	68.5	59	9.5	0	Nakh-Daghestanian	154820	3.929	W and SW Eurasia	LAK,LAK_2	0	phoible	lak	1	0	0	42.17	47.17
+lbj	multiple	Ladakhi	multiple	41.5	35	6.5	0	Sino-Tibetan	117000	3.031	S/SE Asia	LADAKHI	0	phoible	lad	1	0	0	34	78
+lby	multiple	Lamalama	multiple	29	26	3	0	Pama-Nyungan	3	4.257	Australia	LAMALAMA_COASTAL,LAMALAMA_INLAND	0	phoible	NA	NA	NA	0	-14.5	144.17
+lea	1259	lega-shabunda	GM	38	18	14	6	Atlantic-Congo	400000	3.533	Africa	LEGA,LEGA_SHABUNDA,LEGA_SHABUNDA_2	1	phoible	NA	NA	NA	6	-2.83	27.17
+led	762	lendu	AA	55	43	8	4	Central_Sudanic	768900	2.703	Africa	LENDU,LENDU_2,LENDU_DDRADHA,LENDU_DJADHA,LENDU_NJAWDHA,LENDU_PIDHA,LENDU_TADHA	1	phoible	NA	NA	NA	4	2	30.5
+lee	multiple	lyélé	multiple	39	22.5	13	3.5	Atlantic-Congo	213000	3.351	Africa	LYELE,LYELE_2	1	phoible	NA	NA	NA	4	12.5	-2.67
+lef	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	48900	4.15	Africa	BUEM_LELEMI	1	wals	llm	2	1	NA	7.33	0.5
+lej	1338	Lengola	GM	32	24	5	3	Atlantic-Congo	100000	3.158	Africa	LENGOLA,LENGOLA_2	1	phoible	NA	NA	NA	3	-0.5	25
+lem	798	nɔmaa	AA	30	14	14	2	Atlantic-Congo	6000	3.447	Africa	MANDI_CAMEROON,NOMAANDE,NOMAANDE_2	1	phoible	NA	NA	NA	2	4.7	11.2
+lep	1758	Lepca	RA	36	26	10	0	Sino-Tibetan	69800	3.297	S/SE Asia	LEPCHA	0	phoible	NA	NA	NA	0	27.17	88.5
+les	1636	Balese	GM	42	29	10	3	Central_Sudanic	50000	3.526	Africa	BALESE	1	phoible	NA	NA	NA	3	2	29
+lez	multiple	Lezgian (İsmayıllı)	multiple	71.5	63	8.5	0	Nakh-Daghestanian	633610	3.435	W and SW Eurasia	KUBA_LEZGI,LEZGI,LEZGIAN,MIKRAKH_LEZGI	0	phoible	lez	1	0	0	41.36	48.51
+lgg	multiple	Logbara	multiple	40.5	26	11.5	3	Central_Sudanic	1940000	3.171	Africa	LUGBARA,LUGBARA_10,LUGBARA_2,LUGBARA_3,LUGBARA_4,LUGBARA_5,LUGBARA_6,LUGBARA_7,LUGBARA_8,LUGBARA_9	1	phoible	lug	3	1	3	3.08	30.92
+lgn	1486	Opo	GM	25	20	5	0	Koman	5000	4.143	Africa	LANGA	0	phoible	NA	NA	NA	0	8.33	33.92
+lgq	1541	Logba	GM	35	25	7	3	Atlantic-Congo	7500	3.312	Africa	IKPANA,LOGBA	1	phoible	NA	NA	NA	3	6.92	0.42
+lhm	328	Lhomi Tibetan	EA	NA	NA	NA	0	Sino-Tibetan	9320	3.765	S/SE Asia	LHOMI	0	phoible	NA	NA	NA	0	27.67	87.42
+lhu	multiple	Lahu	multiple	43	25	15.5	4	Sino-Tibetan	540850	3	S/SE Asia	LAHU,LAHU_2	1	phoible	lah	3	1	4	20	98.17
+lia	766	limba	AA	24	17	7	0	Atlantic-Congo	442000	3.674	Africa	WEST_CENTRAL_LIMBA,WEST_CENTRAL_LIMBA_2	0	phoible	NA	NA	NA	0	9.47	-12.29
+lig	765	ligbi	AA	38	22	14	2	Mande	19000	3.52	Africa	LIGBI	1	phoible	NA	NA	NA	2	8	-2.57
+lij	multiple	Ligurian (Miogliola)	multiple	45	24	21	0	Indo-European	508210	4.133	W and SW Eurasia	LIGURIAN_GENOESE,LIGURIAN_RAPALLO,LIGURIAN_STELLA	0	phoible	NA	NA	NA	0	44.42	8.95
+lik	1334	Lika	GM	45	33	9	3	Atlantic-Congo	60000	3.757	Africa	LILIKO	1	phoible	NA	NA	NA	3	2.08	27.58
+lin	768	lingala	AA	22	15	7	0	Atlantic-Congo	2260520	3.564	Africa	C36d_LINGALA_2,LINGALA,LINGALA_2	0	phoible	NA	NA	NA	0	2	18.5
+lip	1326	Likpe	GM	33	21	9	3	Atlantic-Congo	23000	4.15	Africa	LIKPE	1	phoible	NA	NA	NA	3	7.35	0.52
+lis	multiple	Lisu	multiple	40.5	28.5	9	4	Sino-Tibetan	942700	3.205	S/SE Asia	LISU,LISU_2	1	phoible	NA	NA	NA	4	26	98
+lit	multiple	Lithuanian	multiple	52.6	39.4	13.2	0.22	Indo-European	2979700	5.319	W and SW Eurasia	LITHUANIAN,LITHUANIAN_2	1	phoible	NA	NA	NA	0	55	24
+liv	multiple	Livonian (Vidzeme)	multiple	31	23	8	0.5	Uralic	NA	4.1	N-C Asia	LIVE,LIVONIAN	1	phoible	NA	NA	NA	0	56.83	24
+lks	1446	Olukisa	GM	38	24	10	4	Atlantic-Congo	137000	3.7	Africa	J321_KISA	1	phoible	NA	NA	NA	4	0.3	34.5
+lkt	75	Dakota	SPA	36	27	9	0	Siouan	2100	3.969	E N America	LAKHOTA,LAKOTA	0	phoible	lkt	1	0	0	43.83	-101.83
+llc	1516	Lele	GM	28	19	7	2	Mande	23000	3.3	Africa	LELE_GUINEA	1	phoible	NA	NA	NA	2	9.25	-10.05
+lln	multiple	lele	multiple	36	23	10	3	Afro-Asiatic	26000	4.027	Africa	LELE_CHAD	1	phoible	NA	NA	NA	3	9.08	15.58
+lmc	2643	Limilngan	ER	25	22	3	0	Limilngan-Wulna	NA	5.788	Australia	LIMILNGAN	0	phoible	NA	NA	NA	0	-12.5	131.92
+lme	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	35720	3.85	Africa	PEVE_LAME,PEVE_PALA	1	wals	lam	3	1	NA	9	14.5
+lmn	multiple	Banjara	multiple	41	27	14	0	Indo-European	4150000	3.908	W and SW Eurasia	LAMANI	0	phoible	NA	NA	NA	0	17	77
+lmp	multiple	limbum	multiple	40.25	26.25	12.5	1.5	Atlantic-Congo	130000	2.91	Africa	LIMBUM,LIMBUM_2	1	phoible	NA	NA	NA	2	6.55	10.8
+lnb	1502	Mbalanhu	GM	31	23	6	2	Atlantic-Congo	300	3.114	Africa	MBALANHU	1	phoible	NA	NA	NA	2	-17.5	15
+lns	804	nsoʼ	AA	45	26	12	7	Atlantic-Congo	240000	3.047	Africa	LAMNSOQ,LAMNSOQ_2	1	phoible	NA	NA	NA	7	6.17	10.75
+log	1294	Logo	GM	39	27	9	3	Central_Sudanic	210000	3.33	Africa	LOGO,LOGO_10,LOGO_2,LOGO_3,LOGO_4,LOGO_5,LOGO_6,LOGO_7,LOGO_8,LOGO_9	1	phoible	NA	NA	NA	3	3.5	30
+loh	1493	Laarim	GM	34	22	9	3	Surmic	3620	4.4	Africa	NARIM_LARIM	1	phoible	NA	NA	NA	3	4.26	33.46
+lok	764	lɔkɔ	AA	25	18	7	0	Mande	178000	3.964	Africa	LOKO,LOKO_2	0	phoible	NA	NA	NA	0	9.33	-12.08
+lol	1277	mongo-nkundu	GM	56	45	7	4	Atlantic-Congo	400000	3.241	Africa	KONDA_TWELIA,LOMONGO,MONGO,MONGO_LOSAKANI_NTOMBA,MONGO_OPALA	1	phoible	NA	NA	NA	4	0	21
+lom	multiple	lɔgɔmagooi	multiple	46.5	24.5	21	1	Mande	266000	3.575	Africa	LOMA,LOMA_LIBERIA	1	phoible	NA	NA	NA	1	8.06	-9.7
+lor	827	téén	AA	38	28	10	0	Atlantic-Congo	8100	4.533	Africa	LORHON	0	phoible	NA	NA	NA	0	9.63	-3.24
+loy	multiple	gLo Tibetan	multiple	42.5	35	7.5	0.67	Sino-Tibetan	7500	3.237	S/SE Asia	LOWA	1	phoible	NA	NA	NA	1	28.83	83.83
+lrg	2642	Larrakia	ER	24	18	6	0	Larrakiyan	14	5.903	Australia	LARRAKIA	0	phoible	NA	NA	NA	0	-12.67	130.83
+lsm	1489	Lusaamia	GM	34	20	10	4	Atlantic-Congo	650000	4.386	Africa	SAMIA	1	phoible	NA	NA	NA	4	0.5	34
+lti	1681	Leti	GM	22	10	12	0	Austronesian	7500	3.721	S/SE Asia	LETINESE	0	phoible	NA	NA	NA	0	-8.2	127.67
+ltz	multiple	Luxembourgish	multiple	47	25	22	0	Indo-European	391200	4.051	W and SW Eurasia	LUXEMBOURGISH	0	phoible	NA	NA	NA	0	49.83	6.17
+lua	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	6360000	3.338	Africa	L31a_LUBA_KASAYI,LUBA	1	wals	cil	2	1	NA	-6	22
+luc	1425	Aringa	GM	49	35	9	5	Central_Sudanic	495000	3.324	Africa	ARINGA,ARINGA_2	1	phoible	NA	NA	NA	5	3.65	31.2
+lue	146	Luvale	SPA	36	22	10	4	Atlantic-Congo	635000	3.793	Africa	K14_LWENA_1,K14_LWENA_2,LUVALE	1	phoible	luv	2	1	4	-12	22
+lug	770	luganda	AA	33	19	10	4	Atlantic-Congo	5564750	3.969	Africa	GANDA,J15_GANDA,LUGANDA	1	phoible	NA	NA	NA	4	0.5	32
+lui	94	Luiseno	SPA	34	23	11	0	Uto-Aztecan	NA	4.487	W N America	LUISENO	0	phoible	lui	1	0	0	33.33	-117.17
+lul	1314	Lulubo	GM	46	34	9	3	Central_Sudanic	15000	3.244	Africa	LULUBA,LULUBO_OLUBO	1	phoible	NA	NA	NA	3	4.58	31.63
+luo	multiple	Luo	multiple	36.5	24.5	9	3	Nilotic	4229000	3.7	Africa	LUO,LUO_2	1	phoible	luo	2	1	3	-0.5	34.75
+lus	1760	Lushai	RA	43	33	6	4	Sino-Tibetan	687750	3.475	S/SE Asia	LUSHAI	1	phoible	NA	NA	NA	4	23.17	92.83
+lut	NA	NA	NA	NA	NA	NA	0	Salishan	NA	4.829	W N America	LUSHOOTSEED	0	wals	lus	1	0	NA	48	-122
+luz	353	Southern Luri	EA	NA	NA	NA	0	Indo-European	875000	3.639	W and SW Eurasia	LURI	0	phoible	NA	NA	NA	0	33.5	48.5
+lvk	NA	NA	NA	NA	NA	NA	0	Lavukaleve	1780	4.297	NG and Oceania	LAVUKALEVE	0	wals	lav	1	0	NA	-9.08	159.2
+lvs	multiple	Latvian (Standard)	multiple	42	26	16	1	Indo-European	1551920	4.544	W and SW Eurasia	LATVIAN,LATVIAN_2	1	phoible	NA	NA	NA	1	57	24
+lwo	1432	Luwo	GM	32	19	10	3	Nilotic	80000	3.329	Africa	GIUR	1	phoible	NA	NA	NA	3	8	28
+lzz	multiple	Laz (Borçka)	multiple	36.8	31.4	5.4	0	Kartvelian	22000	4.385	W and SW Eurasia	LAZ	0	phoible	NA	NA	NA	0	41.5	41.5
+mad	1691	Madurese	GM	35	27	8	0	Austronesian	6770900	4.371	S/SE Asia	MADURESE	0	phoible	NA	NA	NA	0	-7	113.5
+mai	multiple	Maithili	multiple	46.5	30	16.5	0	Indo-European	33890000	3.792	W and SW Eurasia	MAITHILI	0	phoible	NA	NA	NA	0	26	86
+mak	1677	Makassar	GM	23	18	5	0	Austronesian	2530000	4.737	S/SE Asia	MAKASAR,MAKASSARESE	0	phoible	NA	NA	NA	0	-5.42	119.6
+mal	multiple	Malayalam	multiple	48	34	14	0	Dravidian	35247100	4.967	S/SE Asia	MALAYALAM,MALAYALAM_2,MALAYALAM_3	0	phoible	NA	NA	NA	0	10	76.5
+maq	99	Mazateco	SPA	38	26	8	4	Otomanguean	1500	4.287	C America	MAZATEC_CHIQUIHUITLAN,SAN_JUAN_CHIQUIHUITLAN	1	phoible	mzc	3	1	4	17.75	-96.92
+mar	multiple	Marathi	multiple	55	42	13	0	Indo-European	71796800	3.987	W and SW Eurasia	MARATHI,MARATHI_2	0	phoible	NA	NA	NA	0	19	76
+mas	154	Maasai	SPA	43	21	18	4	Nilotic	1524000	5.487	Africa	MAASAI	1	phoible	maa	2	1	4	-3	36
+maw	multiple	mampruli	multiple	34	23	10	1	Atlantic-Congo	326000	4.233	Africa	MAMPRULI	1	phoible	NA	NA	NA	1	10.33	-0.67
+max	1689	North Maluku Malay	GM	27	21	6	0	Austronesian	1000000	4.364	S/SE Asia	TERNATE_PASAR	0	phoible	NA	NA	NA	0	-1	128.33
+maz	98	Mazahua	SPA	63	45	15	3	Otomanguean	74000	3.948	C America	MAZAHUA,MAZAHUA_CENTRAL,TEMASCALCINGO_MAZAHUA	1	phoible	maz	2	1	3	19.35	-99.9
+mbl	NA	NA	NA	NA	NA	NA	0	Nuclear-Macro-Je	1270	4.797	S America	MAXAKALI	0	wals	max	1	0	NA	-18	-40
+mbo	multiple	mboó	multiple	34	20	11.33	2.67	Atlantic-Congo	45000	2.831	Africa	EHO_MBO,MBO,MBO_2,NLA_MBO,NLE_MBO	1	phoible	NA	NA	NA	3	5.23	9.85
+mcp	783	mekaa	AA	55	30	21	4	Atlantic-Congo	80000	3.486	Africa	MAKAA,MAKAA_2	1	phoible	NA	NA	NA	4	3.42	12.25
+mcs	1054	Mambay; Mambai	PH	54	26	24	4	Atlantic-Congo	14000	4	Africa	MAMBAI	1	phoible	NA	NA	NA	4	9.5	13.92
+mcu	multiple	mambila	multiple	37.5	22	11.5	4	Atlantic-Congo	30000	3.054	Africa	MAMBILA_ATTA	1	phoible	mla	3	1	4	6.75	11.5
+mda	1284	mada	GM	41	23	13	5	Atlantic-Congo	100000	3.504	Africa	GBUGYAR,KEJA,MADA,NCEKPE,NCO,NDEYWAN,NJIGBAN,RIJA,RINZE	1	phoible	NA	NA	NA	5	8.75	8.25
+mdd	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	51100	3.528	Africa	MBUM	1	wals	mbm	2	1	NA	7.75	13.17
+mde	NA	NA	NA	NA	NA	NA	NA	Maban	296000	4.184	Africa	MABA_CHAD	1	wals	mab	2	1	NA	13.75	20.83
+mdf	multiple	Moksha (Standard)	multiple	40.5	34	6.5	0	Uralic	2030	4.013	N-C Asia	MOKSCHA_MORDWINISCH,MOKSHA	0	phoible	NA	NA	NA	0	54	44
+mdj	778	mangbetu	AA	47	36	9	2	Central_Sudanic	620000	4.919	Africa	MANGBETU,MANGBETU_2	1	phoible	NA	NA	NA	2	2.5	26.5
+mdm	1488	Mayogo	GM	46	33	10	3	Atlantic-Congo	100000	3.578	Africa	MAYOGO,MAYOGO_2,MAYOGO_3,MAYOGO_4,MAYOGO_5	1	phoible	NA	NA	NA	3	3.17	28.17
+mdx	NA	NA	NA	NA	NA	NA	NA	Dizoid	35950	3.638	Africa	DIZI,DIZI_2,MAJI	1	wals	diz	3	1	NA	6.2	35.6
+mec	2679	Marra	ER	23	19	4	0	Mangarrayi-Maran	5	6.076	Australia	MARA	0	phoible	NA	NA	NA	0	-15	135.17
+men	784	mende	AA	34	23	7	4	Mande	1976000	3.742	Africa	MENDE,MENDE_2	1	phoible	NA	NA	NA	4	7.83	-11.5
+mep	2673	Miriwoong	ER	20	16	4	0	Jarrakan	12	6.406	Australia	MIRIWUNG	0	phoible	NA	NA	NA	0	-15.67	129
+meq	1584	Mere	GM	44	33	8	3	Afro-Asiatic	10000	4.774	Africa	MEREY	1	phoible	NA	NA	NA	3	10.75	14.08
+mer	1641	Kimeru	GM	27	17	10	0	Atlantic-Congo	1660000	3.727	Africa	MERU,MERU_2,MERU_3	0	phoible	NA	NA	NA	0	0.25	37.65
+mev	1518	Mano	GM	39	22	14	3	Mande	390000	2.71	Africa	MANN,MANO_MANN,MANO_MANN_2	1	phoible	NA	NA	NA	3	7	-9
+mfc	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	36100	3.281	Africa	MBA,MBA_2	1	wals	mba	3	1	NA	1	25
+mfi	1585	Mandara	GM	52	45	5	2	Afro-Asiatic	43500	4.893	Africa	MALGWA_WANDALA,WANDALA	1	phoible	NA	NA	NA	2	11.15	14
+mfn	781	mbembe	AA	37	28	7	2	Atlantic-Congo	100000	3.671	Africa	CROSS_RIVER_MBEMBE,CROSS_RIVER_MBEMBE_2,CROSS_RIVER_MBEMBE_3,MBEMBE	1	phoible	NA	NA	NA	2	8.32	6.15
+mfo	1285	mbe	GM	37	26	7	4	Atlantic-Congo	65000	2.971	Africa	MBE	1	phoible	NA	NA	NA	4	6.58	8.83
+mfr	2639	Marrithiyel	ER	24	20	4	0	Western_Daly	56	5.393	Australia	MARITHIEL	0	phoible	NA	NA	NA	0	-13.83	130
+mfz	1316	Mabaan	GM	45	19	22	4	Nilotic	90000	4.316	Africa	MABAAN	1	phoible	NA	NA	NA	4	9.75	33.75
+mgc	1424	Morokodo	GM	54	42	10	2	Central_Sudanic	50000	4	Africa	MOROKODO	1	phoible	NA	NA	NA	2	5.51	30.02
+mgd	1293	Moru	GM	38	26	9	3	Central_Sudanic	70000	3.4	Africa	AGI,ANDRI,BALIMBA,KEDIRU,LAKAMADI,MIZA,MORU,MORU_2,MORU_3,MORU_4,MORU_5,MORU_6,MORU_7,WADI	1	phoible	NA	NA	NA	3	4.75	29.75
+mgi	899	Jili	PH	48	29	16	3	Atlantic-Congo	50000	3.638	Africa	JILI	1	phoible	NA	NA	NA	3	8.5	8.33
+mgr	1289	cilungu	GM	36	19	10	7	Atlantic-Congo	213680	4.013	Africa	MAMBWE,MAMBWE_LUNGU,MAMBWE_LUNGU_2	1	phoible	NA	NA	NA	7	-9.08	31.17
+mgw	1266	matuumbi	GM	23	15	5	3	Atlantic-Congo	227000	3.865	Africa	KIMATUUMBI,MATUUMBI	1	phoible	NA	NA	NA	3	-8.5	39
+mhe	multiple	Mah Meri	multiple	58	30	28	0	Austroasiatic	2990	4.059	S/SE Asia	MAH_MERI	0	phoible	NA	NA	NA	0	2.83	101.5
+mhg	2667	Marrgu	ER	26	23	3	0	Marrku-Wurrugu	NA	5.444	Australia	MARGU	0	phoible	NA	NA	NA	0	-11.08	132.58
+mhi	807	pandikeri	AA	38	24	10	4	Central_Sudanic	311000	2.994	Africa	LOKAI,MAADI,MAADI_2,MAADI_3,MAADI_4,PANDIKERI	1	phoible	NA	NA	NA	4	3.25	31.5
+mhj	NA	NA	NA	NA	NA	NA	0	Mongolic	NA	4	W and SW Eurasia	MOGHOL	0	wals	mog	1	0	NA	35	62
+mhk	946	Mungaka	PH	33	21	9	3	Atlantic-Congo	50100	3.111	Africa	MUNGAKA,MUNGAKA_2,MUNGAKA_3,MUNGAKA_4,MUNGAKA_5,MUNGAKA_6	1	phoible	NA	NA	NA	3	5.92	10
+mhr	multiple	Cheremis	multiple	30.6	21.6	9	0	Uralic	482000	3.754	N-C Asia	MEADOW_MARI,MEADOW_MARI_2,TSCHEREMISSISCH_URZUM	0	phoible	NA	NA	NA	0	57	48
+mhw	1270	mbukushu	GM	29	22	7	0	Atlantic-Congo	49710	3.25	Africa	MBUKUSHU	0	phoible	NA	NA	NA	0	-18	22.83
+mhz	NA	NA	NA	NA	NA	NA	NA	Austronesian	700	4.182	NG and Oceania	MOR	1	wals	mor	2	1	NA	-3	135.8
+mif	multiple	mofu-gudur	multiple	42	35	6	1	Afro-Asiatic	90000	4.921	Africa	MOFU_GUDUR	1	phoible	NA	NA	NA	1	10.5	14
+mig	100	Mixtec	SPA	32	19	10	3	Otomanguean	6000	3.872	C America	CHALCATONGO_MIXTEC	1	phoible	mxc	3	1	3	17.05	-97.57
+mij	1617	Mungbam	GM	36	24	8	4	Atlantic-Congo	1850	3.217	Africa	ABAR,MISSONG	1	phoible	NA	NA	NA	4	6.58	10.25
+min	1698	Minangkabau	GM	33	23	10	0	Austronesian	5530000	4.382	S/SE Asia	MINANGKABAU	0	phoible	NA	NA	NA	0	-1	101
+mjg	multiple	Mongghul (Huzhu Monguor)	multiple	33	25	8	0	Mongolic	152000	3.759	N-C Asia	MONGUOR	0	phoible	mgg	1	0	0	36	102
+mjt	multiple	Malto	multiple	34	24	10	0	Dravidian	61000	4.519	S/SE Asia	MALTO,SAURIA_PAHARIA	0	phoible	NA	NA	NA	0	24.81	87.64
+mjw	multiple	Karbi (Mikir)	multiple	42	28	11	3	Sino-Tibetan	420000	3.565	S/SE Asia	KARBI	1	phoible	NA	NA	NA	3	26.33	93.5
+mkd	multiple	Macedonian (Standard)	multiple	32	26	6	0	Indo-European	1614140	3.981	W and SW Eurasia	MACEDONIAN,NASHTA	0	phoible	NA	NA	NA	0	41.67	21.75
+mkm	1672	Moklen	GM	46	19	27	0	Austronesian	1500	4.447	S/SE Asia	MOKLEN	0	phoible	NA	NA	NA	0	8.5	98.25
+mkn	1687	Kupang Malay	GM	25	19	6	0	Austronesian	350000	4.324	S/SE Asia	KUPANG_MALAY	0	phoible	NA	NA	NA	0	-10.18	123.58
+mkv	2202	Mavea	UZ	24	19	5	0	Austronesian	41	4.056	S/SE Asia	MAFEA	0	phoible	NA	NA	NA	0	-15.4	167.23
+mky	1682	Makian, East (Taba)	GM	23	18	5	0	Austronesian	20000	3.867	S/SE Asia	EAST_MAKIAN,MAILOA,NGOFAGITA,NGOFAKIAHA,SAKETA,SOMA,TAHANE,WOSI	0	phoible	tab	1	0	0	0	127.5
+mlf	986	Mal	PH	41	17	22	2	Austroasiatic	26700	3.286	S/SE Asia	MAL	1	phoible	NA	NA	NA	2	19.33	101.25
+mlq	776	mande	AA	27	20	7	0	Mande	1733000	3.586	Africa	MALINKE,MALINKE_WESTERN_MANINKA	0	phoible	NA	NA	NA	0	13	-11
+mlr	1595	Vame	GM	46	38	5	3	Afro-Asiatic	8500	4.333	Africa	VAME	1	phoible	NA	NA	NA	3	10.93	14.22
+mls	1565	Masalit	GM	45	31	10	4	Maban	440000	4.321	Africa	MASALIT	1	phoible	NA	NA	NA	4	13.33	22
+mlt	multiple	Maltese	multiple	45	34.5	10.5	0	Afro-Asiatic	482880	4.487	Africa	MALTESE,MALTESE_ARABIC	0	phoible	NA	NA	NA	0	35.92	14.42
+mlw	1409	Moloko	GM	47	31	10	6	Afro-Asiatic	10000	4.415	Africa	MELOKWO,MELOKWO_2,MOLOKO	1	phoible	NA	NA	NA	6	10.77	14.25
+mmr	369	Xong	EA	NA	NA	NA	8	Hmong-Mien	820000	3.032	S/SE Asia	JIWEI_HMONG,LAYIPING_HMONG,WESTERN_XIANGXI_HMONG,XIANGXI_HMONG	1	phoible	NA	NA	NA	8	28.33	109.43
+mmu	1596	Numala	GM	34	23	9	2	Atlantic-Congo	8000	3.25	Africa	A60_MMAALA,MMALA	1	phoible	NA	NA	NA	2	4.5	11.08
+mnf	791	mundani	AA	41	23	14	4	Atlantic-Congo	34000	2.444	Africa	MUNDANI	1	phoible	NA	NA	NA	4	5.67	9.92
+mnh	1143	Mono	PH	44	33	8	3	Atlantic-Congo	65000	3.73	Africa	MONO_CONGO	1	phoible	NA	NA	NA	3	4	19
+mni	multiple	Manipuri	multiple	35.5	26	7	2.5	Sino-Tibetan	1485000	3.243	S/SE Asia	MEITEI	1	phoible	mei	2	1	2	24.75	94
+mnj	multiple	Munji	multiple	44	35	9	0	Indo-European	5300	4.029	W and SW Eurasia	MUNJANI	0	phoible	NA	NA	NA	0	38.39	71.11
+mnk	1126	Mandingo	PH	34	19	10	5	Mande	1325000	3.6	Africa	MANDINKA,MANDINKA_2,MANDINKA_3,MANDINKA_4,MANDINKA_6	1	phoible	NA	NA	NA	5	13.42	-16
+mns	multiple	Northern Mansi (Sośva)	multiple	31	20	11	0	Uralic	940	4.088	N-C Asia	MANSI,NORTHERN_MANSI	0	phoible	NA	NA	NA	0	62	62
+mnw	477	Mon	EA	NA	NA	NA	0	Austroasiatic	851000	3.727	S/SE Asia	MON,MON_2,MON_NONG_DUU	0	phoible	NA	NA	NA	0	14.83	100.5
+moa	790	muan	AA	39	21	12	6	Mande	20000	2.65	Africa	MWAN,MWAN_2	1	phoible	NA	NA	NA	6	7.9	-5.95
+mor	NA	NA	NA	NA	NA	NA	NA	Heibanic	30000	4.256	Africa	MORO	1	wals	mro	2	1	NA	11	30.17
+mos	789	moore	AA	43	17	24	2	Atlantic-Congo	6469300	4.369	Africa	MOORE,MOORE_2	1	phoible	NA	NA	NA	2	12.83	-1.25
+mpb	2633	Malak-Malak	ER	19	14	5	0	Northern_Daly	8	4.931	Australia	MULLUKMULLUK	0	phoible	mlk	1	0	0	-13.42	130.42
+mpc	2682	Mangarrayi	ER	22	17	5	0	Mangarrayi-Maran	15	4.946	Australia	MANGARAYI	0	phoible	myi	1	0	0	-14.67	133.5
+mph	multiple	Maung	multiple	23	18	5	0	Iwaidjan_Proper	260	5.075	Australia	MAWNG	0	phoible	mau	1	0	0	-11.92	133.5
+mpi	1597	Kotoko	GM	40	30	6	4	Afro-Asiatic	16000	3.539	Africa	MAKARY_KOTOKO	1	phoible	NA	NA	NA	4	12.5	14.5
+mpj	multiple	Kartujarra	multiple	23.25	17.75	5.5	0	Pama-Nyungan	860	5.586	Australia	MANTJILTJARA,MARTU_WANGKA,YULPARIJA	0	phoible	NA	NA	NA	0	-22.67	125.08
+mps	NA	NA	NA	NA	NA	NA	NA	Teberan	10000	4.189	NG and Oceania	DARIBI,TEBERA	1	wals	dad	2	1	NA	-6.55	144.58
+mpt	973	Mianmin	PH	25	13	8	4	Nuclear_Trans_New_Guinea	1400	3.654	NG and Oceania	MIAN	1	phoible	NA	NA	NA	4	-4.9	141.62
+mqb	1408	Mbuko	GM	45	34	8	3	Afro-Asiatic	15000	4.438	Africa	MBUKO,MBUKO_2	1	phoible	NA	NA	NA	3	10.77	14.17
+mqs	NA	NA	NA	NA	NA	NA	0	North_Halmahera	12000	3.764	NG and Oceania	BOBAWA,MALAPA,NGOFABOBAWA,SABALE,TAFASOHO,TAGONO,TALAPAO,WEST_MAKIAN	0	wals	wma	1	0	NA	0.5	127.58
+mrc	NA	NA	NA	NA	NA	NA	0	Cochimi-Yuman	35	3.95	W N America	MARICOPA	0	wals	mar	1	0	NA	33.17	-113.17
+mrg	1768	Mising	RA	46	34	9	3	Sino-Tibetan	551000	3.345	S/SE Asia	MISING	1	phoible	NA	NA	NA	3	28.5	94.83
+mrh	12	Mara (Lakher)	EA	NA	NA	NA	3	Sino-Tibetan	54800	3.554	S/SE Asia	LAKHER_MARA	1	phoible	NA	NA	NA	3	23	93.17
+mri	42	Maori	SPA	20	10	10	0	Austronesian	157980	4.194	S/SE Asia	MAORI,MOORIORI,SOUTH_ISLAND_MAORI	0	phoible	mao	1	0	0	-40	176
+mrj	multiple	Hill Mari (Kozmodemjansk)	multiple	33.5	23.5	10	0	Uralic	30000	3.862	N-C Asia	HILL_MARI,TSCHEREMISSISCH_KOZMODEMJANSK	0	phoible	NA	NA	NA	0	57	58
+mrr	1701	Abujmaria	RA	39	22	17	0	Dravidian	165000	3.894	S/SE Asia	ABUJHMARIA,HILL_MARIA_GONDI	0	phoible	NA	NA	NA	0	19.5	81
+mrt	126	Margi	SPA	44	36	6	2	Afro-Asiatic	135000	3.838	Africa	MARGI	1	phoible	mrg	2	1	2	11	13
+mru	1344	Mono	GM	62	35	24	3	Atlantic-Congo	300	3.076	Africa	MONO_2	1	phoible	NA	NA	NA	3	8.75	14.25
+mrw	NA	NA	NA	NA	NA	NA	0	Austronesian	866000	4.382	S/SE Asia	MARANAO	0	wals	mrn	1	0	NA	7.83	124.3
+mrz	NA	NA	NA	NA	NA	NA	0	Anim	7000	3.765	NG and Oceania	MARINDINEESCH	0	wals	mrd	1	0	NA	-7.83	140.17
+mtg	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	5600	3.883	NG and Oceania	UNA,UNA_2	1	wals	una	2	1	NA	-4.67	140
+mto	NA	NA	NA	NA	NA	NA	0	Mixe-Zoque	5470	2.974	C America	NORTH_HIGHLAND_MIXE	0	wals	mtp	1	0	NA	17.25	-96
+mua	1343	Mundang	GM	67	37	27	3	Atlantic-Congo	326700	3.167	Africa	MUNDANG,MUNDANG_2	1	phoible	NA	NA	NA	3	9.67	14.5
+muc	1619	Ajumbu	GM	39	26	10	3	Atlantic-Congo	200	3.9	Africa	MBU	1	phoible	NA	NA	NA	3	6.4	10.05
+muh	780	mündü	AA	41	29	9	3	Atlantic-Congo	25800	3.562	Africa	MONDO,MUNDU,MUNDU_2	1	phoible	NA	NA	NA	3	4.5	30
+muo	1181	Bali-Kumbat	PH	42	23	14	5	Atlantic-Congo	30000	4.571	Africa	NYONG	1	phoible	NA	NA	NA	5	5.92	10.42
+mur	793	murle	AA	34	20	14	0	Surmic	60000	3.897	Africa	MURLE	0	phoible	mrl	2	1	0	6.5	33.5
+mut	multiple	Muria Gondi	multiple	26	21	5	0	Dravidian	400000	4.394	S/SE Asia	WESTERN_MURIA	0	phoible	NA	NA	NA	0	20.24	80.7
+muy	1410	Muyang	GM	46	27	14	5	Afro-Asiatic	30000	4.183	Africa	MUYANG,MUYANG_2	1	phoible	NA	NA	NA	5	10.83	14.25
+mvi	multiple	Miyako (Ogami)	multiple	19	14	5	0	Japonic	67700	3.668	N-C Asia	AZA_IRABU_MIYAKO,FUKUSATO_MIYAKO,KUNINAKA_MIYAKO,MIYAKO,NISHIHARA_MIYAKO	0	phoible	NA	NA	NA	0	24.81	125.19
+mvy	346	Indus Kohistani (Kanyawali)	EA	NA	NA	NA	0	Indo-European	200000	3.288	S/SE Asia	INDUS_KOHISTANI,KOHISTANI_INDUS	0	phoible	NA	NA	NA	0	35.62	72.35
+mvz	1458	Masqan	GM	41	34	7	0	Afro-Asiatic	195000	4	Africa	MESQAN	0	phoible	NA	NA	NA	0	8.1	38.34
+mwf	2634	Murrinh-patha	ER	28	24	4	0	Southern_Daly	1830	5.014	Australia	MURRINH_PATHA_1,MURRINH_PATHA_2	0	phoible	mpa	1	0	0	-14.67	129.67
+mwk	779	maninka-kan	AA	33	19	14	0	Mande	434000	3.621	Africa	MANINKAKAN_KITA	0	phoible	NA	NA	NA	0	13	-9.5
+mwl	multiple	Mirandese	multiple	49	22	27	0	Indo-European	15000	4.729	W and SW Eurasia	MIRANDESE	0	phoible	NA	NA	NA	0	41.54	-6.38
+mwp	multiple	Kala Kawaw Ya	multiple	24	18	6	0	Pama-Nyungan	1220	4.257	Australia	KALA_LAGGAW_YA	0	phoible	kly	1	0	0	-10.12	142.12
+mwt	1673	Moken	GM	38	20	18	0	Austronesian	6000	4.591	S/SE Asia	MOKEN	0	phoible	NA	NA	NA	0	9.08	97.83
+mxj	1767	Mishmi	RA	54	34	16	4	Sino-Tibetan	18200	2.85	S/SE Asia	KAMAN	1	phoible	NA	NA	NA	4	29	96
+mxu	931	Mada	PH	40	22	13	5	Afro-Asiatic	17000	4.423	Africa	MADA_CAMEROON	1	phoible	NA	NA	NA	5	10.83	14.17
+mya	multiple	Burmese	multiple	53.33	33.33	17.67	2.75	Sino-Tibetan	32906490	3.15	S/SE Asia	BURMESE,YANGON_BURMESE	1	phoible	brm	3	1	3	21	96
+myb	1474	Mbay	GM	44	22	19	3	Central_Sudanic	88300	3.214	Africa	MBAY	1	phoible	NA	NA	NA	3	8.25	17.5
+mye	1263	myene	GM	36	29	7	0	Atlantic-Congo	45000	4.18	Africa	B11c_GALWA_1,B11c_GALWA_2,DYUMBA,ENENGA,GALWA,GALWA_2,MPONGWE,MYENE,MYENE_2,ORUNGU,ORUNGU_2	0	phoible	NA	NA	NA	0	-1.25	9.5
+myf	1349	Northern Mao	GM	36	23	10	3	Blue_Nile_Mao	2300	3.862	Africa	BAMBASSI,NORTHERN_MAO	1	phoible	NA	NA	NA	3	9.7	34.6
+myh	NA	NA	NA	NA	NA	NA	0	Wakashan	NA	5.787	W N America	MAKAH	0	wals	mak	1	0	NA	48.33	-124.67
+myk	786	minyanka	AA	50	29	19	2	Atlantic-Congo	738000	3.8	Africa	MAMARA_SENOUFO,MINYANKA_MAMARA	1	phoible	NA	NA	NA	2	12.5	-5.5
+mym	1472	Me'en	GM	40	26	14	0	Surmic	157300	3.718	Africa	MEEN	0	phoible	NA	NA	NA	0	5	37
+myo	1661	Anfillo	GM	48	38	10	0	Ta-Ne-Omotic	500	4.122	Africa	ANFILLO,SOUTHERN_MAO	0	phoible	NA	NA	NA	0	8.6	34.6
+myp	NA	NA	NA	NA	NA	NA	NA	Mura-Piraha	390	4.647	S America	PIRAHA	1	wals	prh	2	1	NA	-7	-62
+myu	1129	Mundurukú	PH	39	17	20	2	Tupian	8000	4.243	S America	MUNDURUKU	1	phoible	NA	NA	NA	2	-7	-58
+myv	multiple	Erzya (Standard)	multiple	35	29	6	0	Uralic	96860	4.062	N-C Asia	ERZYA,ERZYA_2	0	phoible	NA	NA	NA	0	53	45.5
+myx	1367	Orusyan	GM	63	51	12	0	Atlantic-Congo	1650000	3.867	Africa	MASABA,MASABA_2,YOBO	0	phoible	NA	NA	NA	0	1.33	34.25
+mzh	NA	NA	NA	NA	NA	NA	0	Matacoan	15000	4.494	S America	MATACO,WICHI_LHAMTES_GUISNAY	0	wals	wch	1	0	NA	-22.5	-62.58
+mzk	774	mambila	AA	43	25	16	2	Atlantic-Congo	99000	2.75	Africa	MAMBILA	1	phoible	NA	NA	NA	2	6.75	11.5
+mzm	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	400000	3.103	Africa	MUMUYE	1	wals	mum	3	1	NA	9	11.67
+mzp	NA	NA	NA	NA	NA	NA	0	Movima	1170	5.224	S America	MOVIMA	0	wals	mov	1	0	NA	-13.83	-65.67
+mzw	787	mo	AA	52	22	30	0	Atlantic-Congo	44000	3.95	Africa	DEG	0	phoible	NA	NA	NA	0	8.44	-2.29
+nab	NA	NA	NA	NA	NA	NA	NA	Nambiquaran	720	5.564	S America	NAMBIKWARA	1	wals	nmb	3	1	NA	-13	-59
+nam	2635	Ngan'gityemerri	ER	23	19	4	0	Southern_Daly	180	5.172	Australia	NGANGIKURRUNGGURR,NGENGOMERI	0	phoible	NA	NA	NA	0	-14	130.5
+nan	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	49797500	3.192	S/SE Asia	AMOY_MINNAN_CHINESE,CHAOYANG_CHINESE,DONGSHAN_CHINESE,HAINAN_MINNAN_CHINESE,MINSOUTH_AMOY,MINSOUTH_CHAOZHOU,MINSOUTH_HAIKOU,MINSOUTH_HAINAN,MINSOUTH_LEIZHOU	1	wals	hok	3	1	NA	25	118
+naq	155	Nama	SPA	33	19	8	6	Khoe-Kwadi	202200	3.873	Africa	KHOEKHOEGOWAB,NAMA,NAMA_2	1	phoible	kho	3	1	6	-25.5	18
+nas	60	Nasioi	SPA	18	8	10	0	South_Bougainville	20000	4.014	NG and Oceania	NASIOI	0	phoible	NA	NA	NA	0	-6.33	155.58
+nav	66	Navaho	SPA	54	36	16	2	Athabaskan-Eyak-Tlingit	167000	3.55	W N America	NAVAHO,NAVAJO	1	phoible	nav	2	1	2	36.17	-108
+naw	1660	Nawuri	GM	40	29	9	2	Atlantic-Congo	14000	4.5	Africa	NAWURI	1	phoible	NA	NA	NA	2	8.17	0.1
+nay	2795	Yaraldi	ER	25	20	5	0	Pama-Nyungan	NA	4.348	Australia	YARALDI	0	phoible	NA	NA	NA	0	-36	140
+nbi	1765	Mao-Naga	RA	30	20	6	4	Sino-Tibetan	81000	3.417	S/SE Asia	NAGA_MAO	1	phoible	NA	NA	NA	4	25.5	94.33
+nbj	multiple	Bilinarra	multiple	23	17	6	0	Pama-Nyungan	60	5.524	Australia	NGARINMAN_BILINARA	0	phoible	NA	NA	NA	0	-16	131.67
+ncb	1773	Nicobarese	RA	35	16	19	0	Austroasiatic	10100	4.013	S/SE Asia	NANCAWRI	0	phoible	nnc	1	0	0	8.05	93.5
+ncj	NA	NA	NA	NA	NA	NA	0	Uto-Aztecan	60000	4.419	C America	NAHUATL_DEL_NORTE_DEL_ESTADO_DE_PUEBLA,NAHUATL_XILOCUAUTLA_HUAUCHINANGO	0	wals	nhn	1	0	NA	20	-98.25
+nck	2678	Nakara	ER	25	20	5	0	Maningrida	51	6.483	Australia	NAKARA	0	phoible	NA	NA	NA	0	-12.08	134.33
+ncr	1600	Nchane	GM	41	17	18	6	Atlantic-Congo	13200	2.75	Africa	MUNGONG,NCANE	1	phoible	NA	NA	NA	6	6.5	10.58
+ncu	686	chumburung	AA	30	21	9	0	Atlantic-Congo	69000	4.108	Africa	CHUMBURUNG,NCHUMURU	0	phoible	NA	NA	NA	0	8.35	-0.35
+nde	1491	Ndebele	GM	68	61	5	2	Atlantic-Congo	1634800	3.677	Africa	NDEBELE_ZIMBABWE,NORTHERN_NDEBELE,S44_NDEBELE_ZIMBABWE,SOUTHERN_NDEBELE,ZIMBABWE_NDEBELE	1	phoible	NA	NA	NA	2	-19.5	28.5
+ndh	1471	Chindali	GM	31	17	10	4	Atlantic-Congo	263000	4	Africa	NDALI,NDALI_2,SUKWA	1	phoible	NA	NA	NA	4	-9.45	33.4
+ndi	992	Samba Leko	PH	34	22	9	3	Atlantic-Congo	62000	3.474	Africa	SAMBA_LEKO	1	phoible	NA	NA	NA	3	8.5	12.5
+ndj	1611	Ndamba	GM	24	19	5	0	Atlantic-Congo	196000	4.327	Africa	KINDAMBA,NDAMBA,NDAMBA_2	0	phoible	NA	NA	NA	0	-8.4	36.03
+ndo	multiple	ndonga	multiple	34.5	28	5	1.5	Atlantic-Congo	570000	3.361	Africa	NDONGA,NDONGA_2	1	phoible	NA	NA	NA	2	-18	17
+ndv	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	43000	3.158	Africa	NDUT,NDUT_2,NDUT_FALOR	1	wals	ndt	3	1	NA	14.91	-16.98
+ndz	1436	Ndogo	GM	38	29	5	4	Atlantic-Congo	20000	2.517	Africa	NDOGO	1	phoible	NA	NA	NA	4	7.75	27
+neb	multiple	toura	multiple	44.5	20	20.5	4	Mande	50000	2.433	Africa	TOURA	1	phoible	NA	NA	NA	4	7.9	-7.5
+new	NA	NA	NA	NA	NA	NA	0	Sino-Tibetan	861000	3.25	S/SE Asia	DOLAKHA_NEWAR,KHWOPA_NEWAR	0	wals	new	1	0	NA	27.67	85.5
+nez	81	Nez Perce	SPA	36	26	10	0	Sahaptian	100	4.842	W N America	NEZ_PERCE	0	phoible	nez	1	0	0	46	-116
+nfr	795	nafaanra	AA	44	25	19	0	Atlantic-Congo	61000	3.975	Africa	NAFAARA,NAFAARA_2	0	phoible	NA	NA	NA	0	8	-2.58
+nfu	1601	Mfumte	GM	89	74	10	5	Atlantic-Congo	24700	2.757	Africa	MFUMTE	1	phoible	NA	NA	NA	5	6.67	11
+nga	800	ngbaka	AA	34	22	12	0	Atlantic-Congo	1016650	3.337	Africa	NGBAKA,NGBAKA_2	0	phoible	NA	NA	NA	0	3.5	20
+ngb	801	ngbandi	AA	31	19	12	0	Atlantic-Congo	250290	2.895	Africa	NORTHERN_NGBANDI	0	phoible	NA	NA	NA	0	3.83	22.33
+nge	936	Ngemba	PH	40	29	9	2	Atlantic-Congo	18800	3.486	Africa	MANKON,NGEMBA	1	phoible	NA	NA	NA	2	6.2	10
+ngi	NA	NA	NA	NA	NA	NA	NA	Afro-Asiatic	80000	4.291	Africa	NGIZIM,NGIZIM_2,NGIZIM_3	1	wals	ngz	2	1	NA	12.08	10.92
+ngk	2652	Dalabon	ER	29	23	6	0	Gunwinyguan	5	4.5	Australia	BUAN	0	phoible	NA	NA	NA	0	-13.5	134.83
+nha	2770	Nhanda	ER	33	27	6	0	Pama-Nyungan	1995	4.786	Australia	NHANDA	0	phoible	NA	NA	NA	0	-27	114.1
+nhb	676	bɛ̀ŋ	AA	49	24	19	6	Mande	17000	2.921	Africa	BENG	1	phoible	NA	NA	NA	6	7.83	-4.25
+nhg	NA	NA	NA	NA	NA	NA	0	Uto-Aztecan	3500	4.842	C America	TETELCINGO_NAHUATL	0	wals	nht	1	0	NA	19.67	-99
+nhu	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	40000	2.824	Africa	NONI	1	wals	non	3	1	NA	6.42	10.58
+nia	1674	Nias	GM	25	19	6	0	Austronesian	770000	3.872	S/SE Asia	NIAS_NORTHERN,NIAS_SOUTHERN	0	phoible	NA	NA	NA	0	1	97.75
+nie	1623	Lwaa	GM	59	25	31	3	Atlantic-Congo	5160	3.13	Africa	LUA_NIELLIM	1	phoible	lua	3	1	3	9.75	17.75
+nig	2654	Ngalakgan	ER	27	22	5	0	Gunwinyguan	NA	4.605	Australia	NGALAKAN	0	phoible	NA	NA	NA	0	-14.25	134
+nio	multiple	Nganasan (Avam)	multiple	30	20	10	0	Uralic	130	4.513	N-C Asia	NGANASAN,NGANASAN_2	0	phoible	nga	1	0	0	71	93
+niq	NA	NA	NA	NA	NA	NA	NA	Nilotic	949000	4.463	Africa	NANDI,NANDI_2	1	wals	nan	2	1	NA	0.25	35
+niv	multiple	Gilyak	multiple	39	31	8	0	Nivkh	200	3.537	N-C Asia	GILYAK,GILYAK_AMUR,GILYAK_EAST_SAKHALIN,GILYAK_NORTH_SAKHALIN,GILYAK_SOUTH_SAKHALIN,GILYAK_WEST_SAKHALIN,NIVKH	0	phoible	niv	2	1	0	53.33	142
+niy	1470	Ngiti	GM	56	44	5	7	Central_Sudanic	100000	3.345	Africa	NGITI	1	phoible	nti	3	1	7	1.67	30.25
+njh	1759	Lotha	RA	46	35	8	3	Sino-Tibetan	170000	3.408	S/SE Asia	NAGA_LOTHA	1	phoible	NA	NA	NA	3	26.5	94.25
+nji	2686	Ngarnka	ER	21	17	4	0	Mirndi	NA	6.312	Australia	GUDANJI	0	phoible	NA	NA	NA	0	-15.43	134.42
+njm	1703	Angami	RA	49	38	6	5	Sino-Tibetan	132000	3.462	S/SE Asia	ANGAMI	1	phoible	NA	NA	NA	5	25.67	94.5
+njo	1704	Ao-Naga	RA	35	24	8	3	Sino-Tibetan	261000	3.554	S/SE Asia	NAGA_AO	1	phoible	ao	3	1	3	26.58	94.67
+nju	multiple	Mirrniny	multiple	26	20	6	0	Pama-Nyungan	NA	4.968	Australia	NGADJUNMAYA	0	phoible	NA	NA	NA	0	-32.33	123.83
+njx	1365	Nyanga	GM	55	44	7	4	Atlantic-Congo	116000	4.057	Africa	KUNYI	1	phoible	NA	NA	NA	4	-4	12.9
+njy	1602	Njem	GM	42	20	20	2	Atlantic-Congo	7900	3.401	Africa	NJYEM,NJYEM_2	1	phoible	NA	NA	NA	2	2.3	14.12
+njz	21	Dafla	SPA	27	16	9	2	Sino-Tibetan	230000	3.431	S/SE Asia	BANGNI_NYISHI,DOUYU_BANGNI,NISHING,NISI	1	phoible	nis	2	1	2	28	93
+nkh	1742	Khezha	RA	53	42	8	3	Sino-Tibetan	40800	3.32	S/SE Asia	KHEZHA	1	phoible	NA	NA	NA	3	25.67	94.5
+nko	1455	Nkonya	GM	34	20	14	0	Atlantic-Congo	20400	3.3	Africa	NKAMI	0	phoible	NA	NA	NA	0	7.17	0.25
+nku	1607	Kulango	GM	46	27	17	2	Atlantic-Congo	29900	2.486	Africa	KULANGO_BOUNA	1	phoible	NA	NA	NA	2	9	-3
+nla	963	Ngombale	PH	59	37	19	3	Atlantic-Congo	45000	2.5	Africa	NGOMBALE	1	phoible	NA	NA	NA	3	5.75	10.17
+nld	multiple	Dutch	multiple	50.86	22.43	28.14	0.25	Indo-European	23025430	3.625	W and SW Eurasia	BRABANTIC,DUTCH,DUTCH_2	1	phoible	NA	NA	NA	0	50.75	4.5
+nmf	1789	Tangkul Naga	RA	40	27	13	0	Sino-Tibetan	142000	3.606	S/SE Asia	NAGA_TANGKHUL	0	phoible	NA	NA	NA	0	25	94.5
+nmi	1376	Nyam	GM	56	39	14	3	Afro-Asiatic	100	3.958	Africa	NYAM	1	phoible	NA	NA	NA	3	9.17	10.83
+nml	950	Ndemli	PH	53	30	18	5	Atlantic-Congo	10000	3	Africa	NDEMLI	1	phoible	NA	NA	NA	5	4.67	10.17
+nmm	multiple	Manange	multiple	43	30	10.5	3	Sino-Tibetan	390	2.77	S/SE Asia	MANANGE	1	phoible	NA	NA	NA	3	28.4	84.01
+nmn	1379	!Xóõ	GM	161	130	28	3	Tuu	2500	3.578	Africa	AUNI,MASARWA_KAKIA,NU_EN,XOON,XOON_MASARWA,XOON_NUEN	1	phoible	xoo	3	1	3	-24	21.5
+nmu	82	Maidu	SPA	24	18	6	0	Maiduan	NA	3.729	W N America	NE_MAIDU	0	phoible	mne	1	0	0	40	-120.67
+nmz	796	nawdm	AA	35	21	14	0	Atlantic-Congo	146000	4.207	Africa	NAWDM	0	phoible	NA	NA	NA	0	8.67	1
+nna	multiple	Nyangumata	multiple	24	18.5	5.5	0	Pama-Nyungan	310	5.143	Australia	NYANGUMARTA	0	phoible	NA	NA	NA	0	-20	121
+nnr	2936	Narrungga	ER	27	21	6	0	Pama-Nyungan	24	4.69	Australia	NARUNGGA	0	phoible	NA	NA	NA	0	-34.67	137.5
+nnw	1490	Nouni	GM	60	38	18	4	Atlantic-Congo	147000	2.722	Africa	SOUTHERN_NUNI	1	phoible	NA	NA	NA	4	11.52	-2.14
+nod	multiple	Northern Thai (Chieng Mai)	multiple	33	21	12	3	Tai-Kadai	6029500	3.081	S/SE Asia	LAMPANG_THAI,TAI_CHIENGMAI	1	phoible	NA	NA	NA	3	18.3	99.5
+nog	394	Nogai	EA	NA	NA	NA	0	Turkic	87260	3.718	W and SW Eurasia	NOGAI	0	phoible	NA	NA	NA	0	44	46
+nor	multiple	Norwegian (Standard Østnorsk)	multiple	40	24	16	0	Indo-European	5189940	3.535	W and SW Eurasia	GJESTAL_NORWEGIAN,NORWEGIAN_BOKMAAL,NORWEGIAN_BOKMAAL_2,NORWEGIAN_NYNORSK_TOTEN,NORWEGIAN_RIKSMAL,SANDNES_NORWEGIAN	0	phoible	nor	2	1	0	61	8
+now	1392	Kinyambo	GM	33	20	10	3	Atlantic-Congo	381000	3.778	Africa	NYAMBO	1	phoible	NA	NA	NA	3	-1.55	31
+npi	multiple	Nepali	multiple	55	39	16	0	Indo-European	15451000	3.861	W and SW Eurasia	NEPALI	0	phoible	nep	1	0	0	28	85
+nrb	2203	Nara	UZ	59	43	10	6	Nara	99800	3.447	Africa	NARA	1	phoible	nar	2	1	6	15.08	37.58
+nri	1718	Chokri	RA	39	34	5	0	Sino-Tibetan	83600	3.333	S/SE Asia	NAGA_CHOKRI	0	phoible	NA	NA	NA	0	25.95	94.3
+nrl	2843	Ngarluma	ER	23	20	3	0	Pama-Nyungan	32	4.779	Australia	NGALOOMA	0	phoible	NA	NA	NA	0	-20.83	117.5
+nsg	1473	Ongamo	GM	31	22	9	0	Nilotic	200	5.321	Africa	ONGAMO	0	phoible	NA	NA	NA	0	-3.03	37.47
+nsh	959	Ngishe	PH	34	26	6	2	Atlantic-Congo	9200	3.15	Africa	NGOSHIE	1	phoible	NA	NA	NA	2	6.05	9.83
+nsm	multiple	Sema	multiple	45	33.5	8.5	3	Sino-Tibetan	104000	3.97	S/SE Asia	NAGA_SUMI	1	phoible	NA	NA	NA	3	26	94.5
+nst	1790	Tangsa	RA	29	23	6	0	Sino-Tibetan	100100	3.635	S/SE Asia	YOGLI	0	phoible	NA	NA	NA	0	27.5	96.42
+ntj	2962	Ngaanyatjarra	ER	23	17	6	0	Pama-Nyungan	1000	5.575	Australia	NGAANYATJARRA	0	phoible	NA	NA	NA	0	-26	126.5
+ntm	1413	Nateni	GM	40	13	24	3	Atlantic-Congo	97300	4.013	Africa	NATENI	1	phoible	NA	NA	NA	3	10.5	1.17
+nto	1662	Bokala-Nkole	GM	30	23	7	0	Atlantic-Congo	100000	3.222	Africa	LONTOMBA,NTOMBA,NTOMBA_2,NTOMBA_DE_BIKORO,NTOMBA_INONGO,NTOMBA_NJALE	0	phoible	NA	NA	NA	0	-2	18.33
+nuj	1447	Nyole	GM	36	24	10	2	Atlantic-Congo	530000	5.184	Africa	NYOLE	1	phoible	NA	NA	NA	2	0.88	33.92
+nuk	70	Nootka	SPA	47	37	10	0	Wakashan	130	4.75	W N America	NOOTKA	0	phoible	nuu	1	0	0	49.67	-126.67
+nup	806	nupe	AA	38	25	8	5	Atlantic-Congo	1000000	3.49	Africa	NUPE,NUPE_TAKO,NUPE_TAKO_2	1	phoible	NA	NA	NA	5	9.1	5.42
+nus	1534	Nuer	GM	48	20	28	0	Nilotic	893000	3.308	Africa	NUER	0	phoible	NA	NA	NA	0	8.33	32
+nut	NA	NA	NA	NA	NA	NA	NA	Tai-Kadai	969000	2.697	S/SE Asia	NUNG,TAI_WESTERN_NUNG	1	wals	nun	3	1	NA	21.92	106.42
+nuv	797	nʋni	AA	54	21	30	3	Atlantic-Congo	45000	3.471	Africa	NORTHERN_NUNI	1	phoible	NA	NA	NA	3	12.17	-3
+nuy	multiple	Nunggubuyu	multiple	24.5	19	5.5	0	Gunwinyguan	110	5.309	Australia	NUNGGUBUYU	0	phoible	nug	1	0	0	-13.75	135.67
+nwb	803	niaboua	AA	44	24	16	4	Atlantic-Congo	42700	3.19	Africa	NYABWA	1	phoible	NA	NA	NA	4	6.88	-6.84
+nwe	1286	ngwe	GM	38	24	14	0	Atlantic-Congo	73200	3.966	Africa	NGWE	0	phoible	NA	NA	NA	0	5.5	9.9
+nxn	multiple	Mayi-Thakurti	multiple	21.67	18.67	3	0	Pama-Nyungan	NA	4.766	Australia	NGAWUN	0	phoible	NA	NA	NA	0	-19	141.5
+nxq	NA	NA	NA	NA	NA	NA	NA	Sino-Tibetan	300000	2.656	S/SE Asia	NAXI,NAXI_2	1	wals	nax	3	1	NA	27.5	100
+nyf	multiple	Giryama	multiple	47	40	5	2	Atlantic-Congo	944000	3.593	Africa	CHWAKA,CONI,GIRYAMA,GIRYAMA_2,GIRYAMA_3,GIRYAMA_4,RABAI,RABAI_2	1	phoible	NA	NA	NA	2	-4.6	39.32
+nyh	2693	Nyikina	ER	20	17	3	0	Nyulnyulan	68	5.343	Australia	NYIGINA	0	phoible	NA	NA	NA	0	-18	124.33
+nyi	NA	NA	NA	NA	NA	NA	NA	Nyimang	142000	4.284	Africa	AMA_AFRICA	1	wals	nyi	3	1	NA	12.17	29.33
+nym	970	Kinyamwezi	PH	53	36	14	3	Atlantic-Congo	1470000	3.533	Africa	KINYAMWEZI,NYAMWEZI,NYAMWEZI_2	1	phoible	NA	NA	NA	3	-5	33
+nyp	NA	NA	NA	NA	NA	NA	NA	Kuliak	20	3.281	Africa	NYANGI	1	wals	nyg	2	1	NA	3.42	33.58
+nys	multiple	Balardung	multiple	22	17	5	0	Pama-Nyungan	230	4.438	Australia	NYOONGAR,NYUNGA_EASTERN,NYUNGA_NORTHERN,NYUNGA_SOUTH_WESTERN	0	phoible	NA	NA	NA	0	-33.75	122
+nyt	2862	Nyawaygi	ER	18	12	6	0	Pama-Nyungan	NA	4.705	Australia	NYAWAYGI	0	phoible	NA	NA	NA	0	-19	146.17
+nza	1630	Mbembe	GM	116	99	12	5	Atlantic-Congo	60000	2.789	Africa	TIGON_MBEMBE	1	phoible	NA	NA	NA	5	6.83	10.75
+nzb	1371	Nzɛbi	GM	34	24	8	2	Atlantic-Congo	140000	3.923	Africa	NDJABI,NJEBI,NZEBI_1,NZEBI_2	1	phoible	NA	NA	NA	2	-1.25	13
+nzi	1399	Nzema	GM	40	24	14	2	Atlantic-Congo	365700	4.282	Africa	NZEMA,NZEMA_2	1	phoible	NA	NA	NA	2	5.17	-2.5
+oaa	491	Uilta	EA	NA	NA	NA	0	Tungusic	50	4.531	N-C Asia	UILTA	0	phoible	NA	NA	NA	0	49.5	143.5
+oca	117	Ocaina	SPA	38	27	9	2	Huitotoan	190	4.737	S America	OCAINA,OCAINA_2	1	phoible	oca	2	1	2	-2.75	-71.75
+oci	multiple	Occitan (Gascon)	multiple	58	27	31	0	Indo-European	218310	3.952	W and SW Eurasia	GASCON,LANGUEDOCIEN,OCCITAN_ARANESE	0	phoible	NA	NA	NA	0	43.3	0.1
+ojg	72	Ojibwa	SPA	27	16	11	0	Algic	25900	5.038	W N America	OJIBWA_EASTERN	0	phoible	oji	1	0	0	46	-80
+okr	912	Kirike	PH	36	24	10	2	Ijoid	248000	3.911	Africa	OKRIKA	1	phoible	NA	NA	NA	2	4.45	7.03
+oks	1382	Oko	GM	30	18	7	5	Atlantic-Congo	39300	3.688	Africa	OKO_OSANYE_ENI	1	phoible	NA	NA	NA	5	7.24	6.12
+oku	975	Oku	PH	29	18	7	4	Atlantic-Congo	87000	2.978	Africa	KUO,OKU	1	phoible	NA	NA	NA	4	6.25	10.5
+old	1644	Kimochi	GM	25	20	5	0	Atlantic-Congo	362000	3.684	Africa	MOCHI	0	phoible	NA	NA	NA	0	-3.1	36.9
+ona	NA	NA	NA	NA	NA	NA	0	Chonan	NA	4.276	S America	ONA	0	wals	sel	1	0	NA	-53	-70
+one	77	Oneida	SPA	22	10	12	0	Iroquoian	67	4.7	E N America	ONEIDA	0	phoible	ond	2	1	0	43	-75.67
+ood	96	Pima	SPA	29	19	10	0	Uto-Aztecan	14160	4.281	W N America	TOHONO_OODHAM,UPPER_PIMA	0	phoible	ood	1	0	0	32	-112
+orc	1631	Orma	GM	33	23	10	0	Afro-Asiatic	66300	4.705	Africa	ORMA	0	phoible	NA	NA	NA	0	-2	39.5
+oru	NA	NA	NA	NA	NA	NA	0	Indo-European	6050	3.771	W and SW Eurasia	ORMURI	0	wals	orm	1	0	NA	32.5	69.75
+ory	multiple	Oriya	multiple	42.5	31	11.5	0	Indo-European	32139520	4.167	W and SW Eurasia	ORIYA	0	phoible	NA	NA	NA	0	21	85
+oss	multiple	Iron Ossetic (Tual-S)	multiple	44.18	37.27	6.91	0	Indo-European	614350	3.908	W and SW Eurasia	DIGOR_OSSETIAN,IRON_OSSETIAN,OSSETIAN	0	phoible	NA	NA	NA	0	43	44
+ote	97	Otomi	SPA	58	42	13	3	Otomanguean	88500	3.276	C America	OTOMI_DE_1776,OTOMI_MEZQUITAL	1	phoible	otm	2	1	3	21.33	-99.67
+otr	1374	Otoro	GM	44	30	14	0	Heibanic	10000	4.05	Africa	UTORO	0	phoible	NA	NA	NA	0	11.17	30.5
+ozm	747	kɔɔzime	AA	52	22	24	6	Atlantic-Congo	40000	3.167	Africa	KOONZIME,KOOZIME	1	phoible	NA	NA	NA	6	3.15	13.6
+pac	NA	NA	NA	NA	NA	NA	0	Austroasiatic	38600	3.632	S/SE Asia	PACOH	0	wals	pac	1	0	NA	16.42	107.08
+pad	NA	NA	NA	NA	NA	NA	0	Arawan	290	5.429	S America	PAUMARI	0	wals	pau	1	0	NA	-6	-64
+pae	1070	Pagibete; Apakabeti; Apakibeti; Apagibete;Apagibeti; Pagabete	PH	51	42	7	2	Atlantic-Congo	28000	3.872	Africa	PAGIBETE,PAGIBETE_2	1	phoible	NA	NA	NA	2	3.08	22
+pag	1699	Pagasinan	GM	21	16	5	0	Austronesian	1243660	4.591	S/SE Asia	PANGASINAN	0	phoible	NA	NA	NA	0	15.92	120.3
+pam	multiple	Kapampangan	multiple	22	17	5	0	Austronesian	2049670	4.618	S/SE Asia	KAPAMPANGAN	0	phoible	NA	NA	NA	0	15.33	120.5
+pan	multiple	Punjabi	multiple	57	36.33	18.67	2.25	Indo-European	29537970	4.037	W and SW Eurasia	PUNJABI_MAJHI	1	phoible	NA	NA	NA	2	31	74
+pav	NA	NA	NA	NA	NA	NA	0	Chapacuran	2720	4.556	S America	PAKAANOVA	0	wals	war	1	0	NA	-11.33	-65
+pay	NA	NA	NA	NA	NA	NA	NA	Chibchan	990	4.062	C America	PECH	1	wals	pec	2	1	NA	15	-85.5
+pbb	102	Paez	SPA	39	29	10	0	Paez	60000	3.378	S America	PAEZ,PAEZ_2	0	phoible	pae	1	0	0	2.67	-76
+pbh	NA	NA	NA	NA	NA	NA	0	Cariban	4180	4.358	S America	ENAPA_WOROMAIPU,PANARE	0	wals	pnr	1	0	NA	6.5	-66
+pbi	808	podoko	AA	35	31	4	0	Afro-Asiatic	30000	4.447	Africa	PODOKO	0	phoible	NA	NA	NA	0	11	14.08
+pbp	1329	Pajade	GM	43	25	18	0	Atlantic-Congo	18210	4.345	Africa	JAAD_BADIARANKE,JAAD_BADIARANKE_2,JAAD_BADIARANKE_3,JAAD_BADIARANKE_4,PAJADE	0	phoible	NA	NA	NA	0	12.6	-13.74
+pbr	1388	Pangwa	GM	35	23	12	0	Atlantic-Congo	95100	4.338	Africa	PANGWA,PANGWA_2	0	phoible	NA	NA	NA	0	-10	34.75
+pbt	multiple	Southwestern Pashto (Kandahar)	multiple	33	26	7	0	Indo-European	10870800	3.723	W and SW Eurasia	CHAMAN_PASHTO,KANDAHAR_PASHTO,PASHIN_KAKARI_PASHTO,PISHIN_PASHTO,QUETTA_PASHTO	0	phoible	NA	NA	NA	0	30.93	66.45
+pbu	multiple	Yousafzai Pashto (Peshāwar)	multiple	34.5	23.5	11	0	Indo-European	20813800	3.788	W and SW Eurasia	BAFFA_PASHTO,BAJAUR_PASHTO,BAR_PASHTO,BATAGRAM_PASHTO,CHARSADDA_PASHTO,CHERAT_PASHTO,DIR_PASHTO,HANGU_PASHTO,JALLOZAI_PASHTO,JAMRUD_AFRIDI_PASHTO,MADYAN_PASHTO,MALLAGORI_PASHTO,MARDAN_PASHTO,MINGORA_PASHTO,MOHMAND_PASHTO,NINGRAHAR_PASHTO,NORTHERN_PASHTO,NORTHERN_PASHTO_2,OGHI_PASHTO,PARACHINAR_PASHTO,PESHAWAR_PASHTO,SHINWARI_PASHTO,SWABI_PASHTO,THAL_PASHTO,TIRAH_AFRIDI_PASHTO,ZAKHA_KHEL_AFRIDI_PASHTO	0	phoible	NA	NA	NA	0	34.5	73.26
+pbv	multiple	Pnar	multiple	39	24	15	0	Austroasiatic	247000	3.705	S/SE Asia	PNAR_JOWAI	0	phoible	NA	NA	NA	0	25.16	92.16
+pcc	28	Yay	SPA	38	24	8	6	Tai-Kadai	2654940	2.855	S/SE Asia	PO_AI,WANGMO_BOUYEI,YAY,YAY_2	1	phoible	yay	3	1	6	22.42	104.75
+pci	1777	Parji	RA	31	21	10	0	Dravidian	51200	3.727	S/SE Asia	PARJI,PARJI_2,PARJI_3	0	phoible	NA	NA	NA	0	19.5	82.5
+pdt	2224	Mennonite Plautdietsch	UZ	55	28	27	0	Indo-European	447360	3.718	W and SW Eurasia	PLAUTDIETSCH	0	phoible	NA	NA	NA	0	53	10
+peg	1779	Pengo	RA	32	22	10	0	Dravidian	350000	4.047	S/SE Asia	PENGO	0	phoible	NA	NA	NA	0	19.83	83.83
+peh	multiple	Baoan (Ñantoq)	multiple	36	25	11	0	Mongolic	6000	4	N-C Asia	BONAN	0	phoible	NA	NA	NA	0	36	102.5
+pes	multiple	Persian	multiple	29.33	23.33	6	0	Indo-European	52490820	4.088	W and SW Eurasia	PERSIAN,WESTERN_FARSI	0	phoible	prs	1	0	0	32	54
+phl	331	Palula	EA	NA	NA	NA	0	Indo-European	10000	3.433	S/SE Asia	ASHRET_PHALURA,BIORI_PHALURA,PURIGAL_PHALURA	0	phoible	NA	NA	NA	0	35.44	71.75
+pil	846	yom	AA	38	25	9	4	Atlantic-Congo	352000	3.981	Africa	YOM,YOM_PILA	1	phoible	NA	NA	NA	4	9.83	1.83
+pip	1361	Pero	GM	30	18	10	2	Afro-Asiatic	25000	4.197	Africa	PERO,PERO_2	1	phoible	NA	NA	NA	2	9.58	11
+pit	2763	Pitta Pitta	ER	26	21	5	0	Pama-Nyungan	NA	5.088	Australia	PITTA_PITTA	0	phoible	NA	NA	NA	0	-22.83	140
+piu	2963	Pintupi	ER	23	17	6	0	Pama-Nyungan	1680	5.716	Australia	PINTUPI	0	phoible	NA	NA	NA	0	-23	129
+pjt	multiple	Pitjantjatjara	multiple	23.67	17	6.67	0	Pama-Nyungan	3720	5.039	Australia	WANGKA_WIRU	0	phoible	pit	1	0	0	-26	130
+pko	1394	Pokot	GM	39	17	19	3	Nilotic	738000	4.275	Africa	POKOT	1	phoible	NA	NA	NA	3	1.5	35.5
+plt	31	Malagasy	SPA	36	31	5	0	Austronesian	7544380	5.005	S/SE Asia	MALAGASY_AMBOSITRA,MALAGASY_FIANARANTSOA,MALAGASY_MERINA,MALAGASY_PLATEAU_BETSILEO_FIANARANTSOA,MALAGASY_PLATEAU_MERINA_ANTANANARIVO,MALAGASY_PLATEAU_SIHANAKA_AMBATONDRAZAKA,MALAGASY_SIHANAKA,MALAGASY_TAIMORO	0	phoible	mal	1	0	0	-20.52	47.25
+pma	NA	NA	NA	NA	NA	NA	0	Austronesian	6000	4.181	NG and Oceania	PAAMA_FAULILI,PAAMA_LAUL,PAAMA_LIRONESA	0	wals	pms	1	0	NA	-16.52	168.35
+pmq	1132	Northern Pame	PH	54	40	12	2	Otomanguean	340	4.13	C America	NORTHERN_PAME,NORTHERN_PAME_2,TAMASOPO_PAME	1	phoible	NA	NA	NA	2	21.92	-99.4
+pnw	2848	Panyjima	ER	25	20	5	0	Pama-Nyungan	50	5.757	Australia	PANYTYIMA	0	phoible	NA	NA	NA	0	-22.83	118.42
+pny	1632	Pinyin	GM	66	42	19	5	Atlantic-Congo	24600	3.364	Africa	PINYIN	1	phoible	NA	NA	NA	5	5.82	10.08
+pol	multiple	Polish (Standard)	multiple	35	27	8	0	Indo-European	39600210	4.419	W and SW Eurasia	POLISH,POLISH_2	0	phoible	pol	1	0	0	52	20
+pom	89	Pomo	SPA	38	27	11	0	Pomoan	1	2.536	W N America	SOUTHEASTERN_POMO	0	phoible	NA	NA	NA	0	39	-122.5
+pon	NA	NA	NA	NA	NA	NA	0	Austronesian	32530	3.515	NG and Oceania	POHNPEIAN	0	wals	poh	1	0	NA	6.88	158.3
+por	multiple	Portuguese	multiple	43.25	20.75	22.5	0	Indo-European	222708500	4.075	W and SW Eurasia	PORTUGUESE,PORTUGUESE_2	0	phoible	NA	NA	NA	0	39	-8
+pqm	NA	NA	NA	NA	NA	NA	NA	Algic	410	6.062	E N America	PASSAMAQUODDY_MALISEET_UnnamedInSource	1	wals	psm	2	1	NA	45	-67
+prk	NA	NA	NA	NA	NA	NA	0	Austroasiatic	805700	3.576	S/SE Asia	AISHUO_WA,BANHONG_WA,DAZHAI_WA,GUANSHUANG_WA,MENGGONG_WA,WANLENG_WA,YANCHENG_WA,ZHONGKE_WA	0	wals	puk	1	0	NA	22.32	99.59
+prs	35	Dari	EA	NA	NA	NA	0	Indo-European	8990200	4.15	N-C Asia	EASTERN_FARSI	0	phoible	NA	NA	NA	0	35	66
+prx	multiple	Purki	multiple	37	31	6	0	Sino-Tibetan	37700	3.775	S/SE Asia	PURIK	0	phoible	NA	NA	NA	0	34.67	76
+pst	multiple	Pashto	multiple	33	26.67	6.33	0	Indo-European	6520000	3.727	W and SW Eurasia	BANNU_PASHTO,KARAK_PASHTO,LAKKI_MARWAT_PASHTO,MIRAN_SHAH_PASHTO,WANA_PASHTO	0	phoible	psh	1	0	0	32.98	70.6
+pum	502	Puma	EA	NA	NA	NA	0	Sino-Tibetan	6690	3.662	S/SE Asia	PUMA	0	phoible	NA	NA	NA	0	27.1	86.8
+puo	multiple	Ksingmul	multiple	38	20	18	0	Austroasiatic	27870	3.833	S/SE Asia	KSINMUL,KSINMUL_2	0	phoible	NA	NA	NA	0	21.08	104
+pwa	NA	NA	NA	NA	NA	NA	NA	Pawaia	4000	3.66	NG and Oceania	PAWAIA,PAWAIA_2	1	wals	paw	2	1	NA	-7	145.08
+pwn	multiple	Paiwan (Kulalao)	multiple	25	21	4	0	Austronesian	66100	5.223	S/SE Asia	BUTANGLU_PAIWAN,PAIWAN,STIMUL_PAIWAN,TJUBAR_PAIWAN	0	phoible	pai	1	0	0	22.5	120.83
+pym	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	31000	3.632	Africa	FYEM	1	wals	fye	2	1	NA	9.35	9.2
+quh	104	Quechua	SPA	37	32	5	0	Quechuan	1616120	4.223	S America	MARAGUA,POCONA	0	phoible	qco	1	0	0	-19.05	-65.43
+qui	NA	NA	NA	NA	NA	NA	NA	Chimakuan	NA	5.026	W N America	QUILEUTE	1	wals	qui	2	1	NA	47.92	-124.25
+ram	NA	NA	NA	NA	NA	NA	0	Nuclear-Macro-Je	2500	3.474	S America	APANIEKRA	0	wals	cnl	1	0	NA	-7	-45
+rap	NA	NA	NA	NA	NA	NA	0	Austronesian	1000	4.205	NG and Oceania	RAPA_NUI	0	wals	rap	1	0	NA	-27	-109
+raw	multiple	Rawang (Mutwang)	multiple	34	20	14	1.5	Sino-Tibetan	63000	3.25	S/SE Asia	RAWANG	1	phoible	NA	NA	NA	2	27.5	97.5
+rel	811	rendille	AA	33	21	10	2	Afro-Asiatic	60000	3.917	Africa	RENDILLE,RENDILLE_2	1	phoible	NA	NA	NA	2	2	37.5
+rgr	NA	NA	NA	NA	NA	NA	NA	Arawakan	1	4.987	S America	RESIGARO,RESIGARO_2	1	wals	res	2	1	NA	-2.42	-71.5
+rif	123	Shilha	SPA	49	45	4	0	Afro-Asiatic	4366000	4.375	Africa	BENI_SNOUS_WESTERN_ALGERIAN_BERBER,TARIFIT_BENI_IZNASSEN,TARIFIT_GUELAIA	0	phoible	NA	NA	NA	0	34.62	-1.64
+rit	2979	Ritharrngu	ER	31	25	6	0	Pama-Nyungan	32	4.946	Australia	RITHARNGU	0	phoible	NA	NA	NA	0	-12.83	135.5
+rjs	multiple	Rājbanshi	multiple	43	34	9	0	Indo-European	168300	3.569	W and SW Eurasia	RAJBANSHI	0	phoible	NA	NA	NA	0	26.5	87.7
+rma	NA	NA	NA	NA	NA	NA	0	Chibchan	740	4.603	C America	RAMA	0	wals	ram	1	0	NA	11.75	-83.75
+rmb	2663	Rembarrnga	ER	28	22	6	0	Gunwinyguan	38	5.094	Australia	RAINBARNGO	0	phoible	NA	NA	NA	0	-12.83	134.58
+rmi	523	Lomavren	EA	NA	NA	NA	0	Indo-European	50	4.071	W and SW Eurasia	LOMAVREN	0	phoible	NA	NA	NA	0	40	45
+rmt	multiple	Domari (Palestinian)	multiple	45	33	12	0	Indo-European	10	3.719	W and SW Eurasia	DOMARI,NAWAR_ZUTT	0	phoible	NA	NA	NA	0	31.78	35.22
+rmy	multiple	greek Thrace Xoraxane Romane	multiple	36.5	27	9.5	0	Indo-European	538480	3.922	W and SW Eurasia	BANATISKI_GURBET_ROMANI,GURBET_ROMANI,LOVARA_ROMANI,MACEDONIAN_DZAMBAZI_ROMANIAN,SREMSKI_GURBET_ROMANI,VLAX_ROMANI	0	phoible	NA	NA	NA	0	45.4	20.18
+rng	1546	Ronga	GM	69	64	5	0	Atlantic-Congo	424000	4.028	Africa	RONGA	0	phoible	NA	NA	NA	0	-26	32.5
+roh	multiple	Vallader Romansh	multiple	46	27	19	0	Indo-European	40000	3.997	W and SW Eurasia	ROMANSH_GRISHUN,ROMANSH_SURMIRAN,ROMANSH_SURSILVAN,ROMANSH_VALLADER	0	phoible	rsc	1	0	0	46.55	9.93
+ron	multiple	Rumanian	multiple	41	31	10	0	Indo-European	23425940	4.158	W and SW Eurasia	ROMANIAN,ROMANIAN_2,ROMANIAN_3	0	phoible	rom	1	0	0	46	25
+roo	NA	NA	NA	NA	NA	NA	0	North_Bougainville	4320	5.472	NG and Oceania	ROTOKAS	0	wals	rtk	1	0	NA	-6	155.17
+rro	NA	NA	NA	NA	NA	NA	0	Austronesian	15000	3.894	NG and Oceania	RORO	0	wals	ror	1	0	NA	-8.75	146.6
+ruk	1068	Che; Rukuba; Kuche; Bache; Inchazi; Sale	PH	57	30	24	3	Atlantic-Congo	100000	2.763	Africa	CE	1	phoible	NA	NA	NA	3	9.83	8.58
+run	989	Rundi	PH	29	22	5	2	Atlantic-Congo	10762850	3.545	Africa	J62_RUNDI,KIRUNDI,RUNDI	1	phoible	NA	NA	NA	2	-3.5	30
+rus	multiple	Russian	multiple	40	34.5	5.5	0	Indo-European	153919510	4.231	W and SW Eurasia	NINILCHIK_RUSSIAN,RUSSIAN,RUSSIAN_2	0	phoible	rus	1	0	0	59.99	-151.54
+rut	NA	NA	NA	NA	NA	NA	NA	Nakh-Daghestanian	36400	3.885	W and SW Eurasia	RUTUL	1	wals	rut	2	1	NA	41.5	47.42
+sad	1652	Sandawe	GM	64	44	15	5	Sandawe	60000	3.797	Africa	SANDAWE	1	phoible	sdw	2	1	5	-5	35
+sag	multiple	sango	multiple	43	26	12	5	Atlantic-Congo	599000	3.16	Africa	SANGO,SANGO_2,SANGO_3	1	phoible	san	2	1	5	5	18
+sah	multiple	Yakut	multiple	44.5	26.5	18	0	Turkic	450000	3.763	N-C Asia	SAKHA,SAKHA_2	0	phoible	ykt	1	0	0	62	130
+sat	multiple	Santali	multiple	51.5	30.5	21	0	Austroasiatic	6219300	3.876	S/SE Asia	BODOBELGHORIA_SANTALI,JABRI_SANTALI,PAHARPUR_SANTALI,PATICHORA_SANTALI,RAJARAMPUR_SANTALI,RASHIDPUR_SANTALI,RAUTNAGAR_SANTALI,SANTALI	0	phoible	NA	NA	NA	0	24.5	87
+say	1370	Syan	GM	54	39	12	3	Afro-Asiatic	300000	3.873	Africa	GUUS_SIGIDI,SAYA,ZAAR	1	phoible	NA	NA	NA	3	9.67	9.35
+saz	multiple	Kanigke:rgotti	multiple	42	32	10	0	Indo-European	185000	4.926	W and SW Eurasia	SAURASHTRA	0	phoible	NA	NA	NA	0	10.78	78.68
+sba	799	ngambai	AA	34	18	13	3	Central_Sudanic	1377000	3.138	Africa	NGAMBAY	1	phoible	NA	NA	NA	3	8.67	16
+sbf	1005	Shabo	PH	43	28	13	2	Shabo	400	3.77	Africa	SHABO	1	phoible	NA	NA	NA	2	7.58	35.42
+sbu	multiple	Tod Tibetan	multiple	41	35	6	0	Sino-Tibetan	2500	3.615	S/SE Asia	TOD	0	phoible	NA	NA	NA	0	32.42	77.25
+sce	multiple	Dongxiang	multiple	34	28	6	0	Mongolic	200000	4.135	N-C Asia	SANTA_MONGOLIAN	0	phoible	NA	NA	NA	0	31.5	107.5
+sck	504	Sadri	EA	NA	NA	NA	0	Indo-European	3291180	3.868	S/SE Asia	SADRI	0	phoible	NA	NA	NA	0	19.42	83.56
+scl	multiple	Shina	multiple	48	35	13	0	Indo-European	562400	3.636	W and SW Eurasia	ASTOR_SHINA,BAGROT_SHINA,BUNJI_SHINA,CHALT_SHINA,DAREL_SHINA,DASHKIN_SHINA,GILGIT_SHINA,GOHARABAD_SHINA,GULTARI_SHINA,GUPIS_SHINA,HARAMOSH_SHINA,HARBAN_SHINA,HUNZA_SHINA,JALKOT_SHINA,JELIL_CHILAS_SHINA,KACHURA_SHINA,KHARMANG_SHINA,KHINAR_CHILAS_SHINA,KOLAI_SHINA,NAGAR_SHINA,PALAS_SHINA,PUNIAL_SHINA,RONDU_SHINA,SATPARA_SHINA,SAZIN_SHINA,SHINA_2,SHINA_GURESI,SHINA_KOHISTANI,TANGIR_SHINA	0	phoible	NA	NA	NA	0	36	74
+sco	multiple	Scots (Northern)	multiple	37	24	13	0	Indo-European	99200	3.199	W and SW Eurasia	SCOTS,SCOTS_2	0	phoible	NA	NA	NA	0	55.86	-4.26
+scp	multiple	Yolmo	multiple	46	36	10	1	Sino-Tibetan	10200	3.888	S/SE Asia	HELAMBU_SHERPA	1	phoible	NA	NA	NA	1	27.92	85.63
+sed	13	Sedang	SPA	53	39	14	0	Austroasiatic	97900	3.27	S/SE Asia	SEDANG	0	phoible	sed	1	0	0	14.83	108
+see	76	Seneca	SPA	27	11	16	0	Iroquoian	100	4.1	E N America	SENECA	0	phoible	snc	1	0	0	42.5	-77.5
+sef	multiple	Senoufo-Cebaara	multiple	40.5	23	14.5	3	Atlantic-Congo	862000	5.118	Africa	SENUFO_CEBAARA	1	phoible	snd	3	1	3	9.51	-6.15
+sel	multiple	Taz Selkup	multiple	41	16	25	0	Uralic	1020	3.925	N-C Asia	NORTHERN_SELKUP,SELKUP	0	phoible	NA	NA	NA	0	65	82
+seq	815	senoufo	AA	51	19	28	4	Atlantic-Congo	50000	4.2	Africa	SENARA_SENOUFU	1	phoible	NA	NA	NA	4	10.52	-5.32
+ses	multiple	Songhai	multiple	42.5	28	14.5	0	Songhay	430000	3.962	Africa	KOROBORO_SENNI	0	phoible	NA	NA	NA	0	16	0
+set	52	Sentani	SPA	17	10	7	0	Sentanic	30000	3.279	NG and Oceania	SENTANI	0	phoible	NA	NA	NA	0	-2.58	140.58
+sgc	1387	Kipsigis	GM	37	14	19	4	Nilotic	1916000	3.783	Africa	KALENJIN	1	phoible	NA	NA	NA	4	0.5	35.27
+sgh	334	Shughni	EA	NA	NA	NA	0	Indo-European	80000	3.449	S/SE Asia	SHUGHNI	0	phoible	NA	NA	NA	0	37.93	71.6
+sgi	1317	Nizaa	GM	90	58	23	9	Atlantic-Congo	10000	2.708	Africa	NIZAA	1	phoible	NA	NA	NA	9	7.08	12.5
+sgw	multiple	Muher	multiple	42.33	35.5	6.83	0	Afro-Asiatic	1480000	3.904	Africa	CHAHA,GETO	0	phoible	NA	NA	NA	0	8	37.5
+shb	NA	NA	NA	NA	NA	NA	0	Yanomamic	1030	4.549	S America	NINAM,SHIRISHANA,YANAM,YANAM_2	0	wals	shi	1	0	NA	3.5	-62.83
+shg	NA	NA	NA	NA	NA	NA	NA	Khoe-Kwadi	2000	3.054	Africa	SHUA	1	wals	det	2	1	NA	-20.5	24.5
+shi	multiple	Tachelhit	multiple	55.5	52	3.5	0	Afro-Asiatic	7066000	4.125	Africa	TASHELHIT_IDA_USEMLAL	0	phoible	tas	1	0	0	29.53	-9.61
+shk	1359	Shilluk	GM	54	25	26	3	Nilotic	175000	3.356	Africa	SHILLUK,SHILLUK_2	1	phoible	NA	NA	NA	3	9.67	31.75
+shn	multiple	Shan (Luxi)	multiple	32.5	22.5	10	2.75	Tai-Kadai	3295000	3.122	S/SE Asia	NORTHERN_SHAN,SHAN,SHAN_2,SHAN_3,SHAN_4	1	phoible	sha	3	1	3	23.7	98.03
+sho	1520	Shanga	GM	37	22	12	3	Mande	5400	2.912	Africa	SHANGA	1	phoible	NA	NA	NA	3	11.55	3.83
+shp	NA	NA	NA	NA	NA	NA	0	Pano-Tacanan	22500	4.654	S America	KONIBO,SHIPIBO	0	wals	shk	1	0	NA	-7.5	-75
+shs	NA	NA	NA	NA	NA	NA	0	Salishan	200	5.675	W N America	SHUSWAP	0	wals	shu	1	0	NA	52	-120
+shv	multiple	Jibbali (Central)	multiple	38	30	8	0	Afro-Asiatic	59000	4.138	Africa	SAURI,SHEHRI	0	phoible	NA	NA	NA	0	17.5	55
+shw	1499	Cwaya	GM	38	25	10	3	Heibanic	3500	3.975	Africa	SHIRUMBA	1	phoible	NA	NA	NA	3	11.12	30.38
+sif	1627	Siamou	GM	41	22	14	5	Siamou	46400	2.844	Africa	SEME,SIAMOU	1	phoible	NA	NA	NA	5	11	-4.92
+sin	multiple	Sinhalese	multiple	53	37	16	0	Indo-European	15218660	4.138	W and SW Eurasia	SINHALA	0	phoible	snh	1	0	0	7	80.5
+sip	multiple	Denjongka	multiple	65	37	28	1.5	Sino-Tibetan	70300	3.611	S/SE Asia	SIKKIMESE	1	phoible	NA	NA	NA	2	27.83	88.5
+siz	1610	Siwi	GM	38	26	12	0	Afro-Asiatic	20000	4.713	Africa	SIWA_BERBER,SIWI	0	phoible	NA	NA	NA	0	29.17	25.5
+sja	NA	NA	NA	NA	NA	NA	0	Chocoan	3552	3.857	S America	EPENA_BASURUDO,EPENA_SAIJA	0	wals	epe	1	0	NA	3	-77
+sjd	multiple	Kildin Saami	multiple	128	113	15	0	Uralic	350	4.188	N-C Asia	KILDIN_SAAMI,KILDIN_SAAMI_2	0	phoible	NA	NA	NA	0	67	37
+skb	multiple	Saek	multiple	44	23	21	3	Tai-Kadai	3840	2.829	S/SE Asia	SAEK,SAEK_2,SAEK_3	1	phoible	NA	NA	NA	3	17.42	104.75
+skd	NA	NA	NA	NA	NA	NA	0	Miwok-Costanoan	7	4.269	W N America	S_SIERRA_MIWOK	0	wals	mss	1	0	NA	37.5	-120
+skr	510	Siraiki	EA	NA	NA	NA	0	Indo-European	20068000	3.271	S/SE Asia	SERAIKI	0	phoible	NA	NA	NA	0	34	71.41
+skv	1013	Skou	PH	23	13	7	3	Sko	700	2.5	NG and Oceania	SKOU,TUMAWO	1	phoible	NA	NA	NA	3	-2.67	140.92
+slc	NA	NA	NA	NA	NA	NA	0	Jodi-Saliban	1336	4.621	S America	SALIBA_COLUMBIA	0	wals	sba	1	0	NA	6	-70
+sld	multiple	sissala	multiple	46.5	23	22.5	1	Atlantic-Congo	13000	3.84	Africa	SISAALA_BURKINA_FASO,SISAALA_BURKINA_FASO_2	1	phoible	NA	NA	NA	1	11.03	-2.5
+slk	multiple	Slovak	multiple	44.5	29.5	15	0	Indo-European	5170200	4.075	W and SW Eurasia	SLOVAK,SLOVAK_2	0	phoible	NA	NA	NA	0	49	20
+slr	multiple	Salar	multiple	43	31	12	0	Turkic	70000	3.656	N-C Asia	SALAR,SALAR_2	0	phoible	NA	NA	NA	0	35	103
+slv	multiple	Slovene (Standard)	multiple	35	22	13	1	Indo-European	2037060	4.119	W and SW Eurasia	SLOVENIAN,SLOVENIAN_2	1	phoible	NA	NA	NA	1	46	15
+slz	NA	NA	NA	NA	NA	NA	NA	Austronesian	4000	4.096	NG and Oceania	BUTLEH,MISOOL_MAYA,SALAWATI_MAAYA	1	wals	mya	3	1	NA	-0.9	130.97
+sma	NA	NA	NA	NA	NA	NA	0	Uralic	600	5.562	W and SW Eurasia	SOUTH_SAAMI,SOUTHERN_SAAMI	0	wals	scs	1	0	NA	64.67	16.75
+sme	2235	Northern Saami	UZ	74	63	11	0	Uralic	25700	5.119	N-C Asia	NORTH_SAAMI,NORTHERN_SAAMI	0	phoible	NA	NA	NA	0	69	24
+sml	2208	Central Sama	UZ	36	30	6	0	Austronesian	105000	4.444	S/SE Asia	SAMAL	0	phoible	NA	NA	NA	0	5.42	120.67
+sms	multiple	Skolt Saami (Suõʹnnʼjel)	multiple	75	51	24	0	Uralic	650	4.763	N-C Asia	SKOLT_SAAMI,SKOLT_SAAMI_2	0	phoible	NA	NA	NA	0	68	30
+snd	multiple	Sindhi	multiple	60.33	44.67	15.67	0	Indo-European	24546460	3.537	W and SW Eurasia	SINDHI,SINDHI_2	0	phoible	sdh	1	0	0	26	69
+snk	multiple	soninke	multiple	47	28.67	14.67	3.67	Mande	2084110	4.684	Africa	SONINKE,SONINKE_2,SONINKE_3,SONINKE_4	1	phoible	NA	NA	NA	4	15	-10.5
+snm	1292	Madi	GM	59	47	9	3	Central_Sudanic	60000	2.972	Africa	SOUTHERN_MAADI_2,SOUTHERN_MAADI_3	1	phoible	NA	NA	NA	3	2.85	31.3
+snv	34	Sa'ban	SPA	46	38	8	0	Austronesian	1960	3.943	S/SE Asia	SAABAN	0	phoible	NA	NA	NA	0	3.67	115.67
+snw	1330	Sele	GM	33	18	12	3	Atlantic-Congo	11300	3.948	Africa	SELE	1	phoible	NA	NA	NA	3	7.4	0.5
+som	127	Somali	SPA	52	30	20	2	Afro-Asiatic	16128400	3.994	Africa	SOMALI,SOMALI_2	1	phoible	som	2	1	2	3	45
+sou	multiple	Soutern Tai (Ko Samui)	multiple	34	21	13	2.83	Tai-Kadai	4500000	3.25	S/SE Asia	SONGKHLA_THAI	1	phoible	NA	NA	NA	3	7.19	101
+spa	multiple	Spanish	multiple	33.25	18.75	14.5	0	Indo-European	442384990	4.556	W and SW Eurasia	SPANISH,SPANISH_2	0	phoible	spa	1	0	0	40	-4
+spl	59	Selepet	SPA	21	15	6	0	Nuclear_Trans_New_Guinea	7000	3.667	NG and Oceania	SELEPET	0	phoible	NA	NA	NA	0	-6.17	147.17
+spp	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	350000	4.173	Africa	SENOUFO_SUPYIRE	1	wals	sup	3	1	NA	11.5	-5.58
+spt	multiple	Spiti Tibetan	multiple	40	33	7	1.5	Sino-Tibetan	10000	3.284	S/SE Asia	SPITI_BHOTI,SPITIAN	1	phoible	NA	NA	NA	2	31.1	77.17
+spy	812	sabaot	AA	31	13	18	0	Nilotic	241000	5.25	Africa	SABAOT	0	phoible	NA	NA	NA	0	1	34.75
+sqi	NA	NA	NA	NA	NA	NA	0	Indo-European	4242820	3.423	W and SW Eurasia	STANDARD_ALBANIAN	0	wals	alb	1	0	NA	41	20
+sqt	NA	NA	NA	NA	NA	NA	0	Afro-Asiatic	70000	4.219	Africa	SOQOTRI,SOQOTRI_2	0	wals	soq	1	0	NA	12.5	54
+squ	68	Squamish	SPA	37	30	7	0	Salishan	7	4.312	W N America	SQUAMISH	0	phoible	squ	1	0	0	49.67	-123.17
+srb	multiple	Soːra	multiple	28.5	19.5	9	0	Austroasiatic	253000	4.36	S/SE Asia	SAVARA,SORA,SORA_2	0	phoible	sor	1	0	0	20	84.33
+srh	337	Sarikoli	EA	NA	NA	NA	0	Indo-European	16000	3.923	S/SE Asia	SARIKOLI	0	phoible	NA	NA	NA	0	37.91	75.14
+sro	multiple	Campidanese Sardinian (Sestu)	multiple	58	44	14	0	Indo-European	500000	4.487	W and SW Eurasia	SARDINIAN_CAMPIDANESE	0	phoible	NA	NA	NA	0	39.06	9.04
+srq	118	Siriono	SPA	28	18	10	0	Tupian	190	3.571	S America	SIRIONO	0	phoible	srn	1	0	0	-15.58	-64
+srr	816	sereer	AA	43	33	10	0	Atlantic-Congo	1410700	3.722	Africa	SEREER,SEREER_2,SEREER_3,SEREER_4,SERER_SINE	0	phoible	NA	NA	NA	0	14.5	-16.5
+ssb	1667	Southern Sama	GM	23	17	6	0	Austronesian	260000	4.29	S/SE Asia	SIBUTU_SOUTHERN_SAMA	0	phoible	NA	NA	NA	0	4.5	118.5
+str	69	Salish	SPA	43	36	7	0	Salishan	12	5.624	W N America	SAANICH,SALISH_STRAITS,SAMISH,SONGISH	0	phoible	NA	NA	NA	0	48.35	-123.25
+sts	365	Shumashti	EA	NA	NA	NA	0	Indo-European	1000	3.289	S/SE Asia	SHUMASHTI	0	phoible	NA	NA	NA	0	34.48	70.57
+sue	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	3600	3.737	NG and Oceania	SUENA	1	wals	sue	2	1	NA	-7.75	147.55
+suk	1568	Sukuma	GM	57	38	14	5	Atlantic-Congo	8130000	3.577	Africa	F21_SUKUMA,KESUKUMA,SUKUMA,SUKUMA_2	1	phoible	NA	NA	NA	5	-2.83	32
+sun	35	Sundanese	SPA	26	19	7	0	Austronesian	34000000	4.868	S/SE Asia	SUNDANESE	0	phoible	NA	NA	NA	0	-7	107
+suq	1209	Suri	PH	31	22	7	2	Surmic	26900	4.119	Africa	SURI_CHAI,TIRMA	1	phoible	NA	NA	NA	2	5.33	35.33
+sur	794	mwaghavul	AA	37	25	12	0	Afro-Asiatic	150000	3.557	Africa	MUPUN,MWAGHAVUL,SURA	0	phoible	NA	NA	NA	0	9.5	8.83
+sus	822	soso	AA	35	21	14	0	Mande	1250110	4.089	Africa	SUSU,SUSU_2,SUSU_3,SUSU_4,SUSU_5	0	phoible	NA	NA	NA	0	10	-13
+suw	1639	Sisumbwa	GM	32	20	10	2	Atlantic-Congo	361000	3.778	Africa	F23_SUMBWA_YEKE,SUMBWA,SUMBWA_2	1	phoible	NA	NA	NA	2	-3.67	32
+sva	multiple	Svan (Upper Bal)	multiple	47	30	17	0	Kartvelian	14000	3.795	W and SW Eurasia	SVAN	0	phoible	NA	NA	NA	0	43	42.5
+svs	NA	NA	NA	NA	NA	NA	0	Savosavo	2420	4.167	NG and Oceania	SAVOSAVO	0	wals	svs	1	0	NA	-9.13	159.8
+swe	multiple	Swedish (Central)	multiple	35	18	17	0	Indo-European	9606320	3.504	W and SW Eurasia	JAMTLANDIC,SWEDISH,SWEDISH_2	0	phoible	NA	NA	NA	0	63	14.67
+swh	multiple	Swahili	multiple	36.5	31.5	5	0	Atlantic-Congo	16010110	3.487	Africa	HADIMU,MWINI,MWINI_2,PEMBA,SWAHILI,SWAHILI_2,SWAHILI_CHIRAZI,SWAHILI_MAKUNDUCHI,SWAHILI_MVITA,SWAHILI_PATE,SWAHILI_PEMBA,SWAHILI_SUD,SWAHILI_TIKUU,SWAHILI_VUMBA,TIKUU,TIKUU_PATE,VUMBA	0	phoible	swa	1	0	0	-6.5	39
+swi	multiple	Sui	multiple	61	46	15	4.5	Tai-Kadai	300120	2.833	S/SE Asia	SANDONG_SUI,SHUIQING_SUI,SUI,SUI_JUNG_CHIANG,SUI_LI_NGAM,SUI_PYO	1	phoible	sui	3	1	4	25.88	107.84
+sxu	multiple	Upper Saxon	multiple	35	15.5	19.5	0	Indo-European	2000000	3.718	W and SW Eurasia	SAXON_UPPER	0	phoible	NA	NA	NA	0	51.33	12.48
+sza	NA	NA	NA	NA	NA	NA	0	Austroasiatic	4100	4	S/SE Asia	SEMELAI	0	wals	sml	1	0	NA	3	103
+taj	multiple	Tamang (Eastern)	multiple	47	19	28	2	Sino-Tibetan	1197500	2.29	S/SE Asia	TAMANG	1	phoible	tam	2	1	2	28	85.25
+tam	multiple	Tamil	multiple	39.5	28	11.5	0	Dravidian	66678890	4.629	S/SE Asia	TAMIL,TAMIL_2,TAMIL_3	0	phoible	NA	NA	NA	0	11	78.5
+tan	1567	Tangale	GM	60	40	18	2	Afro-Asiatic	200000	3.682	Africa	TANGALE	1	phoible	NA	NA	NA	2	9.75	11.33
+taq	825	tamasheq	AA	43	22	21	0	Afro-Asiatic	500000	4.756	Africa	TAMASHEQ,TAMASHEQ_2	0	phoible	NA	NA	NA	0	14.05	-0.25
+tat	multiple	Tatar (Standard)	multiple	43	29	14	0	Turkic	4983510	3.675	N-C Asia	KAZAN_TATAR,MISHER_TATAR,TATAR,TATAR_2	0	phoible	NA	NA	NA	0	56	49.5
+tay	multiple	Atayal	multiple	25.5	18.5	7	0	Austronesian	84300	5.271	S/SE Asia	ATAYAL,CIULI_ATAYAL,MAYRINAX_ATAYAL,SKIKUN_ATAYAL,SQULIQ_ATAYAL	0	phoible	ata	1	0	0	24.5	121.33
+taz	1429	Tocco	GM	27	15	10	2	Narrow_Talodi	2650	4.369	Africa	TOCHO,TOCHO_2	1	phoible	NA	NA	NA	2	10.83	30.25
+tba	NA	NA	NA	NA	NA	NA	NA	Aikana	150	3.949	S America	AIKANA	1	wals	aik	2	1	NA	-12.67	-60.67
+tbi	1616	Gaahmg	GM	49	34	12	3	Eastern_Jebel	93000	4	Africa	INGASSANA	1	phoible	igs	2	1	3	11.5	34
+tbr	1663	Talasa	GM	55	39	14	2	Kadugli-Krongo	7300	4.588	Africa	KURONDI	1	phoible	NA	NA	NA	2	10.42	30.75
+tbz	697	ditammari	AA	32	17	12	3	Atlantic-Congo	175300	4.871	Africa	DITAMMARI	1	phoible	NA	NA	NA	3	10.25	1.25
+tca	115	Ticuna	SPA	38	18	11	9	Ticuna-Yuri	48580	4.576	S America	TIKUNA	1	phoible	tic	3	1	9	-4	-70.5
+tcb	1168	Tanacross	PH	54	35	14	5	Athabaskan-Eyak-Tlingit	60	3.769	W N America	TANACROSS	1	phoible	NA	NA	NA	5	63.5	-143.5
+tcf	NA	NA	NA	NA	NA	NA	NA	Otomanguean	37500	3.784	C America	TLAPANEC_MALINALTEPEC	1	wals	tlp	3	1	NA	17.27	-98.52
+tcx	1793	Toda	RA	53	38	15	0	Dravidian	1560	3.862	S/SE Asia	TODA,TODA_2	0	phoible	NA	NA	NA	0	11.42	76.75
+tcy	multiple	Tulu	multiple	35	22	13	0	Dravidian	1720000	5.179	S/SE Asia	TULU_INDIA,TULU_INDIA_2	0	phoible	tul	1	0	0	12.75	75.33
+tcz	1792	Thaadou	RA	34	23	8	3	Sino-Tibetan	269200	3.194	S/SE Asia	CHIN_THADO	1	phoible	NA	NA	NA	3	24.42	93.92
+tdd	multiple	Tai Nuea	multiple	29	19	10	3	Tai-Kadai	696500	3.116	S/SE Asia	DEHONG,DEHONG_TAI_NUEA,MANGSHI_TAI,MENGLIAN_TAI	1	phoible	NA	NA	NA	3	23.5	100.5
+tea	multiple	Temiar	multiple	49	19	30	0	Austroasiatic	15000	4.053	S/SE Asia	TEMIAR	0	phoible	NA	NA	NA	0	5	101.5
+ted	757	kroumen tépo	AA	39	17	18	4	Atlantic-Congo	31450	3.122	Africa	KRUMAN,KRUMEN_TEPO	1	phoible	NA	NA	NA	4	4.59	-7.26
+teh	NA	NA	NA	NA	NA	NA	0	Chonan	NA	4.794	S America	TEHUELCHE	0	wals	teh	1	0	NA	-48	-68
+tel	multiple	Telugu	multiple	54.33	40	14.33	0	Dravidian	74771240	5.122	S/SE Asia	TELUGU,TELUGU_2,TELUGU_3,TELUGU_4	0	phoible	tel	1	0	0	16	79
+tem	multiple	themne	multiple	33	18	12	3	Atlantic-Congo	1870000	3.115	Africa	TEMNE,TEMNE_2,TEMNE_3,TEMNE_4,TEMNE_5,THEMNE	1	phoible	tne	2	1	3	8.6	-12.7
+teq	NA	NA	NA	NA	NA	NA	NA	Temeinic	13000	5.075	Africa	TEMEIN	1	wals	tmn	2	1	NA	11.92	29.42
+tes	1700	Tengger	GM	42	20	22	0	Austronesian	80000	4.645	S/SE Asia	TENGGER_NGADAS	0	phoible	NA	NA	NA	0	-7.92	112.5
+tet	1680	Tetun	GM	18	13	5	0	Austronesian	463500	4.241	S/SE Asia	TETUN	0	phoible	ttn	1	0	0	-9	126
+teu	1476	Soo	GM	28	18	10	0	Kuliak	50	3	Africa	TEPES	0	phoible	NA	NA	NA	0	2.58	34.75
+tew	93	Tewa	SPA	57	34	19	4	Kiowa-Tanoan	1500	3.029	E N America	TEWA_ARIZONA,TEWA_SAN_JUAN_PUEBLO,TEWA_SANTA_CLARA	1	phoible	NA	NA	NA	4	35.83	-110.42
+tey	1416	Tulishi	GM	59	37	19	3	Kadugli-Krongo	2500	4.521	Africa	KAMDANG,TULISHI	1	phoible	NA	NA	NA	3	11.42	29.17
+tgc	NA	NA	NA	NA	NA	NA	0	Austronesian	6000	3.941	NG and Oceania	TIGAK	0	wals	tgk	1	0	NA	-2.72	150.8
+tgk	multiple	Tajik (Bukhara)	multiple	29	23	6	0	Indo-European	7863220	4.1	W and SW Eurasia	TAJIK	0	phoible	NA	NA	NA	0	38.4	70
+tgl	multiple	Tagalog	multiple	26	19.33	6.67	0	Austronesian	23402390	4.681	S/SE Asia	MARINDUQUE_TAGALOG,TAGALOG	0	phoible	tag	1	0	0	15	121
+tha	multiple	Thai	multiple	46	21	19.5	5.33	Tai-Kadai	20558630	3.213	S/SE Asia	KHORAT_THAI,SIAMESE,SIAMESE_2,TAI,THAI,THAI_2,THAI_3	1	phoible	tha	3	1	5	14.98	102.1
+thd	2923	Thaayorre	ER	26	16	10	0	Pama-Nyungan	24	3.816	Australia	THAYORE	0	phoible	NA	NA	NA	0	-14.35	141.5
+thm	1216	Aheu; Thavung	PH	47	20	23	4	Austroasiatic	700	3.583	S/SE Asia	THAVUNG_SO	1	phoible	NA	NA	NA	4	17.42	103.33
+ths	multiple	Thakali	multiple	29	19	10	2	Sino-Tibetan	6000	2.763	S/SE Asia	MARPHATAN_THAKALI,THAKALI	1	phoible	NA	NA	NA	2	29	83.45
+thv	NA	NA	NA	NA	NA	NA	0	Afro-Asiatic	77000	4.469	Africa	TAMAHAQ_TAHAGGART,TAMAHAQ_TAHAGGART_2	0	wals	tug	1	0	NA	23	6
+tic	1375	Tira	GM	42	26	16	0	Heibanic	40000	3.974	Africa	TIRO	0	phoible	NA	NA	NA	0	10.97	30.95
+tig	130	Tigre	SPA	54	47	7	0	Afro-Asiatic	1290000	4.35	Africa	TIGRE,TIGRE_2	0	phoible	tgr	1	0	0	16.5	38.5
+tik	832	tikar	AA	46	27	14	5	Atlantic-Congo	110000	3.202	Africa	TIKAR,TIKAR_2,TIKAR_AKUEN,TWUMWU	1	phoible	NA	NA	NA	5	5.9	11.6
+tir	1350	Tigrinya	GM	39	32	7	0	Afro-Asiatic	7503200	4.517	Africa	TIGRIGNA,TIGRINYA,TIGRINYA_2	0	phoible	NA	NA	NA	0	14.5	38.5
+tiv	1331	Tiv	GM	40	31	6	3	Atlantic-Congo	4000000	3.162	Africa	TIV,TIV_1,TIV_2	1	phoible	NA	NA	NA	3	7.5	8.8
+tiw	3005	Tiwi	ER	22	18	4	0	Tiwi	1720	6.829	Australia	TIWI	0	phoible	tiw	1	0	0	-11.5	131
+tix	92	Tiwa	SPA	41	26	12	3	Kiowa-Tanoan	1600	2.875	E N America	TIWA_SOUTHERN	1	phoible	NA	NA	NA	3	35	-106.33
+tiy	NA	NA	NA	NA	NA	NA	0	Austronesian	60500	5.115	S/SE Asia	TIRURAY	0	wals	try	1	0	NA	6.75	124.17
+tji	370	Tujia (Northern)	EA	NA	NA	NA	4	Sino-Tibetan	70000	3.434	S/SE Asia	NORTHERN_TUJIA	1	phoible	NA	NA	NA	4	28.95	111.12
+tkq	1386	Tee	GM	38	23	12	3	Atlantic-Congo	313000	2.889	Africa	TEE	1	phoible	NA	NA	NA	3	4.75	7.42
+tkr	485	Tsakhur (Mishlesh)	EA	NA	NA	NA	0	Nakh-Daghestanian	22300	3.808	W and SW Eurasia	TSAKHUR	0	phoible	NA	NA	NA	0	41.67	47.17
+tks	multiple	Khalkhal	multiple	37	23	14	0	Indo-European	374000	3.671	W and SW Eurasia	SOUTHERN_TATI	0	phoible	NA	NA	NA	0	36	49.67
+tlf	55	Telefol	SPA	27	17	8	2	Nuclear_Trans_New_Guinea	5400	4.25	NG and Oceania	TELEFOL	1	phoible	NA	NA	NA	2	-5	141.75
+tli	NA	NA	NA	NA	NA	NA	NA	Athabaskan-Eyak-Tlingit	1242	3.603	W N America	TLINGIT	1	wals	tli	2	1	NA	59	-135
+tlo	NA	NA	NA	NA	NA	NA	NA	Narrow_Talodi	1500	4.5	Africa	JOMANG	1	wals	jom	2	1	NA	10.58	30.5
+tma	NA	NA	NA	NA	NA	NA	NA	Tamaic	67900	3.417	Africa	MIISIIRII_TAMA	1	wals	tma	3	1	NA	13.5	22
+tml	54	Asmat	SPA	19	14	5	0	Nuclear_Trans_New_Guinea	290	3.5	NG and Oceania	TAMNIM_CITAK	0	phoible	NA	NA	NA	0	-5.5	138.5
+tna	NA	NA	NA	NA	NA	NA	0	Pano-Tacanan	1150	4.153	S America	TACANA	0	wals	tac	1	0	NA	-13.5	-68
+tnl	NA	NA	NA	NA	NA	NA	0	Austronesian	11500	3.986	NG and Oceania	LENAKEL_LENAUKAS,LENAKEL_LONASILIAN	0	wals	len	1	0	NA	-19.38	169.34
+toi	1328	Shanjo	GM	41	33	5	3	Atlantic-Congo	1530000	3.757	Africa	M64_TONGA_1,M64_TONGA_2	1	phoible	NA	NA	NA	3	-17	27
+tol	64	Chasta Costa	SPA	44	29	15	0	Athabaskan-Eyak-Tlingit	NA	5.333	W N America	TOLOWA	0	phoible	NA	NA	NA	0	41.92	-124.1
+top	84	Totonac	SPA	26	20	6	0	Totonacan	80000	5.154	C America	PAPANTLA_TOTONAC	0	phoible	tpa	1	0	0	20.33	-97.33
+toq	833	toposa	AA	27	17	9	1	Nilotic	100000	3.571	Africa	TOPOSA	1	phoible	NA	NA	NA	1	5.16	34.22
+tpy	NA	NA	NA	NA	NA	NA	0	Trumai	51	3.839	S America	TRUMAI	0	wals	tru	1	0	NA	-11.92	-53.58
+tqo	NA	NA	NA	NA	NA	NA	0	Eleman	23000	4.252	NG and Oceania	SEPOE,TOARIPI,TOARIPI_2	0	wals	toa	1	0	NA	-8.33	146.25
+tqw	NA	NA	NA	NA	NA	NA	0	Tonkawa	NA	5.578	E N America	TONKAWA	0	wals	ton	1	0	NA	30.25	-96.75
+trg	NA	NA	NA	NA	NA	NA	0	Afro-Asiatic	6350	4.304	W and SW Eurasia	LISHAN_DIDAN	0	wals	nap	1	0	NA	38	47
+trp	1794	Tripuri	RA	34	25	9	0	Sino-Tibetan	783000	3.517	S/SE Asia	KOK_BOROK_2	0	phoible	NA	NA	NA	0	24.33	92.5
+trw	344	Torwali	EA	NA	NA	NA	2	Indo-European	80000	2.8	S/SE Asia	TORWALI	1	phoible	NA	NA	NA	2	34.25	72
+tsb	1608	Ts'amakko	GM	68	56	10	2	Afro-Asiatic	19200	4.435	Africa	TSAMAI,TSAMAI_2,TSAMAI_3	1	phoible	NA	NA	NA	2	5.42	37.03
+tsg	multiple	Tausug (Suluk)	multiple	23	20	3	0	Austronesian	946000	5.153	S/SE Asia	TAUSUG	0	phoible	tsg	1	0	0	6	121
+tsi	NA	NA	NA	NA	NA	NA	0	Tsimshian	150	3.788	W N America	COAST_TSIMSHIAN	0	wals	tsi	1	0	NA	52.5	-129
+tsj	multiple	Tshangla	multiple	39	32	7	0	Sino-Tibetan	98800	2.538	S/SE Asia	TSHANGLA	0	phoible	NA	NA	NA	0	27.83	92.17
+tsp	835	toussian	AA	35	16	14	5	Atlantic-Congo	19500	3.493	Africa	NORTH_TOUSSIAN,NORTH_TOUSSIAN_2	1	phoible	NA	NA	NA	5	11	-4.67
+tsu	NA	NA	NA	NA	NA	NA	0	Austronesian	2130	4.029	S/SE Asia	DUHTU_TSOU,TSOU	0	wals	tso	1	0	NA	23.5	120.75
+tsz	87	Tarascan	SPA	32	26	6	0	Tarascan	55000	5.634	C America	PUREPECHA,PURHEPECHA,PURHEPECHA_2,TARASCAN	0	phoible	pur	1	0	0	19.5	-101.67
+ttb	1500	Tiba	GM	34	22	9	3	Atlantic-Congo	10000	2.776	Africa	TIBA	1	phoible	NA	NA	NA	3	8.48	11.97
+ttq	824	tamajaq	AA	37	23	14	0	Afro-Asiatic	801000	4.394	Africa	TETSERRET	0	phoible	NA	NA	NA	0	15.45	6.27
+ttr	2214	Tera	UZ	53	35	15	3	Afro-Asiatic	101000	4.167	Africa	TERA,TERA_PIDLIMDI	1	phoible	ter	3	1	3	11	11.83
+tug	1649	Tounia	GM	40	24	13	3	Atlantic-Congo	2260	3.286	Africa	TUNIA	1	phoible	NA	NA	NA	3	9.42	18.17
+tui	1345	Tupuri	GM	56	28	24	4	Atlantic-Congo	284000	3.321	Africa	TUPURI	1	phoible	NA	NA	NA	4	10.17	14.75
+tuk	multiple	Turkmen (Teke)	multiple	37	21	16	0	Turkic	6748690	3.974	N-C Asia	TURKMEN,TURKMEN_2	0	phoible	NA	NA	NA	0	40	58
+tun	80	Tunica	SPA	25	18	7	0	Tunica	NA	4.225	E N America	TUNICA	0	phoible	NA	NA	NA	0	32.67	-91
+tuq	828	teda	AA	35	24	11	0	Saharan	42500	3.744	Africa	TEDAGA	0	phoible	NA	NA	NA	0	20	19
+tur	multiple	Turkish	multiple	38	23.67	14.33	0	Turkic	78527240	4.088	N-C Asia	TURKISH,TURKISH_2,TURKISH_3	0	phoible	tur	1	0	0	39	35
+tvd	multiple	Tsuvadi; Avadi; Abadi; Evadi; Kamberi; Ibeto	multiple	53.5	33	18	2.5	Atlantic-Congo	130000	4.724	Africa	TSUVADI	1	phoible	NA	NA	NA	2	10.77	5.4
+tvu	1265	Nen	GM	26	17	7	2	Atlantic-Congo	40000	2.712	Africa	ALINGA,TUNEN	1	phoible	NA	NA	NA	2	4.75	10.67
+twf	NA	NA	NA	NA	NA	NA	NA	Kiowa-Tanoan	1070	2.775	W N America	TIWA_NORTHERN_PICURIS,TIWA_NORTHERN_TAOS	1	wals	twn	2	1	NA	36.5	-105.5
+tye	1519	Kyanga	GM	37	22	12	3	Mande	15000	3	Africa	KYENGA	1	phoible	NA	NA	NA	3	11.63	3.6
+tyr	multiple	Tay Daeng	multiple	35	20	15	2.5	Tai-Kadai	105000	3.35	S/SE Asia	TAI_DAENG	1	phoible	NA	NA	NA	2	19.42	104.8
+tyv	multiple	Tuvan (Standard)	multiple	52	28	24	0	Turkic	297000	3.525	N-C Asia	TUVAN	0	phoible	tuv	1	0	0	52	95
+tzh	86	Tzeltal	SPA	30	25	5	0	Mayan	273000	3.821	C America	TZELTAL_BACHAJON,TZELTAL_OXCHUC	0	phoible	tza	1	0	0	16.92	-92
+tzm	1609	Tamazight Berber	GM	39	36	3	0	Afro-Asiatic	4740000	4.07	Africa	AYT_SEGHROUCHEN,FIGUIG,TAMAZIGHT_CENTRAL_ATLAS_AYT_IZDEG,TAMAZIGHT_CENTRAL_ATLAS_AYT_NDHIR,TAMAZIGHT_CENTRAL_ATLAS_NTIFA	0	phoible	bma	1	0	0	33.33	-4.67
+ude	multiple	Udihe (Bikin)	multiple	40	19	21	0	Tungusic	100	3.725	N-C Asia	UDEHE	0	phoible	NA	NA	NA	0	47.67	136.25
+udl	1635	Ouldeme	GM	42	34	5	3	Afro-Asiatic	10500	4.743	Africa	WUZLAM	1	phoible	NA	NA	NA	3	10.95	14.12
+udm	multiple	Udmurt (Standard)	multiple	35	26.6	8.4	0	Uralic	340530	3.538	N-C Asia	UDMURT,UDMURT_2	0	phoible	NA	NA	NA	0	57.5	52.5
+udu	1485	Twampa	GM	28	23	5	0	Koman	22000	3.405	Africa	UDUK	0	phoible	NA	NA	NA	0	8.23	34.42
+uig	multiple	Uyghur (Xinjiang)	multiple	43	28	15	0	Turkic	10394210	4.297	N-C Asia	UYGHUR	0	phoible	NA	NA	NA	0	40	80
+ukr	multiple	Ukrainian (Standard)	multiple	41	35	6	0	Indo-European	27148980	4.463	W and SW Eurasia	UKRAINIAN,UKRAINIAN_2	0	phoible	NA	NA	NA	0	49	33
+umb	1268	umbundu	GM	30	20	10	0	Atlantic-Congo	6000000	3.907	Africa	UMBUNDU,UMBUNDU_2,UMBUNDU_3	0	phoible	umb	2	1	0	-12.5	15
+umg	2929	Umbuygamu	ER	32	27	5	0	Pama-Nyungan	NA	4.455	Australia	UMBUYKAMU	0	phoible	NA	NA	NA	0	-14.2	143.83
+umr	2644	Umbugarla	ER	25	17	8	0	Umbugarla	NA	5.345	Australia	UMBUGARLA	0	phoible	NA	NA	NA	0	-13	132
+ung	3007	Ngarinyin	ER	22	17	5	0	Worrorran	12	4.733	Australia	NGARINYIN	0	phoible	ung	1	0	0	-16.33	126
+unm	73	Delaware	SPA	39	22	17	0	Algic	NA	5.833	W N America	UNAMI_UnnamedInSource	0	phoible	NA	NA	NA	0	40	-75.17
+unr	multiple	Mundari	multiple	39.5	27.25	12.25	0	Austroasiatic	1120280	3.788	S/SE Asia	MUNDARI,MUNDARI_2	0	phoible	mun	1	0	0	23	84.67
+urb	NA	NA	NA	NA	NA	NA	0	Tupian	800	4.056	S America	URUBU_KAAPOR	0	wals	urk	1	0	NA	-2.33	-46.5
+urc	2650	Urningangg	ER	23	18	5	0	Giimbiyu	NA	6.184	Australia	URNINGANGG	0	phoible	NA	NA	NA	0	-13.25	133.17
+urd	multiple	Urdu	multiple	56	36	20	0	Indo-European	69165730	3.526	W and SW Eurasia	URDU	0	phoible	NA	NA	NA	0	25	67
+ush	332	Ushojo	EA	NA	NA	NA	0	Indo-European	2000	3.303	S/SE Asia	USHOJO	0	phoible	NA	NA	NA	0	35.15	72.75
+uzn	NA	NA	NA	NA	NA	NA	0	Turkic	25164820	3.638	N-C Asia	UZBEK	0	wals	uzn	1	0	NA	40.67	66.5
+vaa	1798	Vaagri Boli	RA	37	23	14	0	Indo-European	9300	4.1	W and SW Eurasia	VAAGRI_BOLI	0	phoible	NA	NA	NA	0	12.54	79.1
+vag	836	vagala	AA	54	24	30	0	Atlantic-Congo	13900	3.433	Africa	VAGALA	0	phoible	NA	NA	NA	0	9.42	-2.42
+vai	1034	Vai	PH	43	28	11	4	Mande	186800	3.083	Africa	VAI,VAI_2,VAI_3	1	phoible	NA	NA	NA	4	6.92	-11.25
+vam	NA	NA	NA	NA	NA	NA	NA	Sko	2670	3.005	NG and Oceania	DUMO,DUSUR,LEITRE,LEITRE_2	1	wals	dum	3	1	NA	-2.68	141.25
+vav	multiple	Varli (Dogri)	multiple	46	28	18	0	Indo-European	600000	3.662	W and SW Eurasia	WARLI	0	phoible	NA	NA	NA	0	20.56	73.3
+vay	multiple	Hayu	multiple	54	26	28	0	Sino-Tibetan	1520	3.532	S/SE Asia	HAYU	0	phoible	NA	NA	NA	0	27.25	86
+vep	multiple	Veps (Šimozero)	multiple	44	34	10	0	Uralic	1640	3.837	N-C Asia	VEPS,VEPS_2	0	phoible	NA	NA	NA	0	60	35
+vie	multiple	Vietnamese	multiple	40.33	21	14.67	5	Austroasiatic	67960920	2.971	S/SE Asia	VIETNAMESE,VIETNAMESE_2,VIETNAMESE_3	1	phoible	vie	3	1	5	10.5	106.5
+vku	2840	Kurrama	ER	27	21	6	0	Pama-Nyungan	10	5.385	Australia	KURRAMA	0	phoible	NA	NA	NA	0	-22	117.75
+vma	2841	Martuthunira	ER	26	20	6	0	Pama-Nyungan	5	5.622	Australia	MARTUTHUNIRA	0	phoible	mrt	1	0	0	-20.83	116.5
+vmb	2928	Mbabaram	ER	27	15	12	0	Pama-Nyungan	NA	3.562	Australia	MBABARAM	0	phoible	mbb	1	0	0	-17.17	145
+vot	multiple	Votic (Jõgõperä)	multiple	55	35	20	0	Uralic	68	3.273	N-C Asia	VOTIC	0	phoible	NA	NA	NA	0	59.5	30
+vro	multiple	Võro	multiple	44	26	18	0	Uralic	87000	3.949	N-C Asia	ESTONIAN_VORO	0	phoible	NA	NA	NA	0	57.85	27
+vut	837	vute	AA	59	30	24	5	Atlantic-Congo	21000	3.176	Africa	VUTE,VUTE_MBANJO,VUTE_YOKO	1	phoible	NA	NA	NA	5	5.4	11.55
+wal	1364	Welamo	GM	48	38	10	0	Ta-Ne-Omotic	1719800	4.465	Africa	WELAMO,WOLAYTTA,WOLAYTTA_2	0	phoible	NA	NA	NA	0	6.83	37.75
+wan	839	wan	AA	36	21	12	3	Mande	22000	3.094	Africa	WAN,WAN_2	1	phoible	NA	NA	NA	3	7.8	-5.8
+wao	NA	NA	NA	NA	NA	NA	0	Yuki-Wappo	NA	4.075	W N America	WAPPO	0	wals	wap	1	0	NA	38.5	-122.5
+wap	108	Wapishana	SPA	29	17	12	0	Arawakan	12500	5.244	S America	WAPISHANA,WAPISIANA,WAPIXANA	0	phoible	wps	1	0	0	2.67	-60
+waq	3006	Wagiman	ER	27	22	5	0	Wagiman	11	5.577	Australia	WAGIMAN	0	phoible	NA	NA	NA	0	-14	131.25
+wba	NA	NA	NA	NA	NA	NA	0	Warao	32800	4.564	S America	WARAO	0	wals	wra	1	0	NA	9.33	-61.67
+wbl	multiple	Wakhi	multiple	50	38	12	0	Indo-European	58000	3.826	W and SW Eurasia	CENTRAL_GOJAL_WAKHI,CHAPURSAN_WAKHI,ISHKOMAN_WAKHI,SHIMSAL_WAKHI,YASIN_WAKHI	0	phoible	NA	NA	NA	0	36.5	72
+wbp	multiple	Warlpiri	multiple	24	18	6	0	Pama-Nyungan	2510	5.385	Australia	WARLPIRI	0	phoible	NA	NA	NA	0	-20	132.33
+wbv	2771	Watjarri	ER	26	20	6	0	Pama-Nyungan	86	5.771	Australia	WAJARRI	0	phoible	NA	NA	NA	0	-26	117.5
+wdj	2636	Patjtjamalh	ER	22	17	5	0	Anson_Bay	5	5.023	Australia	PUNGUPUNGU,WADJIGINY,WADYGINY	0	phoible	NA	NA	NA	0	-13.17	130.17
+weh	1415	Weh	GM	47	37	7	3	Atlantic-Congo	8000	2.968	Africa	WEH	1	phoible	NA	NA	NA	3	6.46	10.13
+wga	multiple	Eastern Wakaya	multiple	25.5	19.5	6	0	Pama-Nyungan	NA	5.232	Australia	WAGAYA	0	phoible	NA	NA	NA	0	-20.17	137
+wgi	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	39000	3.797	NG and Oceania	MIDDLE_WAHGI	1	wals	wah	2	1	NA	-5.83	144.72
+wgy	2733	Warrgamay	ER	19	13	6	0	Pama-Nyungan	NA	4.957	Australia	WARGAMAY	0	phoible	NA	NA	NA	0	-18.58	146.08
+wic	74	Wichita	SPA	29	21	8	0	Caddoan	NA	4.944	E N America	WICHITA,WICHITA_2	0	phoible	wic	1	0	0	33.33	-97.33
+wig	2897	Wik-Ngathan	ER	28	16	12	0	Pama-Nyungan	100	4.513	Australia	WIK_NGATHAN	0	phoible	NA	NA	NA	0	-13.92	141.5
+wim	multiple	Wik-Munkan	multiple	24.5	14.5	10	0	Pama-Nyungan	1650	4.461	Australia	WIK_MUNGKAN	0	phoible	wmu	1	0	0	-13.92	141.75
+wiy	NA	NA	NA	NA	NA	NA	0	Algic	NA	5.091	W N America	WIYOT	0	wals	wiy	1	0	NA	40.83	-124.17
+wkw	multiple	Duungidjawu	multiple	23	13	10	0	Pama-Nyungan	NA	4.042	Australia	DUUNGIDJAWU	0	phoible	NA	NA	NA	0	-26.17	153.83
+wmb	multiple	Binbinka	multiple	21.67	16.67	5	0	Mirndi	2	6.378	Australia	WAMBAYA	0	phoible	wam	1	0	0	-18.67	135.75
+wmt	2859	Walmajarri	ER	23	17	6	0	Pama-Nyungan	520	5.028	Australia	WALMAJARRI	0	phoible	NA	NA	NA	0	-19.5	125.75
+wmw	1448	Kimwani	GM	26	21	5	0	Atlantic-Congo	120000	3.824	Africa	MWANI,MWANI_MOZAMBIQUE,SWAHILI_MWANI	0	phoible	NA	NA	NA	0	-11.67	40.33
+wnc	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	8200	4.179	NG and Oceania	WANTOAT	0	wals	wnt	1	0	NA	-6.17	146.5
+wne	multiple	Waneci	multiple	30	23	7	0	Indo-European	108000	3.457	W and SW Eurasia	WANECI	0	phoible	NA	NA	NA	0	30.1	67.94
+wni	1547	Comorian, Ndzwani	GM	39	32	5	2	Atlantic-Congo	348000	3	Africa	NZWANI	1	phoible	NA	NA	NA	2	-12.1	44.5
+wnu	NA	NA	NA	NA	NA	NA	0	Nuclear_Trans_New_Guinea	1400	3.931	NG and Oceania	WANUMA	0	wals	usa	1	0	NA	-4.83	145.17
+wnw	NA	NA	NA	NA	NA	NA	0	Wintuan	NA	2.688	W N America	WINTU	0	wals	win	1	0	NA	41	-122.5
+wob	840	wobé	AA	48	15	27	6	Atlantic-Congo	239000	2.766	Africa	WOBE,WOBE_NORTHERN_WE,WOBE_NORTHERN_WE_2	1	phoible	NA	NA	NA	6	7.42	-7.33
+woi	NA	NA	NA	NA	NA	NA	0	Timor-Alor-Pantar	6000	4.087	NG and Oceania	KAMANG,KAMANG_2,KAMANG_KOLOMANE,KAMANG_LANGKURU,KAMANG_LETLEY,KAMANG_PIDO_I,KAMANG_PIDO_II	0	wals	woi	1	0	NA	-8.25	124.83
+wok	1278	longto	GM	31	20	7	4	Atlantic-Congo	2400	4.355	Africa	LONGTO	1	phoible	NA	NA	NA	4	8.33	13.08
+wol	multiple	Wolof	multiple	47	32	15	0	Atlantic-Congo	5267290	3.832	Africa	WOLOF,WOLOF_2,WOLOF_3,WOLOF_4,WOLOF_5,WOLOF_6,WOLOF_7,WOLOF_8	0	phoible	wlf	1	0	0	15.25	-16
+won	1340	Wongo	GM	24	15	7	2	Atlantic-Congo	12700	3.528	Africa	WONGO,WONGO_1,WONGO_2	1	phoible	NA	NA	NA	2	-5.75	20.6
+wrb	2948	Warluwarra	ER	33	29	4	0	Pama-Nyungan	NA	5.467	Australia	WARLUWARA	0	phoible	NA	NA	NA	0	-22	138.5
+wrg	2820	Warungu	ER	17	13	4	0	Pama-Nyungan	NA	5.014	Australia	WARUNGU	0	phoible	NA	NA	NA	0	-18	145
+wrh	2723	Wiradjuri	ER	21	15	6	0	Pama-Nyungan	30	5.145	Australia	WIRADHURI	0	phoible	NA	NA	NA	0	-34	146
+wrk	multiple	Garrwa	multiple	17	14	3	0	Garrwan	59	5.588	Australia	GARAWA	0	phoible	grr	1	0	0	-17.08	137.17
+wrm	2951	Warumungu	ER	28	22	6	0	Pama-Nyungan	50	6.017	Australia	WARUMUNGU	0	phoible	NA	NA	NA	0	-19.33	134.33
+wro	3013	Worrorra	ER	25	17	8	0	Worrorran	4	5.529	Australia	WORRORRA	0	phoible	NA	NA	NA	0	-15.67	124.67
+wrr	3015	Wardaman	ER	22	17	5	0	Yangmanic	24	5.974	Australia	WARDAMAN	0	phoible	wrd	1	0	0	-15.5	131
+wrz	2664	Warray	ER	21	16	5	0	Gunwinyguan	NA	3.8	Australia	WARAY	0	phoible	wry	1	0	0	-13.17	131.25
+wti	NA	NA	NA	NA	NA	NA	NA	Berta	377000	4.462	Africa	BERTA,WETAWIT	1	wals	ber	2	1	NA	10.5	34.6
+wub	3010	Wunambal	ER	28	17	11	0	Worrorran	5	4.75	Australia	WUNAMBAL	0	phoible	NA	NA	NA	0	-14.83	125.5
+wuu	17	Wu	SPA	41	29	9	3	Sino-Tibetan	80734510	3.359	S/SE Asia	SUZHOU_WU,WU_CHONGMING,WU_DANYANG,WU_HANGZHOU,WU_JINHUA,WU_NINGBO,WU_SHANGHAI,WU_SUZHOU,WU_WENZHOU	1	phoible	wuc	3	1	3	31.3	120.6
+wwa	838	waama	AA	41	13	25	3	Atlantic-Congo	109000	4.138	Africa	WAAMA	1	phoible	NA	NA	NA	3	10.58	1.67
+www	1647	Wawa	GM	49	30	16	3	Atlantic-Congo	3000	3	Africa	WAWA	1	phoible	NA	NA	NA	3	6.83	11.75
+wyb	multiple	Ngiyambaa	multiple	21	15	6	0	Pama-Nyungan	4	5.129	Australia	WANGAAYBUWAN_NGIYAMBAA	0	phoible	ngi	1	0	0	-31.75	145.5
+wym	multiple	Wymysorys	multiple	35	20	15	0	Indo-European	70	3.788	W and SW Eurasia	WYMYSORYS	0	phoible	NA	NA	NA	0	49.54	19.9
+xal	multiple	Kalmyk (Standard)	multiple	39	23	16	0	Mongolic	360800	4.088	N-C Asia	KALMYK,KALMYK_2	0	phoible	NA	NA	NA	0	46.32	44.27
+xan	1333	Xamtanga	GM	30	23	7	0	Afro-Asiatic	224000	3.675	Africa	XAMTANGA,XAMTANGA_2	0	phoible	NA	NA	NA	0	12.42	38.83
+xaw	NA	NA	NA	NA	NA	NA	0	Uto-Aztecan	5	3.725	W N America	KAWAIISU	0	wals	kws	1	0	NA	36	-117.5
+xbr	1679	Kambera	GM	29	19	10	0	Austronesian	240000	3.82	S/SE Asia	KAMBERA,LEWA_KAMBERA,SOUTHERN_KAMBERA,UMBU_RATU_NGGAI_KAMBERA	0	phoible	NA	NA	NA	0	-9.83	120.5
+xed	1403	Hide	GM	41	37	4	0	Afro-Asiatic	29000	4.312	Africa	HDI	0	phoible	NA	NA	NA	0	11.87	13.72
+xgu	3012	Unggumi	ER	24	19	5	0	Worrorran	NA	6.768	Australia	UNGGUMI	0	phoible	NA	NA	NA	0	-15.65	124.67
+xho	1319	Xhosa	GM	84	75	7	2	Atlantic-Congo	8169300	3.603	Africa	MPONDO,MPONDOMISE,S41_XHOSA,THEMBU,XHOSA,XHOSA_2	1	phoible	NA	NA	NA	2	-32	27
+xka	363	Kalkoti	EA	NA	NA	NA	4	Indo-European	5100	3.171	S/SE Asia	KALKOTI	1	phoible	NA	NA	NA	4	35.5	72.5
+xkv	1449	Shekgalagari	GM	53	43	8	2	Atlantic-Congo	65400	3.708	Africa	QHALAXARZI	1	phoible	NA	NA	NA	2	-24.33	22.5
+xkz	2439	Kurtoep	EA	45	31	14	0	Sino-Tibetan	15000	2.469	S/SE Asia	KURTOP	0	phoible	NA	NA	NA	0	27.54	90.98
+xmf	multiple	Mingrelian (Senaki)	multiple	36	30.67	5.33	0	Kartvelian	345530	4.577	W and SW Eurasia	MINGRELIAN	0	phoible	NA	NA	NA	0	42.5	42
+xmm	1686	Manado Malay	GM	25	19	6	0	Austronesian	2350000	4.324	S/SE Asia	MANADONESE	0	phoible	NA	NA	NA	0	1.5	124.83
+xmy	2830	Mayi-Kutuna	ER	21	18	3	0	Pama-Nyungan	NA	5.103	Australia	MAYAGUDUNA	0	phoible	NA	NA	NA	0	-18.17	140.5
+xmz	1678	Mori Bawah	GM	27	22	5	0	Austronesian	14000	4.181	S/SE Asia	MORI_BAWAH,MORI_BAWAH_WATU	0	phoible	NA	NA	NA	0	-2.08	121.3
+xni	2998	Ngarigu	ER	18	15	3	0	Pama-Nyungan	NA	5.732	Australia	NGARIGU	0	phoible	NA	NA	NA	0	-36.23	149.13
+xom	1484	Komo	GM	28	23	5	0	Koman	11000	3.592	Africa	CENTRAL_KOMA,KOMA,SOUTHERN_KOMA	0	phoible	kom	3	1	0	8.75	33.75
+xon	multiple	konkomba	multiple	40	21.5	13	5.5	Atlantic-Congo	915700	4.694	Africa	KONKOMBA,KONKOMBA_2	1	phoible	NA	NA	NA	6	10	0.08
+xpe	multiple	Kpelle	multiple	47	26.5	17.5	3	Mande	760000	3.355	Africa	KPELLE,KPELLE_LIBERIA,LIBERIAN_KPELLE	1	phoible	kpe	3	1	3	7	-10
+xpt	2758	Punthamara	ER	21	18	3	0	Pama-Nyungan	NA	5.338	Australia	PUNTHAMARA	0	phoible	NA	NA	NA	0	-27.33	143
+xrb	906	Kar	PH	26	16	7	3	Atlantic-Congo	40610	3.207	Africa	EASTERN_KARABORO	1	phoible	NA	NA	NA	3	10.5	-4.52
+xsm	multiple	kasem	multiple	42.5	20	20	2.5	Atlantic-Congo	232600	4.036	Africa	KASEM,KASEM_2,KASEM_3	1	phoible	NA	NA	NA	2	11.25	-1.25
+xsr	multiple	Solu Sherpa (Hile)	multiple	48.5	34	14.5	1.5	Sino-Tibetan	164100	2.966	S/SE Asia	SHERPA	1	phoible	NA	NA	NA	2	27.75	86.83
+xsu	NA	NA	NA	NA	NA	NA	0	Yanomamic	3500	4.244	S America	SANIMA,SANUMA	0	wals	snm	1	0	NA	4.5	-64.67
+xtc	multiple	Katcha	multiple	54.5	35.5	16.75	2.25	Kadugli-Krongo	75000	4.438	Africa	KADUGLI_2,KATCHA,MIRI	1	phoible	kad	3	1	2	10.83	29.67
+xub	multiple	Betta Kurumba	multiple	37	22	15	0	Dravidian	32000	4.694	S/SE Asia	BETTA_KURUMBA,BETTA_KURUMBA_2	0	phoible	NA	NA	NA	0	11.48	76.73
+xug	multiple	Kunigami (Nakijin)	multiple	25	20	5	0	Japonic	5000	3.625	N-C Asia	IZENA_KUNIGAMI,YONAMINE	0	phoible	NA	NA	NA	0	26.93	127.94
+xuo	1346	Kuo	GM	56	29	24	3	Atlantic-Congo	20250	2.97	Africa	KO	1	phoible	NA	NA	NA	3	8	15.5
+xwe	1279	xwela	GM	45	29	13	3	Atlantic-Congo	80600	3.481	Africa	XWELA_GBE	1	phoible	NA	NA	NA	3	6.35	2
+yad	NA	NA	NA	NA	NA	NA	NA	Peba-Yagua	5300	4.936	S America	YAGUA,YAGUA_2,YAGUA_3	1	wals	yag	2	1	NA	-3.5	-72
+yah	338	Yazghulami	EA	NA	NA	NA	0	Indo-European	9000	3.608	S/SE Asia	YAZGULYAM	0	phoible	NA	NA	NA	0	38.5	71.5
+yai	multiple	Yaghnobi	multiple	36	27	9	0	Indo-European	12000	3.91	W and SW Eurasia	YAGHNOBI	0	phoible	NA	NA	NA	0	39	69
+yam	842	yamba	AA	38	26	8	4	Atlantic-Congo	80000	2.972	Africa	YAMBA,YAMBA_2	1	phoible	NA	NA	NA	4	6.42	11.08
+yao	1267	yao	GM	29	18	7	4	Atlantic-Congo	2585000	4.092	Africa	CIYAWO,YAO_1,YAO_2,YAO_3,YAO_4	1	phoible	NA	NA	NA	4	-14.5	35.5
+yap	NA	NA	NA	NA	NA	NA	0	Austronesian	5130	3.789	NG and Oceania	YAPESE	0	wals	yap	1	0	NA	9.58	138.17
+yaq	NA	NA	NA	NA	NA	NA	NA	Uto-Aztecan	18240	4.35	C America	YAQUI,YAQUI_2	1	wals	yaq	2	1	NA	27.5	-110.25
+yas	multiple	nugunu	multiple	30.5	19.5	7	4	Atlantic-Congo	35000	3.61	Africa	A60_GUNU,NUGUNU,NUGUNU_2	1	phoible	NA	NA	NA	4	4.58	11.25
+yat	843	yambɛta	AA	28	18	8	2	Atlantic-Congo	3700	2.767	Africa	YAMBETA	1	phoible	NA	NA	NA	2	5.03	10.97
+yba	1288	yala	GM	38	28	7	3	Atlantic-Congo	200000	3.652	Africa	YALA,YALA_2	1	phoible	NA	NA	NA	3	6.75	8.62
+ybb	multiple	yemba	multiple	31	19	7.5	4.5	Atlantic-Congo	300000	2.822	Africa	BAMILEKE,YEMBA,YEMBA_1,YEMBA_2	1	phoible	NA	NA	NA	4	5.42	10.08
+ycn	NA	NA	NA	NA	NA	NA	0	Arawakan	770	5.594	S America	YUCUNA,YUCUNA_2	0	wals	ycn	1	0	NA	-0.75	-71
+ydd	multiple	Eastern Yiddish (Central)	multiple	37	24	13	0	Indo-European	509160	3.812	W and SW Eurasia	YIDDISH_EASTERN	0	phoible	NA	NA	NA	0	52	23
+yea	1799	Yerava	RA	39	23	16	0	Dravidian	26900	4.294	S/SE Asia	RAVULA,YERUVA	0	phoible	NA	NA	NA	0	12.72	75.37
+yee	NA	NA	NA	NA	NA	NA	0	Lower_Sepik-Ramu	300	4.939	NG and Oceania	YIMAS_2,YIMAS_3	0	wals	yim	1	0	NA	-4.67	143.55
+yer	826	tarok	AA	37	27	7	3	Atlantic-Congo	300000	3.571	Africa	TAROK	1	phoible	tok	3	1	3	9	10.08
+yeu	1800	Yerukala	RA	38	20	18	0	Dravidian	69500	4.371	S/SE Asia	YERUKULA	0	phoible	NA	NA	NA	0	17.37	81.97
+yey	NA	NA	NA	NA	NA	NA	NA	Atlantic-Congo	11180	3.194	Africa	SHIYEYI	1	wals	yey	2	1	NA	-20	23.5
+yga	2968	Malyangapa	ER	27	21	6	0	Pama-Nyungan	NA	4.448	Australia	MALYANGAPA	0	phoible	NA	NA	NA	0	-29.43	142
+ygr	NA	NA	NA	NA	NA	NA	NA	Nuclear_Trans_New_Guinea	21100	4.5	NG and Oceania	HUA,YAGARIA	1	wals	ygr	2	1	NA	-6.33	145.42
+yii	2891	Yidiny	ER	19	13	6	0	Pama-Nyungan	10	4.882	Australia	YIDINY	0	phoible	yid	1	0	0	-17	145.75
+yij	multiple	Yindjibarndi	multiple	25.5	19.5	6	0	Pama-Nyungan	320	5.31	Australia	YINDJIBARNDI	0	phoible	NA	NA	NA	0	-21.75	117.92
+ykg	multiple	Yukaghir	multiple	35.5	20	15.5	0	Yukaghir	370	4.981	N-C Asia	NORTHERN_YUKAGHIR,YUKAGHIR_TUNDRA	0	phoible	ytu	1	0	0	69	155
+yle	NA	NA	NA	NA	NA	NA	0	Yeli_Dnye	3750	4.138	NG and Oceania	YELETNYE	0	wals	yel	1	0	NA	-11.37	154.17
+ymm	1315	Maay	GM	32	22	10	0	Afro-Asiatic	1750000	4.25	Africa	MAAY	0	phoible	NA	NA	NA	0	4	44
+ynd	2754	Yandruwandha	ER	30	26	4	0	Pama-Nyungan	NA	5.385	Australia	YANDRUWANDHA	0	phoible	NA	NA	NA	0	-28.33	140.5
+ynn	NA	NA	NA	NA	NA	NA	0	Yana	NA	4.743	W N America	YANA	0	wals	yan	1	0	NA	40.5	-122
+yns	1335	Yanzi	GM	42	17	22	3	Atlantic-Congo	100000	3.046	Africa	MPUT_1,MPUT_2,MPUT_3,MPUTU,MPUTU_2,NSAMBAAN,TSAMBAAN_YANZ,YANSI,YANSI_2,YANZ_1,YANZ_2,YANZ_3,YANZ_KIBONGO,YANZ_KIYEY,YANZ_KUMAKUMA	1	phoible	NA	NA	NA	3	-3.83	18
+yor	multiple	yorouba	multiple	31.5	18.5	11.5	1.5	Atlantic-Congo	37726790	3.208	Africa	OKA,YORUBA,YORUBA_10,YORUBA_11,YORUBA_12,YORUBA_13,YORUBA_14,YORUBA_15,YORUBA_16,YORUBA_17,YORUBA_18,YORUBA_19,YORUBA_2,YORUBA_20,YORUBA_3,YORUBA_4,YORUBA_5,YORUBA_6,YORUBA_7,YORUBA_8,YORUBA_9	1	phoible	yor	3	1	2	7.95	5.68
+yrb	NA	NA	NA	NA	NA	NA	0	Yareban	750	3.861	NG and Oceania	YAREBA	0	wals	yar	1	0	NA	-9.5	148.5
+yre	844	yaouré	AA	45	23	18	4	Mande	40000	2.795	Africa	YAURE	1	phoible	NA	NA	NA	4	6.96	-5.55
+yrk	multiple	Yurak	multiple	34.25	25.75	8.5	0	Uralic	21900	3.925	N-C Asia	NENETS,TUNDRA_NENETS	0	phoible	ntu	1	0	0	69	72
+yss	NA	NA	NA	NA	NA	NA	0	Sepik	1990	3.135	NG and Oceania	YESSAN_MAYO	0	wals	yes	1	0	NA	-4.17	142.58
+yua	NA	NA	NA	NA	NA	NA	NA	Mayan	762520	3.462	C America	MAYA_YUCATAN,MAYA_YUCATECA	1	wals	yct	2	1	NA	20	-89
+yuc	78	Yuchi	SPA	64	38	26	0	Yuchi	16	3.294	E N America	YUCHI	0	phoible	yuc	1	0	0	35.75	-86.75
+yue	multiple	Cantonese	multiple	40.33	20.67	16	4.25	Sino-Tibetan	73355610	2.758	S/SE Asia	CANTONESE,HAKKA_TAIXING,PINGHUA__BINGYANGWANGLING,PINGHUA__BINGYANGXINQIAO,PINGHUA_BAISENABI,PINGHUA_BINGYANGWANGLINGFUXING,PINGHUA_BINYANGDAQIAO,PINGHUA_DAOXIANSHOUYAN,PINGHUA_FUSUICHENGXIANG,PINGHUA_GUILINDAQIAO,PINGHUA_LINGCHUANHAIYANGJIANGWEI,PINGHUA_LINGUILIANGJIANG,PINGHUA_LINGUISITANG,PINGHUA_LINGUIYINING,PINGHUA_NANNING,PINGHUA_NANNINGSHIBU,PINGHUA_NANNINGSITANG,PINGHUA_NANNINGTINGZI,PINGHUA_PINGLEQINGLONG,PINGHUA_QINZHOUXINLI,PINGHUA_YONGFUTAOCHENG,YUE_DONGGUAN,YUE_GUANGZHOU,YUE_KAIPING,YUE_NANNING,YUE_YANGJIANG	1	phoible	cnt	3	1	4	23	113
+yul	NA	NA	NA	NA	NA	NA	NA	Central_Sudanic	13000	3.75	Africa	YULU	1	wals	yul	3	1	NA	8.5	25.25
+yur	NA	NA	NA	NA	NA	NA	0	Algic	NA	4.4	W N America	YUROK	0	wals	yur	1	0	NA	41.33	-124
+yux	multiple	Kolyma Yukaghir	multiple	36	20	16	0	Yukaghir	370	4.506	N-C Asia	KOLYMA_YUKAGIR,SOUTHERN_YUKAGHIR	0	phoible	yko	1	0	0	65.75	150.83
+yuy	multiple	Eastern Yugur	multiple	42	28	14	0	Mongolic	4000	4.12	N-C Asia	SHIRA_YUGUR	0	phoible	NA	NA	NA	0	38	99
+yva	NA	NA	NA	NA	NA	NA	0	Yawa-Saweru	10000	4.385	NG and Oceania	AMBADAIRU,ARIEPI,KONTI_UNAI,MARIADEI,SARAWANDORI,TINDARET	0	wals	yaw	1	0	NA	-1.75	136.25
+ywr	2696	Yawuru	ER	28	22	6	0	Nyulnyulan	NA	5.194	Australia	YAWURU	0	phoible	NA	NA	NA	0	-18	122.5
+zag	1509	Beria	GM	33	21	9	3	Saharan	315000	3.325	Africa	BERIA	1	phoible	NA	NA	NA	3	15.17	24
+zai	2218	Isthmus (Juchitán) Zapotec	UZ	32	22	7	3	Otomanguean	85000	3.859	C America	ISTHMUS_ZAPOTEC	1	phoible	NA	NA	NA	3	16.42	-95
+zay	1480	Zayse	GM	32	27	5	0	Ta-Ne-Omotic	18500	4.033	Africa	ZAYSE,ZAYSE_ZERGULLA,ZERGULLA	0	phoible	NA	NA	NA	0	5.92	37.33
+zdj	1531	Shindazidja	GM	48	41	5	2	Atlantic-Congo	396000	3.306	Africa	G44a_NGAZIDJA	1	phoible	NA	NA	NA	2	-11.8	43.3
+zin	1640	Luzinza	GM	30	20	10	0	Atlantic-Congo	205000	3.814	Africa	ZINZA,ZINZA_2	0	phoible	NA	NA	NA	0	-2.55	32.15
+zku	2932	Kaurna	ER	25	20	5	0	Pama-Nyungan	NA	5.5	Australia	KAURNA	0	phoible	NA	NA	NA	0	-34.15	138.3
+zmc	2817	Margany	ER	31	25	6	0	Pama-Nyungan	NA	4.429	Australia	MARGANY	0	phoible	NA	NA	NA	0	-27	144.5
+zme	2649	Mengerrdji	ER	23	18	5	0	Giimbiyu	NA	6.329	Australia	MANGERR	0	phoible	NA	NA	NA	0	-12.25	133.17
+zml	2632	Matngele	ER	22	17	5	0	Eastern_Daly	NA	5.121	Australia	MATNGALA,YUNGGOR	0	phoible	NA	NA	NA	0	-13.83	130.42
+zmm	2637	Marramaninyshi	ER	20	16	4	0	Western_Daly	10	5.414	Australia	MARAMANADJI	0	phoible	NA	NA	NA	0	-14.25	130.67
+zmr	47	Maranungku	SPA	24	19	5	0	Western_Daly	5	5.207	Australia	MARANUNGGU	0	phoible	mku	1	0	0	-13.67	130
+zmt	2638	Marringarr	ER	32	28	4	0	Western_Daly	8	4.931	Australia	MARENGAR	0	phoible	NA	NA	NA	0	-14.25	130
+zmu	2720	Muruwari	ER	25	19	6	0	Pama-Nyungan	NA	4.529	Australia	MURUWARI	0	phoible	NA	NA	NA	0	-28.75	147
+zmv	2895	Rimanggudinhma	ER	29	24	5	0	Pama-Nyungan	NA	3.468	Australia	PARIMANKUTINMA	0	phoible	NA	NA	NA	0	-14.5	143.93
+zmx	1511	Leke	GM	28	16	10	2	Atlantic-Congo	14220	3.45	Africa	BAMBOMBA_EPENA,BENE_BOMITABA,BOLEKE_BOMITABA,BONDEKO_BOMITABA,BOSSELA_BOMITABA,BOTALA_BOMITABA,EPENA_BOMITABA,IBOLO_BAMBOMBA_BOMITABA,ITANGA_BOMITABA,KANIO_BOMITABA,KOUNDOUMOU_BAMBOMBA_BOMITABA,LEKE,LIOUESSO_BOMITABA,MATOKO_BOMITABA,MBANZA_BOMITABA,MBOUA_BOMITABA,MOKENGUI_BOMITABA,TOUKOULAKA_BOMITABA	1	phoible	NA	NA	NA	2	1.67	17.5
+zne	849	zande	AA	32	24	5	3	Atlantic-Congo	1142000	3.594	Africa	ZANDE,ZANDE_2,ZANDE_3	1	phoible	zan	2	1	3	4	26
+zoc	83	Zoque	SPA	32	26	6	0	Mixe-Zoque	10000	3.795	C America	CHIAPAS_ZOQUE	0	phoible	zqc	1	0	0	17	-93.25
+zpq	1059	San Bartolomé Zoogocho Zapotec	PH	65	28	32	5	Otomanguean	1000	3.75	C America	ZAPOTEC_ZOOGOCHO	1	phoible	NA	NA	NA	5	17.25	-96.25
+zts	1056	Tilquiapan Zapotec	PH	30	22	6	2	Otomanguean	5000	3.244	C America	TILQUIAPAN_ZAPOTEC	1	phoible	NA	NA	NA	2	16.78	-96.58
+zul	147	Zulu	SPA	43	35	5	3	Atlantic-Congo	11802100	3.595	Africa	NGONI_2,ZULU,ZULU_2,ZULU_NKANDLA	1	phoible	zul	2	1	3	-30	30
+zum	multiple	Kumzari	multiple	35	27	8	0	Indo-European	3670	3.9	W and SW Eurasia	KUMZARI	0	phoible	NA	NA	NA	0	26.16	56.42
+zun	91	Zuni	SPA	54	44	10	0	Zuni	9620	4.382	W N America	ZUNI	0	phoible	zun	1	0	0	35.08	-108.83
+zwa	1510	Zway	GM	37	23	14	0	Afro-Asiatic	14000	4.094	Africa	ZWAY	0	phoible	NA	NA	NA	0	7.93	38.83
