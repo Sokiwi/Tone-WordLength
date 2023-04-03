@@ -5,4 +5,6 @@ The scfript tones.R contains code for main analyses and figures. Instructions fo
 
 The script analyze_TeDDi.R extracts word length data for Bible and Universal Declaration of Human Rights texts from TeDDi (Moran et al. 2022. TeDDi sample: Text Data Diversity sample for language comparison and multilingual NLP. LREC 2022, 1150–1158) and correlates it with word lenght data from ASJP. The script stores the word length data from TeDDi in two R objects, wl_bibles.RData and wl_udhrs.RData, which are supplied here for convenience in case it is desirable to avoid having to download and process the large (773 MB) TeDDi_v0_1.RData file.
 
+The script analyze_NorthEuraLex.R extracts word length data from NorthEuraLex (Dellert et al. 2020. NorthEuraLex: a wide-coverage lexical database of Northern Eurasia. Lang. Resources & Evaluation 54, 273–301). It correlates that with ASJP data, and also performs correlations of ASJP 40- and 100-item lists.
+
 
