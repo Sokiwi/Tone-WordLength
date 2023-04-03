@@ -1,0 +1,17 @@
+family	corr	no_Corr	logBF
+Austroasiatic	-67.14	-71.86	9.43
+Mande	-100.15	-100.48	0.67
+Central Sudanic	-53.78	-55.17	2.79
+Nuclear Trans New Guinea	-41.44	-43.46	4.03
+Indo-European	-210.36	-212.71	4.69
+Nilotic	-70.08	-70.34	0.53
+Austronesian	-59.54	-59.81	0.54
+Atlantic-Congo	-859.96	-864.02	8.13
+Afro-Asiatic	-196.63	-199.59	5.93
+Sino-Tibetan	-176.87	-177.25	0.76
+Otomanguean	-32.12	-33.14	2.03
+Tai-Kadai	-26.22	-25.97	-0.49
+Ta-Ne-Omotic	-27.19	-30.03	5.69
+Athabaskan-Eyak-Tlingit	-36.11	-37.22	2.22
+Kadugli-Krongo	-11.59	-11.47	-0.24
+Salishan	-27.61	-28	0.78
