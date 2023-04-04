@@ -1,8 +1,8 @@
 ### The script has four sections: PACKAGES, FILE DOWNLOAD, DATA PREPARATION
 ### and ANALYSES; they should be carried out in sequence
 # the script was created under R version 4.2.1
-# FILE DOWNLOAD and DATA PREPARATION can be skipped if the lines 357 and 364 just before
-# ANALYSES loading the pho2 and pho3 objects are run since the output of those two
+# FILE DOWNLOAD and DATA PREPARATION can be skipped if the lines 357 and 364-365 just before
+# ANALYSES loading the pho2, pho3, and wld objects are run since the output of those two
 # sections are in those objects, which have been saved and supplied for convenience
 
 ### PACKAGES
@@ -129,12 +129,12 @@ w_other <- which(wld$wals_fam=="Oth")
 if ( length(w_other) > 0 ) {
 	wld <- wld[-which(wld$wals_fam=="Oth"),]
 }
-
 # take out those for which less than 20 of the 40 items are attested
 w_few <- which(wld$perc_att_40 < 50)
 if ( length(w_few) > 0 ) {
 	wld <- wld[-which(wld$perc_att_40 < 50),]
 }
+save(wld, file="wld.RData")
 
 # exclude cases of missing iso-codes from PHOIBLE
 w_na <- which(is.na(pho$iso_code))
@@ -362,6 +362,7 @@ no.nas <- apply(pho2b, 1, function(x) sum(is.na(x)) == 0)
 pho3 <- pho2b[no.nas,]
 save(pho3, file="pho3.RData")
 load("pho3.RData")
+load("wld.RData")
 
 ### ANALYSES
 # FIGURE 1
@@ -466,7 +467,7 @@ coef_plot <- ggplot(data = pho3_coefs, aes(forty_mean, count_tones)) +
 coef_plot
 
 # FIGURE 4
-# mixed effects linear regression to investigate presence of tone
+# logistic regression to investigate presence of tone
 # as a function of word length
 library(lme4)
 binary_model <- glmer(p_a ~ forty_mean + (1|continent) + (1|glot_fam), data=pho2, family = binomial)
