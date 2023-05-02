@@ -54,7 +54,7 @@ aks	1572	Akasilimi	GM	52	20	29	3	Atlantic-Congo	59200	4.5	Africa	AKASELEM	1	phoi
 akz	79	Alabama	SPA	21	15	6	0	Muskogean	370	4.795	E N America	ALABAMA	0	phoible	NA	NA	NA	0	32.33	-87.41
 alc	NA	NA	NA	NA	NA	NA	0	Kawesqar	12	5.25	S America	QAWASQAR	0	wals	qaw	1	0	NA	-49	-75
 ald	1529	Alladian	GM	36	23	11	2	Atlantic-Congo	23000	3.345	Africa	ALLADIAN,ALLADIAN_2	1	phoible	ald	2	1	2	5.17	-4.33
-ale	61	Aleut	SPA	36	30	6	0	Eskimo-Aleut	155	4.897	E N America	ALEUT,ALEUT_2	0	phoible	aea	1	0	0	54	-166
+ale	61	Aleut	SPA	36	30	6	0	Eskimo-Aleut	155	4.897	W N America	ALEUT,ALEUT_2	0	phoible	aea	1	0	0	54	-166
 alh	multiple	Alawa	multiple	27	22.5	4.5	0	Mangarrayi-Maran	12	5.037	Australia	ALAWA	0	phoible	alw	1	0	0	-15.17	134.25
 aln	multiple	Gheg Albanian (North-Eastern)	multiple	43	27	16	0	Indo-European	2223780	3.5	W and SW Eurasia	ALBANIAN_GHEG	0	phoible	NA	NA	NA	0	41.33	20.83
 alr	multiple	Alutor	multiple	27	18	9	0	Chukotko-Kamchatkan	25	6.688	N-C Asia	ALUTOR	0	phoible	NA	NA	NA	0	61	165
@@ -601,7 +601,7 @@ jun	multiple	Juang	multiple	36.5	21.5	15	0	Austroasiatic	23700	4.05	S/SE Asia	JU
 jya	multiple	Caodeng rGyalrong	multiple	60.5	51	9.5	0	Sino-Tibetan	83000	3.962	S/SE Asia	JIARONG,JIARONG_2	0	phoible	NA	NA	NA	0	31.5	102
 kaa	multiple	Karakalpak	multiple	38	25	13	0	Turkic	584670	4.051	N-C Asia	KARAKALPAK	0	phoible	NA	NA	NA	0	43	60
 kac	374	Jingpho (Gauri)	EA	NA	NA	NA	4	Sino-Tibetan	940000	3.619	S/SE Asia	JINGPHO,JINGPHO_2	1	phoible	jng	3	1	4	25.33	97
-kal	62	Inuit	SPA	38	32	6	0	Eskimo-Aleut	57000	5.775	E N America	EAST_GREENLANDIC,KALAALLISUT,WEST_GREENLANDIC	0	phoible	grw	1	0	0	65	-40
+kal	62	Inuit	SPA	38	32	6	0	Eskimo-Aleut	57000	5.775	W N America	EAST_GREENLANDIC,KALAALLISUT,WEST_GREENLANDIC	0	phoible	grw	1	0	0	65	-40
 kam	1443	Kikamba	GM	31	13	14	4	Atlantic-Congo	3893000	3.465	Africa	KAMBA_2,KAMBA_3,KAMBA_KENYA,KAMBA_KENYA_2	1	phoible	NA	NA	NA	4	-1.5	38
 kan	multiple	Kannada	multiple	45.5	35	10.5	0	Dravidian	37752570	4.729	S/SE Asia	KANNADA,KANNADA_2,KANNADA_3	0	phoible	knd	1	0	0	14	76
 kas	multiple	Kashimiri	multiple	56	27.5	28.5	0	Indo-European	5485780	3.812	W and SW Eurasia	KASHMIRI	0	phoible	kas	1	0	0	34	76
