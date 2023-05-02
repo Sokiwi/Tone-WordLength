@@ -481,12 +481,13 @@ reduced_binary_model <- glmer(p_a ~ 1 + (1|continent) + (1|glot_fam), data=pho2,
 anova(binary_model, reduced_binary_model)
 intercept <- 3.0598642
 slope <- -1.1157857
-mwl_vals <- seq(2.3, 6.8, 0.1)
+mwl_vals <- seq(1.9, 7.8, 0.1)
 y_preds <- plogis(intercept + slope * mwl_vals)
 df <- data.frame(mwl_vals,y_preds)
-plot(df, type="n", xlab = "Mean word length", ylab = "Probability of having tone / Density mean world length", xlim=c(2,7), ylim=c(0,0.6))
+plot(df, type="n", xlab = "Mean word length", ylab = "Probability of having tone / Density mean world length", 
+     xlim=c(1.9,7.8), ylim=c(0,0.8))
 lines(df, lwd=2)
-lines(density(wld$forty_mean), lty="dotted", lwd=2, xlim=c(2,7), ylim=c(0,0.6))
+lines(density(wld$forty_mean), lty="dotted", lwd=2, xlim=c(1.9,7.8), ylim=c(0,0.8))
 # abline(v = mean(wld$forty_mean), lty="dotted")
 abline(v = mean(wld$forty_mean), col="red", lwd=2)
 grid()
