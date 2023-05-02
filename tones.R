@@ -6,7 +6,7 @@
 # sections are in those objects, which have been saved and supplied for convenience
 
 ### PACKAGES
-# The three following packages are used: lme4 (version 1.1.30), 
+# The three following packages are used: lme4 (version 1.1.30),
 # rworldmap (1.3.6), colorspace (version 2.0.3), vioplot (0.4.0)
 # ggplot2 (3.4.1), dplyr (1.1.1), tibble (3.2.1)
 # they will get installed if they aren't already running the following
@@ -14,7 +14,7 @@ packages <- c("lme4", "rworldmap", "colorspace", "vioplot", "ggplot2", "
               dplyr", "tibble")
 for (i in seq_along(packages)) {
   if ( (packages[i] %in% installed.packages())==FALSE ) {
-    install.packages(packages[i], repos="http://cran.us.r-project.org", 
+    install.packages(packages[i], repos="http://cran.us.r-project.org",
                      verbose=FALSE, quiet=TRUE)
   }
 }
@@ -34,7 +34,7 @@ for (i in seq_along(packages)) {
 # you can change that using setwd("C:/myfolder/mysubfolder/.../..."))
 # Now you are ready to download the three datasets used in the study,
 # namely Phoible, ASJP word length data, and WALS.
-# This will be done for you by the script. 
+# This will be done for you by the script.
 options(timeout=180)
 
 # Phoible data is in cldf-datasets/phoible-v2.0.1.zip downloaded from https://zenodo.org/record/2677911
@@ -51,7 +51,7 @@ download.file("https://zenodo.org/record/7385533/files/cldf-datasets/wals-v2020.
 
 # Data from EURPhon have been downloaded from https://eurphon.info/downloads and are in
 # languages.tsv and tones.tsv supplies here.
-# The file languages.tsv has extraneous newlines that need to be removed by 
+# The file languages.tsv has extraneous newlines that need to be removed by
 # hand; they were removed in the supplied file
 
 ### DATA PREPARATION
@@ -59,17 +59,17 @@ download.file("https://zenodo.org/record/7385533/files/cldf-datasets/wals-v2020.
 # the following code will unzip the relevant files for you,
 # rename them to avoid same file names from different datasets,
 # and will delete the zip file
-unzip("phoible-v2.0.1.zip", 
-  files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv", 
-  "cldf-datasets-phoible-f36deac/cldf/languages.csv", 
-  "cldf-datasets-phoible-f36deac/cldf/values.csv"), 
+unzip("phoible-v2.0.1.zip",
+  files=c("cldf-datasets-phoible-f36deac/cldf/contributions.csv",
+  "cldf-datasets-phoible-f36deac/cldf/languages.csv",
+  "cldf-datasets-phoible-f36deac/cldf/values.csv"),
   junkpaths=TRUE)
 file.rename("contributions.csv", "contributions_phoible.csv")
 file.rename("languages.csv", "languages_phoible.csv")
 file.rename("values.csv", "values_phoible.csv")
 file.remove("phoible-v2.0.1.zip")
 
-# the following operations unite the essential data from Phoible in a 
+# the following operations unite the essential data from Phoible in a
 # data frame called pho
 contributions <- read.csv(file="contributions_phoible.csv")  # basic data on tones
 languages <- read.csv(file="languages_phoible.csv")  # metadata
@@ -80,7 +80,7 @@ names(meta) <- c("ID", "Language_ID")
 m <- match(meta$Language_ID, languages$ID)
 iso_code <- languages$ISO639P3code[m]
 meta <- cbind(meta, iso_code)
-pho <- contributions[,c("ID", "Name", "Contributor_ID", "count_phonemes", 
+pho <- contributions[,c("ID", "Name", "Contributor_ID", "count_phonemes",
                         "count_consonants", "count_vowels", "count_tones")]
 m <- match(pho$ID, meta$ID)
 iso_code <- meta$iso_code[m]
@@ -98,10 +98,10 @@ if (length(out) > 0) {
 }
 # add data from eurphon
 el <- read.table(file="eurphon/languages.tsv", header=TRUE, # eurphon.languages
-                                sep="\t", quote="", na.strings="", 
+                                sep="\t", quote="", na.strings="",
                                 comment.char="")
 et <- read.table(file="eurphon/tones.tsv", header=TRUE,  # eurphon.tones
-                                sep="\t", quote="", na.strings="", 
+                                sep="\t", quote="", na.strings="",
                                 comment.char="")
 el.data <- matrix(NA, nrow=length((el$id)), ncol=ncol(pho))
 colnames(el.data) <- names(pho)
@@ -111,10 +111,10 @@ el.data$Name <- el$name
 el.data$Contributor_ID[1:nrow(el.data)] <- rep("EA", nrow(el.data))
 el.data$count_tones[1:nrow(el.data)] <- rep(0, nrow(el.data))
 tone.table <- table(et$language_id)
-w_tonal <- match(as.character(names(tone.table)), 
+w_tonal <- match(as.character(names(tone.table)),
                        as.character(el.data$inventory_id))
 number_tones <- as.vector(tone.table)
-el.data$count_tones[w_tonal] <- number_tones 
+el.data$count_tones[w_tonal] <- number_tones
 el.data$iso_code <- el$iso_code
 pho <- rbind(pho, el.data)
 
@@ -154,12 +154,12 @@ for (i in 1:length(isos_pho)) {
 		ID <- pho$inventory_id[w_iso]
 		Contributor_ID <- pho$Contributor_ID[w_iso]
 	}
-	add <- c(ID, 
-	         merge_set[1,"Name"],  
+	add <- c(ID,
+	         merge_set[1,"Name"],
 	         Contributor_ID,
-	         round(mean(merge_set[,"count_phonemes"], na.rm=TRUE),2), 
-	         round(mean(merge_set[,"count_consonants"], na.rm=TRUE),2), 
-	         round(mean(merge_set[,"count_vowels"], na.rm=TRUE),2), 
+	         round(mean(merge_set[,"count_phonemes"], na.rm=TRUE),2),
+	         round(mean(merge_set[,"count_consonants"], na.rm=TRUE),2),
+	         round(mean(merge_set[,"count_vowels"], na.rm=TRUE),2),
 	         round(mean(merge_set[,"count_tones"], na.rm=TRUE),2),
 	         merge_set[1,"iso_code"])
 	add <- t(data.frame(add))
@@ -213,7 +213,7 @@ for (i in 1:nrow(pho)) {
 		if (pho$glot_fam[i]=="Chibchan") {pho$continent[i] <- "C America"}
 		if (pho$glot_fam[i]=="Cochimi-Yuman") {pho$continent[i] <- "W N America"}
 		if (pho$glot_fam[i]=="Dravidian") {pho$continent[i] <- "S/SE Asia"}
-		if (pho$glot_fam[i]=="Eskimo-Aleut") {pho$continent[i] <- "E N America"}
+		if (pho$glot_fam[i]=="Eskimo-Aleut") {pho$continent[i] <- "W N America"}
 		if (pho$glot_fam[i]=="Indo-European") {pho$continent[i] <- "W and SW Eurasia"}
 		if (pho$glot_fam[i]=="Kiowa-Tanoan") {pho$continent[i] <- "E N America"}
 		if (pho$glot_fam[i]=="Mongolic") {pho$continent[i] <- "N-C Asia"}
@@ -253,9 +253,9 @@ pho <- cbind(pho, source)
 # the following code will unzip the relevant files for you,
 # rename to avoid same file names from different datasets,
 # and will delete the zip file
-unzip("wals-v2020.3.zip", 
-  files=c("cldf-datasets-wals-878ea47/cldf/languages.csv", 
-  "cldf-datasets-wals-878ea47/cldf/values.csv"), 
+unzip("wals-v2020.3.zip",
+  files=c("cldf-datasets-wals-878ea47/cldf/languages.csv",
+  "cldf-datasets-wals-878ea47/cldf/values.csv"),
   junkpaths=TRUE)
 file.rename("languages.csv", "languages_wals.csv")
 file.rename("values.csv", "values_wals.csv")
@@ -340,7 +340,7 @@ lgs_count <- length(which(!is.na(pho2$forty_mean) & !is.na(pho2$count_tones)))
 lgs_count  # 1380
 # in case you want to inspect the data in a file
 # the following line can be run:
-# write.table(pho2[which(!is.na(pho2$forty_mean) & !is.na(pho2$count_tones)),], 
+# write.table(pho2[which(!is.na(pho2$forty_mean) & !is.na(pho2$count_tones)),],
 #   file="pho_tones_count_wl.txt", sep="\t", quote=FALSE, , row.names=FALSE)
 
 # count how many languages at disposal for presence/absence and word length
@@ -350,14 +350,14 @@ lgs_p_a  # 1488
 length(which(pho2$source=="wals"))  # 257
 # in case you want to inspect the data in a file
 # the following line can be run:
-# write.table(pho2[which(!is.na(pho2$forty_mean) & !is.na(pho2$p_a)),], 
+# write.table(pho2[which(!is.na(pho2$forty_mean) & !is.na(pho2$p_a)),],
 #   file="pho_tones_pa_wl.txt", sep="\t", quote=FALSE, , row.names=FALSE)
 
 save(pho2, file="pho2.RData")
 load("pho2.RData")
 # reduce to the columns needed
 pho2b <- pho2[,c("iso_code", "glot_fam", "continent", "lat", "lon", "count_tones", "forty_mean", "p_a")]
-no.nas <- apply(pho2b, 1, function(x) sum(is.na(x)) == 0) 
+no.nas <- apply(pho2b, 1, function(x) sum(is.na(x)) == 0)
 # retain only those
 pho3 <- pho2b[no.nas,]
 save(pho3, file="pho3.RData")
@@ -366,8 +366,8 @@ load("wld.RData")
 
 ### ANALYSES
 # FIGURE 1
-# violin plot for MWL, one per number of tones
-library(vioplot)
+# boxplots for MWL, one per number of tones
+# library(vioplot)
 MWL_0 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==0]))
 MWL_1 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==1]))
 MWL_2 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==2]))
@@ -380,7 +380,9 @@ MWL_8 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==8]))
 MWL_9 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==9]))
 MWL_10 <- as.vector(na.omit(pho2$forty_mean[pho2$round_count_tones==10]))
 N <- sapply(list(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10), length)
-vioplot(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10, 
+# vioplot(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10,
+#         ylim = c(2,7), xlab="Number of tonal distinctions", ylab="Mean word length", xaxt="n")
+boxplot(MWL_0, MWL_1, MWL_2, MWL_3, MWL_4, MWL_5, MWL_6, MWL_7, MWL_8, MWL_9, MWL_10,
         ylim = c(2,7), xlab="Number of tonal distinctions", ylab="Mean word length", xaxt="n")
 xtick <- c(1:11)
 text(x=xtick, par("usr")[3], labels = c("0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"), pos = 1, xpd = TRUE)
@@ -433,8 +435,10 @@ coef_plot <- ggplot(data = pho3_coefs, aes(forty_mean, count_tones)) +
   geom_abline(aes(intercept = Intercept, slope = Slope), linewidth = 0.7) +
   geom_abline(aes(intercept = intercepts, slope = slopes), linewidth = 0.7, color="red") +
   facet_wrap( ~ glot_fam, labeller = labeller(glot_fam = labels)) +
-  xlab("Mean word length") + ylab("Number of tonal distinctions")
+  xlab("Mean word length") + ylab("Number of tonal distinctions") +
+  theme_bw()
 coef_plot
+
 
 # FIGURE 3
 cont_count <- pho3 %>% group_by(continent) %>% summarise(Count = n()) %>% arrange(desc(Count))
@@ -463,7 +467,8 @@ coef_plot <- ggplot(data = pho3_coefs, aes(forty_mean, count_tones)) +
   geom_abline(aes(intercept = Intercept, slope = Slope), linewidth = 0.7) +
   geom_abline(aes(intercept = intercepts, slope = slopes), linewidth = 0.7, color="red") +
   facet_wrap( ~ continent, labeller = labeller(continent = labels)) +
-  xlab("Mean word length") + ylab("Number of tonal distinctions")
+  xlab("Mean word length") + ylab("Number of tonal distinctions") +
+  theme_bw()
 coef_plot
 
 # FIGURE 4
@@ -474,15 +479,17 @@ binary_model <- glmer(p_a ~ forty_mean + (1|continent) + (1|glot_fam), data=pho2
 summary(binary_model)
 reduced_binary_model <- glmer(p_a ~ 1 + (1|continent) + (1|glot_fam), data=pho2, family = binomial)
 anova(binary_model, reduced_binary_model)
-intercept <- 3.032098
-slope <- -1.1128116
+intercept <- 3.0598642
+slope <- -1.1157857
 mwl_vals <- seq(2.3, 6.8, 0.1)
 y_preds <- plogis(intercept + slope * mwl_vals)
 df <- data.frame(mwl_vals,y_preds)
-plot(df, type="n", xlab = "Mean word length", ylab = "Probability of having tone / Density mean world length", xlim=c(1,8), ylim=c(0,0.6))
+plot(df, type="n", xlab = "Mean word length", ylab = "Probability of having tone / Density mean world length", xlim=c(2,7), ylim=c(0,0.6))
 lines(df, lwd=2)
-lines(density(wld$forty_mean), lty="dashed", lwd=2, xlim=c(1,8), ylim=c(0,0.6))
-abline(v = mean(wld$forty_mean), lty="dotted")
+lines(density(wld$forty_mean), lty="dotted", lwd=2, xlim=c(2,7), ylim=c(0,0.6))
+# abline(v = mean(wld$forty_mean), lty="dotted")
+abline(v = mean(wld$forty_mean), col="red", lwd=2)
+grid()
 # get summary data on mean word length
 summary(wld$forty_mean)
 
@@ -510,6 +517,6 @@ mi_tone <- mi[-which(mi$p_a==0),]
 map <- getMap()
 plot(map)
 palette("default")
-points(cbind(mi_tone$lon, mi_tone$lat), pch=20, 
+points(cbind(mi_tone$lon, mi_tone$lat), pch=20,
    col=(mi_tone$cats * 3 + 1), cex=2)
 palette("default")
